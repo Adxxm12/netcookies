@@ -1,0 +1,29 @@
+NETFLIX FREE :👇
+
+Name: MINETUBE02
+Email: florinscripcariu6@gmail.com
+Country: DE
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (3): MINETUBE02, Theodora🥰, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1819393286	OptanonAlertBoxClosed	2026-08-27T19:01:26.038Z
+www.netflix.com	FALSE	/	FALSE	1787943684	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1787943681	gsid	5892c3dc-5ca8-4a72-b4b3-08f59d1351d3
+.netflix.com	TRUE	/	TRUE	1819393302	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA5ENv0pzHExZU8vy4nR1IVtRBysDZKSK0LlhLehHH_RWZIlUCZM9k-gdFAe31-UixSUdZqKAPJkt-HiyHiAvXaRuJE7XDZB7VMxoxPfG57O0hhqHT3BE_GCfPgrje-RZiFws48eblave-HN6uq7EgjGP2fFOlSxn6SNao_o_1Fk--HLw0u8IQk8HwgkE4hQ-458RL0Oe3RWKcXDn9G9gmcqr8exUUdmFdFBBTHtnAo9qD3PCxOL2yCY6I0asVBElWOGvKLR_OZrUAGGAWAv1dhrUGOt4TdjSNY5eDhL8Ko3ghdaxvH6SRk__wZo5aipq3Sx0rGxStFSrdmv-9-SP8-9cx348YxwunV3rm_OEleiFtJMfENPReRbpsOI464cCWWoQ4bVGkoNU-ZdYGxhesVgiVYMerGFuz-3lQ9u6292kJiwcrycNwHckvJJLF5-b8XzxCjHL8wwBaZxt8W3k2rzNJwCJaQcZ8wrYGJetGcGuSif3HiCtifTjooeqSEPCoJKbb6_I57UAdON2N1QBs9C7ovU2uSAkavm13tP1CPGGsN4_p_UeqXOBGAYiDgoMVrJ46ByEAEM28b4j%26pg%3DQEZJ4ZHOZRFUXDY5VNJPGAH534%26ch%3DAQEAEAABABQEBKB0bGBzmtd0DQmERCQuxX9EUFz8HG0.
+.netflix.com	TRUE	/	TRUE	1819393302	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRD-iBGtuVhWatrruxI673oN6xBgcfRXYI.%26dt%3D1787857303659
+.netflix.com	TRUE	/	FALSE	1819393302	nfvdid	BQFmAAEBEGMrxk3Pg9xGc2QQFA7cRx5gHzIFQ73UrQPn-gkb0hcTNgpJXZ6Oof-_9TJ3s5jUS2l4sgIOyFvH6jGfGPgWX-3zsOCq9aISUpzTq1bYMAaT-oV9o2zfEKid_L4JrvUTWl6Ll3kWYCiiXDmgZOrlEDoR
+.netflix.com	TRUE	/	FALSE	1822417458	dsca	customer
+.netflix.com	TRUE	/	FALSE	1787868258	flwssn	99b3f63e-cfa0-4fcf-918c-1a46a9d6fa8c
+.netflix.com	TRUE	/	FALSE	1795633458	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795633458	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787859241	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1819393458	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+27+2026+22%3A04%3A18+GMT%2B0300+(Eastern+European+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=916b9d3a-740c-406e-b6e2-dc71a4962cf1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&lastConsentTs=1787857286&intType=3&crTime=1787857286471&geolocation=RO%3BBT&AwaitingReconsent=false
+secured.netflix.com	FALSE	/	TRUE	1822417460	tmx_guid	AAxAi2llUe6Q7br1xh7mFxKldr9t1gqsI7gwjGTlo4D8rK99TLgy7Wxy4YRIi-0n0ClDLQjWAHLe4hNU8uXXoyKJaSrzHA
+secured.netflix.com	FALSE	/	TRUE	1822417460	thx_guid	c415a891416c1df979c0e32b5dc43cff

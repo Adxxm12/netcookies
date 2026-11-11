@@ -1,0 +1,19 @@
+NETFLIX FREE :👇
+
+Name: sazviy
+Email: lianawllw14@gmail.com
+Country: CO
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (5): sazviy, zarith, Alex, lini, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	13443566625324274	nfvdid	BQFmAAEBEFJ0bO4mn2rjqURo1rxjTzlgAdFhykX-ZQKsRnboC9oW4XO8MIPkNC6OJtwHUi1pv4kAW628Qjdm6y0-Oo_MAdmEhQZJZe_KKCg5U7c-TiYqYY1N_5uQEYcGKn65ScYkBzxDD2yzq-NlFcxpHodYKTq4
+.netflix.com	TRUE	/	FALSE	13444263289000000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+16%3A34%3A49+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8dff6da6-5c87-4c8f-813f-8b601168cc1f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	13444527040657828	NetflixId	ct%3DBgjHlOvcAxLwAy5HBInVAQbJO5iBOQObaneHv8Ab0bd-pnv2Gkrhmd5Cpyce_Aa-IT4O2wKNQfzyj14D_9p1Jjdq0tj3Jev-rjD7Ec7Y5b-sSpo4W79FuR27lm4BuPUHIX3gDKuxz2RcJkBkQ5l3Pt1CvcxVlTqEP7RTGqJD1RL5iTrSOvKJDMV0yG3v10CgFPMEnYizYVBE5k7MoGP5S7fGB1472DGsJs4mk9sOaf1U3BXL-kp9830PNYkaE32Hp9m7qO9PzPlm6tqMqvgiWru76d2BRCVj9zHLaRcVhg1SgKNiLcBJc7RtuRLodKp6JqBJtzTtJB_PNRMULebrKuwY7LMOuf3uDDyQncAMkv41Toh_Fx_lcYV0DmKvobPSb_dsujZDLuRhLzCqCMA2Ld60X3smL4cB4gPPjoxSlfSvWMgULBN6qrYwsKWUk69ZQAd7XD8BZ-o_FLJY6OA6Eo90qIjvO7IzM_SxHKjecYg0-TlRLwvPjheEhLsPkQpxXAH4xhTlLCXdNwYhj_86n1bmBIbi0HsUS1OysyotHndDR6I6rWmcB6Sn16AQQCJ9VqnQLbpyqr0O6o3RAuoo3QPfC5fKUUKKyPVbsMIz5Qgkgc1jsUYrY6SN_LlbBH_Y-KbECTkpbmy8c182TOH7xevmCEiTKL8j65kYBiIOCgwm3d6_Jyk-5kotWUM.%26ch%3DAQEAEAABABQW08Hb0Jaok5ympJnYsbRkDUCxJycCcBU.%26v%3D3%26pg%3DXH5DSMVILFHT3O5CVA53I3YB5I
+.netflix.com	TRUE	/	FALSE	13444527040657714	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjpQFktAV8rdfaRmb3UMyghLHiBxRu7xs.%26dt%3D1768517440520

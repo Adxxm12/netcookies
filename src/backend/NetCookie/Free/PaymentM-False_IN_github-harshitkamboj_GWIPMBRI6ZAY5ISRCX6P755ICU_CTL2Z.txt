@@ -1,0 +1,23 @@
+NETFLIX FREE :👇
+
+Name: prasenjitsingha723
+Email: prasenjitsingha723@gmail.com
+Country: IN
+Plan: Free
+Email Verified: Yes
+Profiles (1): prasenjitsingha723
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+www.netflix.com	FALSE	/	FALSE	1789482429	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1789406825	flwssn	e1a76a18-ded2-48e3-be8f-ac7f8c95eb00
+.netflix.com	TRUE	/	TRUE	1789482425	gsid	ba3f3cdf-a31b-4ee7-9b1f-a3971fa9cb1d
+.netflix.com	TRUE	/	FALSE	1797172028	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797172028	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1820932082	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA4pSvMaTq27kPNpw7ekJF3jJNFTW3XKjHV77f6NacFaftxgNXi48tFQeDzFYjcRGFuG4wIg1Gfi9AemGdW2dXMPOFla8SjoUK51RcFMSvmTX6jwJNvvpBLMRCwLIS6xXN1mJ4iQytvGMYYJn_NzZBnuDlf33UqZuLweljqhV2Fbuiajs0QhBOSHC2j4di0UMMKVhTgQjgin0xmUuEHwGV5VMGbl9LSAvDnTRfZYpgbICtOJS4Rq0KYb7FSzvnX6DIc7nOjXjl-RAiXoqK8Yt3xsX1KDD1ovS3kzgz4sZ8HLX-eYKLkPK2c8kYbn6MuqjmDFEc012yLJYZx4KuvT6lH7R_vswuRv2nr-K9_wne4Bwo4RmP-Ezk9sUxjGsAcRjEbT4sCAK4fVdVOoxJkVecgM2ZC9kpFO5BVZJAEgE6d8jkAr0vjDAfdqwPpYP_BLmQ6Ua0KROWt0LKwRqM2eK78X49IyVkvf8qQ3nytd5tSylfwsTqkDsfTeFw7-HGI_SjkO7XYQNwQVbs0SnSIO7Hid1JEEYSxpk6UnI2lopN11mdhji6wMYBiIOCgzATKqSjQU_CQ8vW5g.%26pg%3DGWIPMBRI6ZAY5ISRCX6P755ICU%26ch%3DAQEAEAABABTctEJSkxBs5KmQlQ0kZCm_IY8_8Q8Jgbc.
+.netflix.com	TRUE	/	TRUE	1820932082	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQy0eAqQ7hOZnp3Mc_NxB6EY8pdSVEA2Xk.%26dt%3D1789395999579
+.netflix.com	TRUE	/	FALSE	1820932082	nfvdid	BQFmAAEBELrCuOkN8ktJjUTdGI0F7IFgCORG8vESVnLSWji3HNTu7XM5WhIESfAL4gL-OlEgJmkNTErK1h35TTdrIn3mcfgxeLKoq7n4M5LhT08TmfjErYr3gE4uqg7hVK_ivDyduvb5VYD3-2716ScpPCGb5R27
+.netflix.com	TRUE	/	FALSE	1820932106	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+14+2026+19%3A58%3A26+GMT%2B0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=349b9c4d-9ca3-4530-a246-ef07a59d0c07&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789396106501

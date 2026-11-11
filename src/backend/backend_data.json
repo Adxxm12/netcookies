@@ -1,0 +1,292 @@
+{
+  "claims": {
+    "08fa1c31-bdfb-47a3-b46f-ed717391f894": [
+      {
+        "id": "cfb0ce58-e4ee-4e16-b964-ef6b53010375",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAUv++hE01I1Inz1iEj4QkIsqMgRwd2uJ2S+Gv76zQuDKmSk6MejKuv7EiHLnbnnHpldE6jvb2sSZem2aRx2xfhgKMy37HOWgeOOu3t2it1NFRAqr915P9+mqEu55k9iz3xaf+OvwZsqktkWrr6bjS9tsRA/NPEnCyGudjzxarNdZChOaf0w87r1vwaO4871w8XgFienkbHp151ADiViex91+iug0thaGGErx+N+dG3GV2w4RPimW+RW2NkqAaHLPQF4pGAYiDgoMy5jAM9pgfMaTjV1u",
+        "claimed_at": "2026-11-11T23:29:17.909042+08:00",
+        "product_id": 1,
+        "plan": "Premium",
+        "country": "ID",
+        "email": "moviecinemora@gmail.com"
+      },
+      {
+        "id": "12f3ff21-e854-4c9d-b9d3-b9b4d533f357",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAT5nkUSjz8nN4XtMtNjvxiKYIgKsHNYG/TEbVVd9xjvlxbOKsasSXsM4r4TEknEv1u6Z9sA/PJ8tsDt3ChfrszVr0LRhmfkxLYH/E64SkUcxaDqInI71p1yuLLO7/Su1oGgTMlSsTuOcwSy9bTNwluEgfc6sOuEwLsGx8iexTengcI2Kf1oOZSAOq7Ent8b5nlxtynUVljpX0WfqHvcbrOYDR7Z1wLeoENLBwFbBkBkPoHcNzZm8K6YEDHt7kb9Iq8a0GAYiDgoMpGQ+1DtbGK/ebKZ3",
+        "claimed_at": "2026-11-11T23:29:42.383855+08:00",
+        "product_id": 2,
+        "plan": "Premium",
+        "country": "KH",
+        "email": "longpremium189@gmail.com"
+      },
+      {
+        "id": "c27e512a-be6f-4de3-bb42-9aa54a1e0758",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAYhOt7H2tNpwKI8JJXozUb36T1okP/MD6IqKMGbUFVoZzWI1TK/qXsPuaetgxmUMWNy2JwVY12tO1Jji5wjkMFMwrnUuBkjfvfF1uwU79Psr8P6RkC6OoS+YNX9I3mZH8kX2rkxpsVkSJgOnR6Ons+Z+l9lubeAn2Fsyz73TFSjxymuhEGytLLjLecyIKdufdkqzDVo+ZCTNCkX4cgrYO/hJS2jkD1ertuXs7ie1Wobr4DzbzOz/D19YLS9pTLjvXCwTGAYiDgoMa+B2hIQDjNY0Kiaa",
+        "claimed_at": "2026-11-12T00:01:57.417017+08:00",
+        "product_id": 9,
+        "plan": "Premium",
+        "country": "PH",
+        "email": "flixn0162@gmail.com"
+      },
+      {
+        "id": "e3a2928a-c34c-4aec-802c-603b9747495d",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAbieFrKUC4BFv0/2p5SrBdBHvjRBuZ20KnKdXm6i9virncngU1fe54AmQ0Z90/2yHtBI2OtgmWwu8FdCaLF9RWiNwaGtuyTdtsyKWx1CoJ88milEGqpsykhYTWO+Lk0WgD6JS29u4uJhQL18fsJVz+YjfeuhCt6NFFv/mtW+wHZNPbC988DQsuVr73x/McYOhdyEq4NuxYNKJAN06xlZc1OcKgG/0UvxWNt8uR8gYw6ll7vMsoaDfOR/IKgZ1jMf9qTfGAYiDgoMMR7eHcCR30prqESV",
+        "claimed_at": "2026-11-12T00:03:03.778526+08:00",
+        "product_id": 10,
+        "plan": "Premium",
+        "country": "SA",
+        "email": "rufinobaladad@gmail.com"
+      },
+      {
+        "id": "6e7ee458-2728-4528-b1cb-ebc7d43228e8",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAW23H/reYYC7ar+bICnj/MPbRZU1tNcwWNj86qdP578z2cPsi3U5+x5i6NfcqIrjcfQH+ITPKoRIgZIBvsVFp8O/K63MjLKqqNJmZCu8d+BOP5gpbIPuVupthcE9D7ERR5DWDYpRMBIrkXpCQwVZFOcZNDYTd7we2eBJP3/w82wRmYohJiryehdmD6mbiGDc2jp3TAnU9oWVyDoTh+UhdD7TcO1gGsLZ7LbQozd1Yxc10EWG9HclN+gtUpce51SBmyjIGAYiDgoM4hOJIZxSbnwp4q7V",
+        "claimed_at": "2026-11-12T00:47:51.535763+08:00",
+        "product_id": 1,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "00cc9b0e-fd4a-42f4-8854-8e390a4b4321",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAXwW3vgFJ+NOZ6kE/hmkVw8W9JX+N+zTXxWqKkCt+65qZesxpDeBpLDUGrBRbWwI5rXch4sqwRUjfo8ayDZ9dJOXGXNLyS2sm74PvaXsN5/Rurz60FphX2WY5Q2M81JWl9GMXxwX4jir/yAuqnMtNi5EPwGd6qNqYpQx9vtq98iVmD3zQ5U48AOY0HKALFsbiY60AOADFgmLqr7ea7WcAzRmYSHLeJWgkSqJ/+nDzAG509InXRKkcO1d6ccgMr+4YTHBGAYiDgoM0dzTePrVXz2+ZEum",
+        "claimed_at": "2026-11-12T00:56:00.439117+08:00",
+        "product_id": 1,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "9d8f2a78-b2b0-45e6-bcf9-72f36a195637",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAWcBfVEwNE7VFNYKBw1u8NRceolHvNadrRnCS5+B9umWn/J/VYK0IDV1HdEJ4dLmblVTYA5yKTzmSPfY5dQhvKXxbrtHsxJaWHkmZcE6YB+fcrmbxLAE8oWJapY/NdMFXB43VTFCtE7GLZqibd29WjDihQ2PLZFycLA6t332+opr3qY9Je0k7DX5gC3hy3W7Ol82BjUTy3YBSRcLSZ331Ltc60HJ5krHYhEIxFIyFLR3FBfohZx4qNGPDj6geE17+CX8GAYiDgoMlSwMqMLffGuINXcS",
+        "claimed_at": "2026-11-12T00:56:37.049221+08:00",
+        "product_id": 2,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "1814d6e9-a225-41ac-9e68-1c5dbedd0c9b",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLDAdNMCLQwrDPr29mTeicCe8q6nDSwcRKEJsLhDlMKZ37EpzmoNGwe9FJAQU0H+QNOoELK924JrN/hV/DFCTa3cdtL8ErhfAa5+ZZb1zc2k8xj6L/SaOBl5aRqBn0xwIkKD6L1hKiDX7qwOSfXpCeo14z+UxWFRo95WSj5DkJehjATv5PeokVrZPAllmhUbnvZZBBeiC2bRsKe0Qo/eDfxBYvOhw0ooH+uMIH25QYOSOgKZIZc8PveOxwYKdyuRD+DlZdhzhgGIg4KDHGKBaRPbSow24vbIA==",
+        "claimed_at": "2026-11-12T00:58:17.154267+08:00",
+        "product_id": 5,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "bea3130b-0162-480a-9d6b-15850d6e4af2",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAStJNnOVkSl/V5rMq3Yk2nKR2FJVMAZel4opfcifS4M6fWZmqEzyUfITWefvvGtAbFohi3efuqbwz+6Eu0Gsar2VWwiX0UhYlVzIJ10SPh1j6qyXOU5BB1N4H/jU1Lw+TY1oLWHVaGWNSfhLg7wTOM27Hhqn22sXGjVGZLGfk0pxh3ZGu5s50pTmf1mtNDn+Ee6J3UCi+8vHzBMCJNRKKwZ1ueesTLDwaWOw1fw+20uTHaslZHTaRHMQvvzVgyIaalpUGAYiDgoMO+MT8Fi4Dtjp929y",
+        "claimed_at": "2026-11-12T00:58:26.214356+08:00",
+        "product_id": 6,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "b71c7488-80df-4806-b7e2-8abb1989a3e2",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAZ0wNxiUpImVsk8qlscn4N9Z9xKbMi/EB4j5s3duXDmJdRIqDFCQY+B7A4yZAy0fs5hRpSj4pV/6cnlU/AAY/YG+FdE+9iLilBLU88b57s0X95W/Qk/Pw0iX8xA5JC4P+UVXTz1fHnBdG9aCBPzRNDwMtg/WS0cOW3eInGxKoHUbsRbqRqdVwHEQTGZf9R+Sryx+3hm0SlrfLAZTHkOpakj15Hf94LSlO8NooW/os5opImgBJFGtT3vT3R0VMrvPv4TOGAYiDgoMVhStqODlL+WUPnKr",
+        "claimed_at": "2026-11-12T01:00:06.824053+08:00",
+        "product_id": 9,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "6efd1d65-d5ec-4943-8468-b15fc3768012",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAWEtRWPXEOit58n/8/Uuk5lS9m6e08q4F8lbuoS6qsmGtEiZPbD07d9MJonskn6ZdCJ0hDD7d0e+FUS9p8knLir2JFxDxVwIrfqSkNCPcKoiB4ssBl1OrXeO+LSkZzjcgVBp5S9UiXyyhbENCHT0MHpVP5GNVU3Ljfzh6rb1iNp9gJSoJXL3u/cayNSehHOMBe5MZTI6En73SXIFHH/Z8NkMEb4XMhAwQJU524QzFNxG5jg/Lky0UQLVT9prRsEA4kcGGAYiDgoMlxAMm/yDzsaRlBpX",
+        "claimed_at": "2026-11-12T01:00:48.004949+08:00",
+        "product_id": 2,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      },
+      {
+        "id": "b667d2b7-8962-447b-9e3a-e97bb435f537",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAa9itIlFzZgyt/hxZFEh3Ry6bAjy5BCGHJYrJJ933XzgGzmA6Dn90Y+IC+5CSc6eY5DbzfkIBBh+hqrIB+eoXiwjWFGiMXIxZ+3w8CTQ97tUECe9PUgQMSrJeiyhzmleg4VwvjHgI0VBrqbxN782HvdUCwKWCLUK0TRAT225zCYMkeQtfEtb0EZ8jElOEho3o0aQoYayPLeAh4X/4rvFvfLjltzOFay//ltM5CeEwfYwheqcaOsJOIZnh/7Bzctncj4YGAYiDgoM8hQQij3vnEHANdm4",
+        "claimed_at": "2026-11-12T01:01:21.997855+08:00",
+        "product_id": 8,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      }
+    ],
+    "64277560-4a76-4bf6-9344-3b72b52b852d": [
+      {
+        "id": "401d44d9-3c2e-49fe-a506-31910535cf70",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLDAS4UVvh30GQ2VYUREkZyrAHUx+S3kRJPjxJQYrJbKXhs8RHFGe8x5UoJdWPbBzZBJi1ddhAO9APgEZykERfBcLJxzNRA3mOuNJwCnSbjtwJg6iTwFHvYxoOXjpgd2Wvr/8loUI4QT30HSFSySNLiaGPpvZVPbfcauZ9ZBKmMPyW7OtYLdfXJBe0O9xreDlD7LmhDaxd39FN6iM1yG6IU2N3ebTAfRSHukmXYAM+8ZtJnmxYHQ2kicEbIZVzgQrD+40BKDhgGIg4KDKlcZ6Jm6bjo9EVE5A==",
+        "claimed_at": "2026-11-12T01:04:17.937822+08:00",
+        "product_id": 3,
+        "plan": "Unknown",
+        "country": "-",
+        "email": "-"
+      }
+    ],
+    "4e68ae1c-6259-4091-823f-df6196776537": [
+      {
+        "id": "c1ef840e-e15d-4b3e-9813-b0e0b008c0f9",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAWgKld7cc+3BpBRolZbybtclFDWaYXDzPsP+dAL1UWWXv9wbaHRTa/3z/62qm5Fpyv1a/EU4O92lENzyZ5ptgdcRLQIL6BqCq7svilzJ9TdOzpdSsFtZ2rm+ye7R5iYkpXsD5HLDJXaU6ZlnthHLoRD0FZyzAzlOkGv8yfmd+J0ldehERymaOrEM5kQme1L+SGQGItYtEqBwKT1znwf6p6F1NsOPmjpUwb2KiWyIaRgu/vv21UyGVwpTf6a6gL+mjp7FGAYiDgoMhTJ25Z/3PEpsTJbR",
+        "claimed_at": "2026-11-12T01:07:49.377169+08:00",
+        "product_id": 1,
+        "plan": "Free"
+      }
+    ],
+    "eadb4538-7cbf-40b7-9b40-104611e7d1d8": [
+      {
+        "id": "cc83f3c2-f5a1-4718-8f07-6d536aed7a84",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAVIVFcHOuu65tPrAi3weJ0i6eIfXy6tHaBxiofn3Rp+NKCyXFofqBYQBXhzYggtPmA5GB5PPrXYWe9C6A3lIKDp55o6MzyJgFo7raqqtvErEd/mZ1Ak3qYJWNcxmq0HrE3ACvXEPUAKl8e/ZGtf51tCvJlB9+D0RJPoaOJIMFFEuCwg/xuAjFwl7gw68yNB7IAdGdd6IbBSO+PtuNZyBX32Ycv4f8oClh5jktKQWDHBZ9m3I9YiEONapVQJMwpg/nxRbGAYiDgoMVqybX4ti0aQkCI3C",
+        "claimed_at": "2026-11-12T02:21:08.172568+08:00",
+        "product_id": 9,
+        "plan": "Free"
+      }
+    ],
+    "c7530634-9c69-4ba4-a1e7-c71a49c1d341": [
+      {
+        "id": "b4509f3e-b0cd-4673-a893-7884f77d44ed",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAbBL4gGBpaiI1vNKg47MYvcsOxy9AnXNHruEjj66+BVGnxQwOvxgli3XwMhUZqxUTYj/DeDwKjcrYgWtM1RekhkLoLqdelvu4p4gUsUpHQVRWa9h5rmi99QS3Dx8WOrdhnZEvdl5uV1dvP1V8GrbKhVsqz9AkLz0Aiag2UbULbi33vrsBfZspjFjU8OrA/kn+mk++3NuVoOUlg3VSwDETMS6/UhECcdTkc5lAaI4yAL/y+C6JatvUmvL3SJP8YLwUJ3zGAYiDgoMgzo/gwqEFiUSu6X7",
+        "claimed_at": "2026-11-12T03:00:53.077751+08:00",
+        "product_id": 7,
+        "plan": "Unknown"
+      }
+    ],
+    "ad6978a4-dd4d-4812-a889-38063eb51a5d": [
+      {
+        "id": "04b2dfcd-f906-45a3-9af2-52e593f6de49",
+        "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCASW6lYG3kU1MA0YVP5zug8It2IajIhOut3hVqVYHOr2OJZ4Pj/gUbgjyurpej6NUzIKDuIo3RvN9vx5OUbFPSRHBqwv+Rxogm/38ZFZVLWKuvfJIDXqUUE3Ozx+vGleY96pN3/7yK3eMo7B56c7tmO490xzGboU89LmwT+FRIgfoM/JMEu1UgAm5/F8az4Kf+QkDFGHuW7EEWHEPUmzZapmLLUCIkyGh9rC0UeVuqfb0DjMthtT03hfCvrdS2RK/bAGpGAYiDgoMzwgivkRHnGYmiYFZ",
+        "claimed_at": "2026-11-12T03:11:45.316708+08:00",
+        "product_id": 6,
+        "plan": "Free"
+      }
+    ]
+  },
+  "quota": {
+    "08fa1c31-bdfb-47a3-b46f-ed717391f894_2026-11-11": 2,
+    "08fa1c31-bdfb-47a3-b46f-ed717391f894_2026-11-12": 10,
+    "64277560-4a76-4bf6-9344-3b72b52b852d_2026-11-12": 1,
+    "4e68ae1c-6259-4091-823f-df6196776537_2026-11-12": 1,
+    "eadb4538-7cbf-40b7-9b40-104611e7d1d8_2026-11-12": 1,
+    "c7530634-9c69-4ba4-a1e7-c71a49c1d341_2026-11-12": 1,
+    "ad6978a4-dd4d-4812-a889-38063eb51a5d_2026-11-12": 1
+  },
+  "orders": {
+    "ORD-20261112024327-7DE6": {
+      "order_id": "ORD-20261112024327-7DE6",
+      "user_id": "eadb4538-7cbf-40b7-9b40-104611e7d1d8",
+      "user_email": "myonlyus@gmail.com",
+      "items": [
+        {
+          "plan": "Premium",
+          "quantity": 1,
+          "price_usd": 0.0
+        }
+      ],
+      "total_usd": 0.0,
+      "total_myr": 0.0,
+      "status": "pending",
+      "created_at": "2026-11-12T02:43:27.445878+08:00",
+      "created_ts": 1794422607.4398725,
+      "paid_at": null,
+      "redemption_url": null,
+      "plan_delivered": null
+    },
+    "ORD-20261112024609-795D": {
+      "order_id": "ORD-20261112024609-795D",
+      "user_id": "4e68ae1c-6259-4091-823f-df6196776537",
+      "user_email": "hgvlqg@gmail.com",
+      "items": [
+        {
+          "plan": "Premium",
+          "quantity": 1,
+          "price_usd": 0.5
+        }
+      ],
+      "total_usd": 0.5,
+      "total_myr": 2.35,
+      "status": "pending",
+      "created_at": "2026-11-12T02:46:09.377540+08:00",
+      "created_ts": 1794422769.37754,
+      "paid_at": null,
+      "redemption_url": null,
+      "plan_delivered": null
+    },
+    "ORD-20261112024903-30CF": {
+      "order_id": "ORD-20261112024903-30CF",
+      "user_id": "290e7644-b14e-48cc-8a7e-fb0228f4f7e8",
+      "user_email": "study@gmail.com",
+      "items": [
+        {
+          "plan": "Premium",
+          "quantity": 1,
+          "price_usd": 0.5
+        }
+      ],
+      "total_usd": 0.5,
+      "total_myr": 2.35,
+      "status": "pending",
+      "created_at": "2026-11-12T02:49:03.890721+08:00",
+      "created_ts": 1794422943.8907213,
+      "paid_at": null,
+      "redemption_url": null,
+      "plan_delivered": null
+    },
+    "ORD-20261112025126-1C8F": {
+      "order_id": "ORD-20261112025126-1C8F",
+      "user_id": "c7530634-9c69-4ba4-a1e7-c71a49c1d341",
+      "user_email": "tree@gmail.com",
+      "items": [
+        {
+          "plan": "Premium",
+          "quantity": 1,
+          "price_usd": 0.5
+        }
+      ],
+      "total_usd": 0.5,
+      "total_myr": 2.35,
+      "status": "revoked",
+      "created_at": "2026-11-12T02:51:26.695373+08:00",
+      "created_ts": 1794423086.6953738,
+      "paid_at": "2026-11-12T02:52:28.375870+08:00",
+      "redemption_url": null,
+      "plan_delivered": "Free"
+    },
+    "ORD-20261112030124-95EA": {
+      "order_id": "ORD-20261112030124-95EA",
+      "user_id": "c7530634-9c69-4ba4-a1e7-c71a49c1d341",
+      "user_email": "tree@gmail.com",
+      "items": [
+        {
+          "plan": "Standard",
+          "quantity": 1,
+          "price_usd": 0.25
+        }
+      ],
+      "total_usd": 0.25,
+      "total_myr": 1.18,
+      "status": "pending",
+      "created_at": "2026-11-12T03:01:24.260382+08:00",
+      "created_ts": 1794423684.2603822,
+      "paid_at": null,
+      "redemption_url": null,
+      "plan_delivered": null
+    },
+    "ORD-20261112031201-0546": {
+      "order_id": "ORD-20261112031201-0546",
+      "user_id": "ad6978a4-dd4d-4812-a889-38063eb51a5d",
+      "user_email": "you@gmail.com",
+      "items": [
+        {
+          "plan": "Basic",
+          "quantity": 1,
+          "price_usd": 0.25
+        }
+      ],
+      "total_usd": 0.25,
+      "total_myr": 1.18,
+      "status": "paid",
+      "created_at": "2026-11-12T03:12:01.962464+08:00",
+      "created_ts": 1794424321.9624643,
+      "paid_at": "2026-11-12T03:13:03.524059+08:00",
+      "redemption_url": "https://netflix.com/?nftoken=BgjkwevcAxLCAQJcgSjxDzJtuTLCfZRX9i5hJb195wnIiAIKrIW7hEZO+RAan+acPMzcJZ3pcwE7pY4+q72OWbI8J3nY5mb/BLxARQWjLGbViLu9Ss8+82+k0skr3+5JVNAxeFJcEvGJ3lL+tCabgjvVapI7yRkUKP/8HO9bzdBJgL0oKhqMpEvHG0z9PD/lqIiwRIhg0RTUgXCivhDDOu+n3Go3N/UtY3MBLpK/yV0JWvwCg6bT2T1z5ZPASKcpwXbhyjeuYLgEdA4rGAYiDgoMm0l3g32hrgnIkiuL",
+      "plan_delivered": "Unknown"
+    }
+  }
+}

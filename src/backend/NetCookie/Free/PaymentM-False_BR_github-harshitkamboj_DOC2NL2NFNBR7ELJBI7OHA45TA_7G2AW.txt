@@ -1,0 +1,25 @@
+NETFLIX FREE :👇
+
+Name: Ryan Beck
+Email: tuanegakyareginato@gmail.com
+Country: BR
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (5): TM, Edyma, 2, Lis, Ryan Beck
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	13441210756000000	OptanonAlertBoxClosed	2025-12-08T13:39:16.505Z
+.netflix.com	TRUE	/	FALSE	13441210937396632	nfvdid	BQFmAAEBELLrLyxfbgwWs36pj3NOj0NgS9MquEYkessQFdavN9sBdh0KVpYWR8fQy-6aXjd0KGzGVGOPvrkmHZ6okknpArzuSwSoFEYk4ctmPqKbq4hdauwVxydsY_8lWa_SgWMfd7Eszsi6sUPrGI3khuqNplX8
+.netflix.com	TRUE	/	FALSE	13455941946832915	NetflixId	ct%3DBgjHlOvcAxKzAyecJRXjEAkiqtgYIeQzB0-8KL5LZ5-sar9FyAiADEKRvycOGHxpIve7vhWg3uE1AdnWKrWmeckNdFStplv0ORkt_-CHR4SRNNvVshBwS8DUgiY1ljYiIUzuuwgxtpERfMJti_my-fdikVc0rKYKZbVa375m71FqWWfuhG7OAniSSd-nRN5vIG71Rah1lMELjuD31eNSlsz7IRXyn5SHy92qmjaNdAYfgG6H62jHrfjhKPAt_CLFl2yz6bbtbYA1ouzHMtJcSJSO583iS-tAsH4oTZAzRqX4wyotAAAKQN1plJOCnFK_y0UlFav_xTNKlxrqFVBlmrkgAK8yxTmAhpLZQd8SOrodVVkFr-K7qna_6PN9oPWa3X74TuZDVEuvFmhFtV0ot_ojZuA11wtLFmktiAACaFJwGytw835ZV5uZadCaagAEERrXkB1WB9UtJq2MMSYVgzz5_dtlO6oVGr2sJjvYfpKCk8_wOMUD5gtPsmriCjC92TOkxL3lnVy669hD1YEvQOpmNNZL45jOWgw7HTq_WI5rR7655sje5mzrsKgNVOlghLQ6LJnEugoXSulawxgGIg4KDJ0ysqf02chi3hX6_g..%26ch%3DAQEAEAABABSpft5fg6BXnA9Yf56o6VINF-Q3jo-zHR8.%26v%3D3%26pg%3DDOC2NL2NFNBR7ELJBI7OHA45TA
+www.netflix.com	TRUE	/	TRUE	13424492346000000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	13455941946832823	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSDqhgwgk93hrBos6Wl3Ev4tj2Cup75azY.%26dt%3D1779932396379
+.netflix.com	TRUE	/	FALSE	13424492346369900	gsid	bd7aedd1-f53b-4e1b-ac44-81284e38a4ab
+.netflix.com	TRUE	/	FALSE	13455941976000000	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+22%3A39%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3e79cdc4-cdcb-4c51-84f3-117f0c94d2f9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	13424416775908824	flwssn	34667154-e7ef-4696-a359-caeaf11f4172
+.netflix.com	TRUE	/	FALSE	13432181975908501	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13432181975908025	netflix-sans-normal-3-loaded	true

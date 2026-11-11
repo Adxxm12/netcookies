@@ -1,0 +1,22 @@
+NETFLIX FREE :👇
+
+Name: rotan.pirgachha
+Email: rotan.pirgachha@gmail.com
+Country: BD
+Plan: Free
+Email Verified: Yes
+Profiles (1): rotan.pirgachha
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1813552701	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA6_QJQT6rqXOKeIDchiy8R893giWuZT6wzwnZNHqLrQHkyLJ43m3zjAPkVCnMIjcDABZCHDmCCu24PLAIKFcNV5yfLZmwIaG5rkcLe_xJfFLjlHCGoueDBs7s1u-eXhnGyi48vDyCq81L3JbWXWPi8tAKgzF8c5tCCZTiLE_ULnCN5d9JeZsXSltSvBeFW7MY9uu1STL3j5IZEdm9_mEzXfGPlUkpQNivBVo2hTtnp0NsifnO1iGsdDrxA-ViaN_9-6YokS3GLYW9rZTvgWzy3AqS0n-af0CSDO64XlsC_ympRbFgJ3B3TUYtvbLtxqYEKTpxbIia4XvS-udHIQYkoLoR-W3X0Z29OBBZxaYtXhjo8_voA3Zklot5Y2i5SgSPJrWhXCXc8xjJvgPRoD6hmhJCRX_Ag36m02t8lAwFSVv0AmXYmjL6zD7_LzUsLjD2cnm6cdOMPFQQR7CsGlUs4OU7eLNfq26655QN1YLoO2sS-GBWizgXJn-Anno4ujzO1XRh1uH_gBaFA3e43TcWKZw-qH8HBtDpwuRDCBiFjf2tsoYBiIOCgyTz-3NBscbCMelfJo.%26pg%3DTDAPVOWHWZDVXGFS6FK6KCNF6M%26ch%3DAQEAEAABABQUidqI0qJqYraZ6f1s_zdMvof3e3ImbxE.
+.netflix.com	TRUE	/	FALSE	1813552702	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+10%3A38%3A22+GMT%2B0600+(Bangladesh+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d25b4dde-c34f-4fa1-8928-150c2564dbf0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1782016700511&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1813552701	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaaD8lcZ68FoT8UGis655IFWQqu4jwwKA.%26dt%3D1782016699617
+.netflix.com	TRUE	/	FALSE	1789792705	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789792705	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813552701	nfvdid	BQFmAAEBEElSCLOxtNDJtE43xg8YQZ5gopPyw6JoMWFbDljVKfrFjrwpI4drMZgYsOjFIZT4oNhvBCAJoOhqUPIzlaG902Kb3cBnLBPp3JIe40N9GTqt0POVWTH6FyWIie_2KwVjJASnDR9PJkowkDHggk9mLfqN
+secured.netflix.com	FALSE	/	TRUE	1816576768	thx_guid	e4e91bba55e708aeb9bd708ce315c534
+secured.netflix.com	FALSE	/	TRUE	1816576768	tmx_guid	AAxhi0m9Zy5J2tKyegyRD3hwPldk9cX5mjeEUJKDAghK2ej9ke1Ldk9RBkH8J9UfEVLjSia2etPBObs21w6RMxX7TeiVJg

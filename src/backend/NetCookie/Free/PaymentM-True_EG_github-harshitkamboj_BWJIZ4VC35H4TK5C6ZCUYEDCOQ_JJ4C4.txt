@@ -1,0 +1,22 @@
+NETFLIX FREE :👇
+
+Name: Ahmed Ehab
+Email: ahmedehab1167@gmail.com
+Country: EG
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (4): Ahmed Ehab, Hamody&Loma, BOB, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1802027981	nfvdid	BQFmAAEBEDWtuPGwh07DNB0wRiVS-2Bgqt-6nbWMp1muD-QwWViEka-Vwo3mp21M5KNYWC84jp1RyjbYRM_bMcByxJIZzr__GdNds4HImVPw3UvT_3KD9Qfj-52yScRViKeb6NCcvp4HZwplCEJF08lwm8H0CnA9
+.netflix.com	TRUE	/	TRUE	1786836248	gsid	dd671da6-b545-4edd-9507-b86c2669df51
+.netflix.com	TRUE	/	FALSE	1794569680	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794569680	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1802346925	NetflixId	ct%3DBgjHlOvcAxLSA7s7oacSwC6ymBg85Q4ylASNV9n5-2PHnqRj_0FJubrAFcO_czwX-9zcnUSiVnfnrPI856QwS4wx-TIeQ63WfwSfVHlhynrLv2vIHuS5x_gGYrrtU2pP3dqb_x9jzK3OKcX12zd5gfF2VBIHIisKZF1h6FWlXUMATjNa8tUuVFzYBZT4nUQrriGBtvQ3v7N4Z55EcOIUkF8FkRrJ40zSz1_vaSTSXVD0wAGqEIOkW9dsKhzSSxQ0nHbUSVuV650bs5z-piH0dyGZltQHD94IZIB_5Bc-B3b8bL_QMHa-T362QBgJZ43S3MltB-C5iTouS4tJ3--Iuwom2ni0yqcUjUSgn4Ra23cjox-hzBd5gVBqy4dvRzkHlOUnK-1E8jBrnLbTCcHhkBNicuJ1UUBiBCAQQNg_q1eBgH88LUmoni-DVGpT1fvILC-VjiROycDRzes0sMKfwkgd2WzDn-NSJM9598VaWOr0JEUoJ39YpvRXX_C-TfRO3RZYaZfy06y6ZnmdGNp9ONlVR8FL433pExhTc-3QIE526MjUa0uQQBFvl75BuBd5rJp289xcaVs51CuFx_1uG4QQQEZHn5I1ReE9oTwIA52f6uavDKPDeOAUlO0YBiIOCgxrMNPY6Hz29RMnYnc.%26ch%3DAQEAEAABABRc8j6ieQLUGr4xGv1zNN2mr0EzfMavXRE.%26v%3D3%26pg%3DBWJIZ4VC35H4TK5C6ZCUYEDCOQ
+.netflix.com	TRUE	/	TRUE	1802346925	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzZnocZHdjbm7Ve3rdo6gDofr0NjuQfzk.%26dt%3D1786794928294
+.netflix.com	TRUE	/	FALSE	1786796752	profilesNewSession	0

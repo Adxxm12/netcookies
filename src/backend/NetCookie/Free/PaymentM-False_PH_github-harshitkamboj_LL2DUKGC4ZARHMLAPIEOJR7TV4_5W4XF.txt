@@ -1,0 +1,24 @@
+NETFLIX FREE :👇
+
+Name: beloy
+Email: migueljaipo@gmail.com
+Country: PH
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (5): migueljaipo, Nothing, beloy, main, jai
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1796635450	flwssn	0c6f95a5-bb35-4d1a-89df-9dd2121ec891
+.netflix.com	TRUE	/	TRUE	1796635450	gsid	f0d8f15c-6fd6-4592-b06a-9fa7bf5adcbc
+.netflix.com	TRUE	/	TRUE	1819798096	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA-fXor_sqQS9C3NbYcqPUFNUQrSK7B9RMezGe-v2jIKW4UO8uVIjbY4M4jZtvOar0OmyNDeHZ0njsIsEfM3_mdPJLBg9U7IJEfjg-MXB5tdGEHDlc00NwupFMBaVOhz2Zz38MWl_mrkwWlJ88CPjjkhJ-22yq7KraHMU7O5pCOdYrVM6x-osbtZfeR5bJc_JUL7P6CtD3hEWHvdOC-TpTVxZxmmTJr5W3q3mmbp7V7MbO0Ri7zFmZH8Hiuvwmn6agL7KFgOXxVVKqkyAefVWnd_qI91ly0ePuRKjk1DbtRLWqalQeCkpITRJUHQVNPRSmZSIc5s0e284Bo48sVaPQ8ZwPZ_PecW2Jk9zQPQlnPUDpgZWAhniN74kCHMuU6-x0sQn4F4vY24jk5w_5VsvQAXzIH_gATcWlxIJZlGODUcz0bnK12pDVKZywHrndbtJALcXaIHM2Xnr3wWwOC3j1RqfkP8TjP77vKDAS-hIA5sVvoYl4uhI-RIY4FoHxbiiKJlC5e1htBc9sqc9T7auyL6GGpn1SWAYBiIOCgwE24Py95jzsKHlIJk.%26pg%3DLL2DUKGC4ZARHMLAPIEOJR7TV4%26ch%3DAQEAEAABABQwFeuuBJFTie-Ge_edNul8qHyNpsIerm8.
+.netflix.com	TRUE	/	FALSE	1796038134	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796038134	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1818493588	nfvdid	BQFmAAEBEHrtiKHc10CtWFprbN2soOhgJjMGbAgxpmekB8FkwC1B-tnxDZk7rt4C3s6OTzc9GJk3v8xC3kL5oCUf7b2vnYcFsH0WJkcWWIcMD-GIlzPD29I3TKTwJddII24hB5XOJJixfIOWGAZIOgZY46D56Tyr
+.netflix.com	TRUE	/	FALSE	1819798135	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+01+2026+19%3A28%3A55+GMT%2B0800+(Philippine+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=db57dbd2-f851-4cc5-9c12-e41bbbe5852b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1786957428591&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796635450	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1819798096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTlCQaceEFr2TYyv9gc-lXPBpJKpwoDatM.%26dt%3D1788262097628

@@ -1,0 +1,42 @@
+NETFLIX HIT :👇
+
+Name: SAFF!
+Email: marcospiresdesousaantonio@gmail.com
+Country: BR
+Plan: Premium
+Member Since: January 2019
+Next Billing: November 24, 2026
+Payment: CC
+Card: 3260
+Phone: +5577988242400
+Quality: UHD
+Streams: 4
+Price: BRL 71.90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): SAFF!, BRO, ASDASDAS, Hello, Djkk
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgjkwevcAxLCAXy7WVnmmUvwJayHtI8ScPUUBEwq3RZxYQ24UmoXtIAE4253ofx2edU0NiENHwCpGfs4IWO5vP3trw1fUpfL9X6JdP9EDrp5Sj7acj50PyZIXeCjEMrB9LLLqkX8wQwLHgac3fVDGfKpuwaEhTO9uxFUuGy9cJErZMdj3wLJ9NBdyTUFBlmWvUS456XRywXTD5Qwx129D/rOEKTrDtLlfRa+7ACEtZtSZPpxJkHUNJJKk0l4BT0/XyS5QVDBlbJgg3tQGAYiDgoMMup1RwrWnAh27d89
+🖥️ PC Login: https://netflix.com/?nftoken=BgjkwevcAxLCAXy7WVnmmUvwJayHtI8ScPUUBEwq3RZxYQ24UmoXtIAE4253ofx2edU0NiENHwCpGfs4IWO5vP3trw1fUpfL9X6JdP9EDrp5Sj7acj50PyZIXeCjEMrB9LLLqkX8wQwLHgac3fVDGfKpuwaEhTO9uxFUuGy9cJErZMdj3wLJ9NBdyTUFBlmWvUS456XRywXTD5Qwx129D/rOEKTrDtLlfRa+7ACEtZtSZPpxJkHUNJJKk0l4BT0/XyS5QVDBlbJgg3tQGAYiDgoMMup1RwrWnAh27d89
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgjkwevcAxLCAXy7WVnmmUvwJayHtI8ScPUUBEwq3RZxYQ24UmoXtIAE4253ofx2edU0NiENHwCpGfs4IWO5vP3trw1fUpfL9X6JdP9EDrp5Sj7acj50PyZIXeCjEMrB9LLLqkX8wQwLHgac3fVDGfKpuwaEhTO9uxFUuGy9cJErZMdj3wLJ9NBdyTUFBlmWvUS456XRywXTD5Qwx129D/rOEKTrDtLlfRa+7ACEtZtSZPpxJkHUNJJKk0l4BT0/XyS5QVDBlbJgg3tQGAYiDgoMMup1RwrWnAh27d89
+📺 TV Login: https://netflix.com/tv2?nftoken=BgjkwevcAxLCAXy7WVnmmUvwJayHtI8ScPUUBEwq3RZxYQ24UmoXtIAE4253ofx2edU0NiENHwCpGfs4IWO5vP3trw1fUpfL9X6JdP9EDrp5Sj7acj50PyZIXeCjEMrB9LLLqkX8wQwLHgac3fVDGfKpuwaEhTO9uxFUuGy9cJErZMdj3wLJ9NBdyTUFBlmWvUS456XRywXTD5Qwx129D/rOEKTrDtLlfRa+7ACEtZtSZPpxJkHUNJJKk0l4BT0/XyS5QVDBlbJgg3tQGAYiDgoMMup1RwrWnAh27d89
+Valid Till (UTC): 2026-11-11 17:22:01 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1818294474	OptanonAlertBoxClosed	2026-08-15T01:47:54.507Z
+.netflix.com	TRUE	/	FALSE	1818294678	nfvdid	BQFmAAEBELVGH1fjieu6Crk4vOMG_Dpg23sYlZSJxliNQ8C21kstiTGx3P1MNRBIV5Lt9O4wpWPovsz1srf8aKLlz2MqsFXC32ioavui94gUWSuJqsNIMsPSdYAfsEmDo_ZQqSjm6rMUZslR8QdPjHK_iMLq8U3X
+.netflix.com	TRUE	/	TRUE	1824423204	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTq1jpOX3zrNcHCc-ZuSs35Sbv_9_0c658.%26dt%3D1792887204947
+.netflix.com	TRUE	/	FALSE	1824425310	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+21%3A48%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0029f713-fccc-4da9-9ea2-20e7a3a15b58&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1786758475036&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1824423204	NetflixId	ct%3DBgjHlOvcAxKVBKZbZOsgaNMVnjZ7TNCBoN6F1ccb3J-KMOJstyHFw2bwGy7oEwJhc6GfSI59s0H17Xz121_1z7sc_YfdgfBJTieaNd3FTCo-kpZbARZsVYTfW2wMgP6crCOk6gPTd65MiHNedL4OQmCmWXVriN4Z33ccvKGqRB8egiKRiMmwCGOaIBsXbZ1L-GIqa3_yOdq9Te8VHN-omPpXVtUnV-PNobIYsNIu5b08Q1E1ZU2hdBqWO_SghVoi-_JAlje8nc68z5mt_v_6CsSD_AMi-ZcKet1mTc_fA2RW7-I1nA9wUwCBEMBZkIzXrE4fftK0DfnkAw9WDwChC0ohW94KnJkk1eafsI4eS9rxIAQXD0ytXmXSvh2drqo4UQUB9A6fXoBLCyQv5MLmbgPyRjhZ-Mz7WAnr7lo5wXQ6h7v3j0X7Xg8KoFoYt8HQYtC8sYesXaYeBRGFNxYMoEBet04y8kbcRRCQ3XH9iEX8qM7MV3MjS5qKszUz0s6TcwRIlKFRcseSCIbCA1itJyod6zL8bhPq5_dz0Ok-_rcCCHsTScqjWrU-Td7MoALsHy7cmo-0dJ6hUv8EgOiB1QOGD2tKAd6VIKutiHY3P47eDr_10BncV37rFOgpyEgTz3KL3Au7YHZA1RFRSkJBoas5NPI0Uhrwk5OR5PqRKLCU73YAesOkqPJgjfnWKmhiGe26Wn4LlV7NUl6P28OgGAYiDgoMAdYDfxFBr7_2otnk%26ch%3DAQEAEAABABTjAmnrDVtanF9lrxkpYtkqtzSb1tNzkGs.%26v%3D3%26pg%3DF64UNY6YRJEQVFEUQOXPUELCTE
+.netflix.com	TRUE	/	FALSE	1800665309	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800665309	netflix-sans-bold-3-loaded	true

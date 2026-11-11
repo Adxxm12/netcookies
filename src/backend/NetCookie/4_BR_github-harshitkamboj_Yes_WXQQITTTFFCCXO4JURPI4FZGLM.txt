@@ -1,0 +1,41 @@
+NETFLIX HIT :👇
+
+Name: Lee Edson de
+Email: lee.edson.de.castro.18@gmail.com
+Country: BR
+Plan: Premium
+Member Since: August 2025
+Next Billing: December 11, 2026
+Payment: DC
+Phone: +5542999713109
+Quality: UHD
+Streams: 4
+Price: BRL 71,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Lee Edson de, KYOKO, Andy, Php, 4fff
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgjkwevcAxLCAVYLhkYqhbT83KTnpkZhYfu8mvPiq2eXqd0hzhRxrdBdgAq0dh2IRlY8H3pTKrxxEbg3e+gU0zemoOlMMco78OGaJQHonZlRyYObrIdBZLhXAANep/VDx1tFiqwTKxEX0qH3Dqc0wXEXaDmpclXD2F4l6xy6Gk3UZ5ERElLblF4a7u0btb0cVgN4kaLuaK24YhWYlCrpxi9wPDdHrXjX7dTKeUCAztkGWFWekOU0i3SZCHQ3aCr8a/kqczslzMMSX2ORGAYiDgoM9WJX+HpL+aLoTO+t
+🖥️ PC Login: https://netflix.com/?nftoken=BgjkwevcAxLCAVYLhkYqhbT83KTnpkZhYfu8mvPiq2eXqd0hzhRxrdBdgAq0dh2IRlY8H3pTKrxxEbg3e+gU0zemoOlMMco78OGaJQHonZlRyYObrIdBZLhXAANep/VDx1tFiqwTKxEX0qH3Dqc0wXEXaDmpclXD2F4l6xy6Gk3UZ5ERElLblF4a7u0btb0cVgN4kaLuaK24YhWYlCrpxi9wPDdHrXjX7dTKeUCAztkGWFWekOU0i3SZCHQ3aCr8a/kqczslzMMSX2ORGAYiDgoM9WJX+HpL+aLoTO+t
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgjkwevcAxLCAVYLhkYqhbT83KTnpkZhYfu8mvPiq2eXqd0hzhRxrdBdgAq0dh2IRlY8H3pTKrxxEbg3e+gU0zemoOlMMco78OGaJQHonZlRyYObrIdBZLhXAANep/VDx1tFiqwTKxEX0qH3Dqc0wXEXaDmpclXD2F4l6xy6Gk3UZ5ERElLblF4a7u0btb0cVgN4kaLuaK24YhWYlCrpxi9wPDdHrXjX7dTKeUCAztkGWFWekOU0i3SZCHQ3aCr8a/kqczslzMMSX2ORGAYiDgoM9WJX+HpL+aLoTO+t
+📺 TV Login: https://netflix.com/tv2?nftoken=BgjkwevcAxLCAVYLhkYqhbT83KTnpkZhYfu8mvPiq2eXqd0hzhRxrdBdgAq0dh2IRlY8H3pTKrxxEbg3e+gU0zemoOlMMco78OGaJQHonZlRyYObrIdBZLhXAANep/VDx1tFiqwTKxEX0qH3Dqc0wXEXaDmpclXD2F4l6xy6Gk3UZ5ERElLblF4a7u0btb0cVgN4kaLuaK24YhWYlCrpxi9wPDdHrXjX7dTKeUCAztkGWFWekOU0i3SZCHQ3aCr8a/kqczslzMMSX2ORGAYiDgoM9WJX+HpL+aLoTO+t
+Valid Till (UTC): 2026-11-11 17:21:48 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1824568345	OptanonAlertBoxClosed	2026-10-26T16:32:25.923Z
+.netflix.com	TRUE	/	TRUE	1824568453	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA02MmDLkjfazjsv6U7IS351TRY1n-zjj17n4u0TYuya48QDLFfWOJreUtsSgqzl1CPqkZVG_W9JYISgi132qc3w02-shcc_sH9Oa4mfAvxl-uC2nPWNcmqc1CoiX21YkATGP_YaYMO1XlxkNMZKkSqKTa-w_sLG9JY_8hK5eZDWyHf6YKZ1MjA2Q2wMKM91IbrrIAHbU9c4vcETGmUqfDpJAtO6TbIg7Jn-ftAu81H12ZOznV0-vxkFrVnUdnABcLAm47xXjisQ6ud5iYKI0b2m459yBMJ-kwBTXAASnaHY3oAdiDNgmv5BNoNCDr6-zw8OVVVt5EHCVRKXKheniI0BJ6P6FXZ-J7BFDnkvwfyDlvVNkrEP-EVXvY4cTWRdoz4xchOffTQqzVM8-migmYJTjJ0cqCZy_9aQNqCcuGQm3CTryogMRGugWqIaNh3otIICXInKKA80t-BoSJST9YFH55RBAQr9TvvgDNqN4J9tX5SIpxkwvNI9Es981u4lhuzZKgqku56-ygeD5oSwu5F2OQyyoDzXn01qERjm25X7YbCg8Xeg593_jGAYiDgoMkEKTSIp0IQV2YjPJ%26pg%3DWXQQITTTFFCCXO4JURPI4FZGLM%26ch%3DAQEAEAABABTQA3yd01UooLltQogGkIZhl-U18Fpp8QM.
+.netflix.com	TRUE	/	TRUE	1824568453	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTs0QZYsSWe3JZSl7cPFbSWqO5vpkuzHSM.%26dt%3D1793032452539
+.netflix.com	TRUE	/	FALSE	1824568453	nfvdid	BQFmAAEBEGfMhO7odZSrv3Gxy9-3TXtgXt513_8C6IFIYHMy026VvUxHea1rQvT_5i3qPf5eHAiBjrs7ZSindd-akGXo33A1uBL7zUiksOFVL5yqV1qLtbwvbbDiXlbMolr1d_sKhgPiUU6KaYZOiZQ8ExP10JMd
+.netflix.com	TRUE	/	FALSE	1824581516	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+26+2026+17%3A11%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=34f714ba-8b47-4104-a8a3-aa226b978097&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1793032345&intType=3&crTime=1793032346497&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800821516	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800821516	netflix-sans-normal-3-loaded	true

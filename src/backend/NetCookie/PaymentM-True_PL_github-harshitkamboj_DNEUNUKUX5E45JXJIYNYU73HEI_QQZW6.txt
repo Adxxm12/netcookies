@@ -1,0 +1,25 @@
+NETFLIX FREE :👇
+
+Name: wara
+Email: Yakoob2137@wp.pl
+Country: PL
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (5): wara, szymon orzech, Aga, Pantaleón, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1819636565	dsca	true
+.netflix.com	TRUE	/	TRUE	1796635587	gsid	7c126731-db46-4dd0-93b9-cefdd446a962
+.netflix.com	TRUE	/	TRUE	1820687685	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4JOsUv-M9qo6HuoMQ3JF7GJRmceQfsUUwr_U6TJUOPiKnXKg_CTIxtjDKVXPSv4ySTvst-MjImscxzDtyHdbJn6ICYpgDzSjshQLkKRMuO03A9AMBs6o_EaWlRrfwiL--2ZYgiq6_e_uu6mzI-o7aYTp4KOwdbROzFrAqzEt4SOhGnA_bNbzjjPuiRc7eJF74wzSZCgkPGp9fWIZAYHAbdoroIfT-t8MO4q_V-VWIkgCZ-qTPEvFv59L_AWBgEoJPO0Z99jIOD-aPoIQv4sQFnzi3yca9ISCpTp3KkfYQIy0QhDejoQxy__STXDThu8ZiNXBCU06rIO_Qj1aI8KegVtbImcp8r9NQA-tuZ-JU2WEMhUxdP6a-HxSvbX7LnWcAIWoKyy66GAcYll4UJG1HxCI-dY0X9q0jzEEfmOjoJZ4v5mXy960YqanU2ZHrbb85GwLiCwXjSi-Db7bkHeiZpoeeMLw6nmLSAbAhXwQV_Lly5600CVv3_3BHDEljunK9HVOSgUrHL8-broFAKb1Bg9yaXl1hgGIg4KDMfccPGn8Aa35U6ruQ..%26pg%3DDNEUNUKUX5E45JXJIYNYU73HEI%26ch%3DAQEAEAABABRxj_i2oJrINPfOBSb2W5mxwmBdP-EKNks.
+.netflix.com	TRUE	/	FALSE	1796927685	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796927685	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816612563	nfvdid	BQFmAAEBEKN2lzxSRoET7jukS0aqlfRgUxBa2Hn0_A1VUEHaev8k-fTRlHcet-wcOtbDbXs7G1l1auyyYXpkwlCHa9PAPtUwZM6WClRLy4RUvNoZPQBcL6qJBoT27zi7CmWYlsGAHFYWb3Pc0rUhfXHL7x7xd8gj
+.netflix.com	TRUE	/	FALSE	1816612388	OptanonAlertBoxClosed	2026-07-26T14:33:08.015Z
+.netflix.com	TRUE	/	FALSE	1820687686	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+11+2026+20%3A34%3A46+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=cefcc163-591d-4b7e-bba0-26795d279832&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1785076388362&AwaitingReconsent=false&fclco=&intType=1&geolocation=PL%3B02
+.netflix.com	TRUE	/	FALSE	1796635587	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1820687685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTmy54T9y3kkiQu9C1-omcQarsIjk9pewc.%26dt%3D1789151683213

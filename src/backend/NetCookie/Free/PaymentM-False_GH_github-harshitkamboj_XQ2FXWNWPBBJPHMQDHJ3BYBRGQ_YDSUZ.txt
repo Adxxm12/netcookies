@@ -1,0 +1,22 @@
+NETFLIX FREE :👇
+
+Name: asamoahbenjamin830
+Email: asamoahbenjamin830@gmail.com
+Country: GH
+Plan: Free
+Email Verified: Yes
+Profiles (1): asamoahbenjamin830
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1815588407	nfvdid	BQFmAAEBEIVQJI_1RppV8Yj2eEkB32hgWCsuMRqtwG1Au2DqWNLzQtLB5ku7ieO6nGmFFe0DBmreRHo0dRBwzFYh1gEdARn07x3ZaIpmBO6FxXnJVMi5DCQ6rPLXH43Pb4QXK9e6DxT-sE315i5c3aCWBLNkYZAK
+secured.netflix.com	FALSE	/	TRUE	1818612433	thx_guid	3ae44a5c6a5fcbfe97428e431496092f
+secured.netflix.com	FALSE	/	TRUE	1818612433	tmx_guid	AAyS-nfplftehy4bYz6-Cu-wLBn-dix_KCOr0A14TyZxBvLA6824URe_fUauwbfy9Cg23Ie0vxBfhAoVxITgCYVMmC7Erw
+.netflix.com	TRUE	/	FALSE	1816189456	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+21+2026+17%3A04%3A16+GMT%2B0000+(Greenwich+Mean+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c816919e-5984-426f-81b9-68369f55ac8e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fgh%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1784052510043
+.netflix.com	TRUE	/	TRUE	1816189451	NetflixId	ct%3DBgjHlOvcAxK_A5llHKEQ4qb_b0FwM_ZFif0OzhJibD-U6W9A3KWbRDElNZQfHKii8VChyYWP54nRttkgSwS2sRpJSVyMqIDUXS1hx9DxwkVl2B8D_eFUSvea_WslBtHVyjPPs5IuTYJbmZErUm4CMADoN6xxqlclM5Z37lL56SA-irPcBi_E8W5x4H1OQghIQUJCfYKIiJJAOeG4CdA0Plz2UGtYEjkWqCnTjjW0m4nJXIS8Z7MK2NhFWZ2mZVkiqKA_lDSrcb8kWXMiESUB1XQgO49TFZEn8UgsrHV8Hg-E-rByqWuXgwo98DMYx6_QC4lDTU9qzxVgipnDjrtydoZ-40WxmPsdnUDSyK-nrf19go1Ysb2ksqEOjIqMTDZpVuQAB14YdycgzipZDFRcPxbxrIZPLIdvbfgkRjEI63L5Qgk4euWhjuRzajA5ht4gPfy3CGlrGO2Kobe4mvlFA6wYGjGSPF3UpD2rywOh4f1VlX2BH2w_RH7mglWmgRoTicX1xxL2BV3Y2Pjmi0Njknm01O4RnkYZ5QN8oacoUT4pZPyvEFgmVuzhDpoRKYO08VR-JHFi4QV8-EH_K_efNznMOIyvttH2BRgGIg4KDPlYPGlySMUhxF5zNw..%26ch%3DAQEAEAABABQYJzdPGgENqs7lyAj1-KChNoKo9Ro6ZSc.%26v%3D3%26pg%3DXQ2FXWNWPBBJPHMQDHJ3BYBRGQ
+.netflix.com	TRUE	/	TRUE	1816189451	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWvLTPHqERNYdYwQ0wCnHnBoV5wCIv9NQ.%26dt%3D1784653450825
+.netflix.com	TRUE	/	FALSE	1792429450	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792429450	netflix-sans-normal-3-loaded	true

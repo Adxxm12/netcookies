@@ -1,0 +1,23 @@
+NETFLIX FREE :👇
+
+Name: elvisyaucan2003
+Email: elvisyaucan2003@gmail.com
+Country: EC
+Plan: Free
+Email Verified: Yes
+Profiles (1): elvisyaucan2003
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+www.netflix.com	FALSE	/	FALSE	1785445876	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1785445874	gsid	37f0a523-81a0-4f22-852f-c5fb5f5c6151
+.netflix.com	TRUE	/	TRUE	1816895516	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA5kH-Ae19t7lwdk8EzVXO7ZU9quG90ZkUcc62xpBesnZX6PfMUCPPrMHeSbirTpB84NKsT-z-xl6URwLis1I6pz1zvDV4sHp_8g5bdEbOlj80xlsFmTeiqWIQ1ChHLctlAdSZjCDJQ3V6JP39j0ZgjvDSZTV-y-KZBazaTg9ooZBGQuMBEbWn27ilrQqCDBmzU5awr4oMkGhCzMJF1Hkzt6efy9o8haWxUt5RBqMcPhoFs9OMGrdrxcjcr0FNyxX8OtllppbokCZb3NTcXjGsgBJO_lOMMuuGGSPrRoiG-1SSbkWpooCC80tHe469tpRzdYgffKL1qSgcFK_W1DChZIvXTZoPvSdZHrpfNqn43xKcLntuWD7-iOPr5MIN1T7j_rpzoSdhTdxg5SbvP-KzwKBB7JbLHrDCP--ejZBJa2j0CmuWJaWzQJeXfmjlg2z-gHfRBvXNtS2ZFyvwG-Ci2dBC3gBaFQJp25pra3JQvdTD7MUPBwOQWjmxc-v8annC5bIT6h28C94_T30SpY-XzcqKmw-elzbSiYCVE_CkBgGIg4KDMw3_aD7V6rC6UvTbQ..%26pg%3DUEJYBJEICFBANA5WKBMB6CLEWQ%26ch%3DAQEAEAABABQhveYJoUEcXS3Z4jNOCR0hTuOe7N-kwZA.
+.netflix.com	TRUE	/	TRUE	1816895516	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlD59jtlle3wNxz8j5uoTjnoCiPdU3SaI.%26dt%3D1785359515099
+.netflix.com	TRUE	/	FALSE	1785370327	flwssn	44f459b3-5a08-46f1-9b1b-272bae0ecdcb
+.netflix.com	TRUE	/	FALSE	1793135527	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793135527	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816895516	nfvdid	BQFmAAEBENB4DWNn-7YRZeVgQJP2SdRgad81_jsuzMXSZKFm98VJOGdMJ7DS52Ejvw4WzeU7AJy2yl8hWaNAGJbT74rNGFzoqtNPDjCG7L5rs4Cz9aolbOCDxXAnwE8UxolYdeao7sOM0PnRkqxjgxHe80wfkqET
+.netflix.com	TRUE	/	FALSE	1816895595	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+29+2026+16%3A13%3A15+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7ce62308-791f-4f13-9615-3ad973c52734&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1785359595775

@@ -1,0 +1,24 @@
+NETFLIX FREE :👇
+
+Name: Nikhil
+Email: nikhiljatav200514@gmail.com
+Country: IN
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (4): Nikhil, Tom, Ester, abood gaza
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1795764826	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795764826	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1815066865	nfvdid	BQFmAAEBEG1OdECD9nHh_pT3et3c1e5g8rQrz9nHDtYZx7ZLC5aefFxj2m0bftVzXEcOMj-waahINyBg9xuuLt_-SodoQw8zMxDcc_TRtzT2un8cKmfDNz8vcv2_UbJZ1IpgCxUS8Xib3ZWX3ss7WJXEpJq0jLHj
+.jobs.netflix.com	TRUE	/	FALSE	1816661484	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+27+2026+09%3A41%3A24+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30d72dae-d6a0-4b76-b6c4-c911f01a83fa&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1819685484	_ga	GA1.1.1613733508.1785125484
+.netflix.com	TRUE	/	FALSE	1819685495	_ga_4Y3WKF2MY1	GS2.1.s1785125484$o1$g1$t1785125495$j49$l0$h0
+.netflix.com	TRUE	/	TRUE	1819524812	NetflixId	ct%3DBgjHlOvcAxKEBPfORU49_GknatSOJ_ruiPuhlxC-j2d0k0xVT9jhO4d8fdOpUHzU38fFGFDH-sv1PuOwxo1gCwYyCpKg9cvM2yS1MmzQxpRV5nmFgfAhw-MMWfaeMDCpliQNqzApn_3H1C595OsBUBQOEf-FN-60kbUETIhCLyzAbGbX9Jp9KfVKeJ40HnlJNONu4LyPN8-4258u_ptqQy8TBhkdwb3CZkjYdHVytKcNgLKXpYPUsE6LMI-2yOEhE0xbKCywXn8P41ZGz3jZ55XvNb1AtDF1MxpMTabpZN5n9gP19VHzBvHYjZsemWqEvlAdnkDm9fC6HAQ5huKXoaoVt7QSfAiGTJqjptGU1MYw9EjHHXOw3VkWSKMlJXvjfh1xTVTi42Upt5PicGT4T1MzDIQnbquCgEferrLCcyJAW0bdMtxhyVFXdzQtfj1sE8WQhDxyqYK9hFrTH6f4zsbtPLJjgcEjqF4HxvnzCqx2_tJbcdqM2Y0XUKLPYYJPwuTJINQlQLhdzeEHhbIa_YEx4YKt3ItxrJ8V6Y4P0G4iK1ejMSynmGKskEOS45ffeqijvrhyrOk0iCLEsy10U1B5EP8ezvIKH8POdQVdq_9Z6rslBCaZboi7DnkDLrHKP5htfbm5KzUJI9INLG0ARlY4sbWO5C3ig2_8Zo-47rJXAqcVJZjJlMHr1ysTzRgGIg4KDOQyxhdfnI2z_Ll87g..%26ch%3DAQEAEAABABQ3StWCwStSJQGzAhYUeW-cLxPcy3SM7Vc.%26v%3D3%26pg%3D7Y4CDCUORZEEVMSVM36JMUIKZY
+.netflix.com	TRUE	/	TRUE	1819524812	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyIP09lGCiYErTnqnaE_5S-hryc-WcXeY.%26dt%3D1787988806413
+.netflix.com	TRUE	/	FALSE	1795764826	netflix-sans-bold-3-loaded	true

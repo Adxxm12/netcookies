@@ -1,0 +1,23 @@
+NETFLIX FREE :👇
+
+Name: ads786f
+Email: ads786f@gmail.com
+Country: IN
+Plan: Free
+Email Verified: Yes
+Profiles (1): ads786f
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+www.netflix.com	FALSE	/	FALSE	13432535188000000	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	FALSE	/	TRUE	13432535172018440	gsid	e235daee-2bf9-4d39-bbd6-0807c1f7d639
+.netflix.com	FALSE	/	FALSE	13463986362000000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+29+2026+05%3A12%3A42+GMT%2B0100+(British+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ca77af6b-6df9-426e-a35f-0924430b2bc5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1787975233242
+.netflix.com	FALSE	/	FALSE	13432461160346678	flwssn	9724cd8f-9ed4-45e1-9506-a74c04d04dc1
+.netflix.com	FALSE	/	FALSE	13440226360346336	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	13440226361332392	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	TRUE	13463986527121444	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAzNalZEOkx2nDJuypPK5g6FzNYESYQ2KDG7-DlwT_GyDjPxf0AK9Inj7lMZwKXkJkkNrn9dalX19UMx7L9yWUa6SXijb7FEF-BXRb4oHrySGk0hXhYXKHYfvF3dov7KV_EWG2J7tH2YGSUXemuvAizxQq31AvpYc9Z2vygyDg3M6iiNu4-j3o_Zc5iZkp5LdHMTHHAGFFNdBDSMNZ5P-G_5KWo_dAlEuOHERga5MN1Bj0NdM3Hly21yEYiX5WIqnfVwLRYHgRfPlmMXhSTwEaBkxO2ZBp9FIFjeDBh1vmK9vvijfnW0CyshVNoeHZvvokLFPoL9hHe8oix5xPDfvzLXEeJG4v0RA1cyRhEaQ3B4F5QvhmfTWZFYnjWEcoefK0RySAtIpdc3ISt57b_9EbA7wuwwEheVBNajrCVGntKerv_Bz5Ds53Gh7cDgf6cXDj_pqgYMCzQhlnrd_xLgJR64fAbJfrnfOB7Xcpwt2OGKZOLL8jvof_wdjUBdy-POwXdFsFgiwe2B5bSoeZwnMQ239YbO_52kWqLYYGAYiDgoMCquN1iBe7G3NSMw3%26pg%3DU73KTFKDCZA5ZCSC5BBUKRSBOY%26ch%3DAQEAEAABABQXM3MYw-hWm694-aXFqDGCzMJLj1_IMJY.
+.netflix.com	FALSE	/	TRUE	13463986527121168	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-VKb7R_kuxsR2bigXFnEHCRs3fpKTabY.%26dt%3D1787976939298
+.netflix.com	FALSE	/	FALSE	13463986527120784	nfvdid	BQFmAAEBEPrIUOD-o_ExWeqEfq4puSNgY1NQa4imZcgiE7DA_9cZNsBK2ZVyM_XX2KtG4v6SI4_0i_6i3Ohwbjx5xx4ejcV2SsET7PVslz-UWW7Vo4BIbv5RouYfhLnOThyO5g0lahFJDITcmOqbfUZBc6A0mgxH

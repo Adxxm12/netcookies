@@ -1,0 +1,18 @@
+NETFLIX FREE :👇
+
+Name: arnav26722008
+Email: arnav26722008@gmail.com
+Country: IN
+Plan: Free
+Email Verified: Yes
+Profiles (1): arnav26722008
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1797787373	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyT5xvlrW9ZqqlwseHz5U5Yjd2N57izrg.%26dt%3D1766251372365
+.netflix.com	TRUE	/	TRUE	1797787373	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA8tmGrqZk121d_-3shtagqmuhpZI8zcAWqmGIbwdY8XmHmiNItkc3Kr1sFKNWeHG9PKF-Oh3K3dMg0DGn6_G9t_hRpIPgZ6gLUwtQxe0IpOwVSDkwQQTOEQppb6Qp1BIt4bT7yT6siUX7MQAdTxmLKgIBEWol6PAPv4g1Rfvsb1aeYL0PLmnse4-eVJWG9ibloVOus6oz_5MZP91sY9c7Cy722ToueVYhCuIayrQSgHJWMHZLdsuE-j0O4SZv2Ys7U0_l_gXW9H2n8lwLHjzrqUW-P5gkXyLWCVfWKekmyUXNtqILhiUzT90f7cWDYmdeQXVeZ2kd79ZObZNKgJDaMAz0C0j6F23xkTBhZ9pdBsexlSJNOsyevYWTi2QpwL6r8VqE9x1QX0VqaoU7QFIjNa0XX4mF6jWTO05l-8Uu2keHU3mJDULLNQ1abUffOl3evlCXawusK53IS1SzinHhEoiesV1hStqxWak868VXJRJ_hBmmKxvKeKwvj1hq1g-efDbR7lVIpAmsAEmzCa-13iutBgGIg4KDL1H9-Yelb6Y3L-qww..%26pg%3DG5BKN2COP5CE3JLR4BZALPDBXU%26ch%3DAQEAEAABABQH3fIZZPhNH4e_p1-Nw-NOSN3EoYCNswA.
+.netflix.com	TRUE	/	FALSE	1797787373	nfvdid	BQFmAAEBEFMFXw3uBKSF8l64-CDyUyZgl_TiLSdrIWcDrfiEvZ9JfM263y_HHgXmFg6BNRsk3ORDNgJ8h_u8NlQzfUB4-T3nyo_JeuGDC6wOV9wP_6ZNKju-NQCIkcRG8ZYeD6iDUmviZympEIgwMFK9CfQXD4Se
+.netflix.com	TRUE	/	FALSE	1797824651	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+09%3A14%3A11+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17a50d3d-9919-4f89-a597-3f6c546a70d7&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fcontinue%3FserverState%3D%257B%2522realm%2522%253A%2522growth%2522%252C%2522name%2522%253A%2522WELCOME_SIGNUP_CONTEXT%2522%252C%2522clcsSessionId%2522%253A%2522b8cf5ed7-f8c6-4839-8bd7-98b419645571%2522%252C%2522sessionContext%2522%253A%257B%2522session-breadcrumbs%2522%253A%257B%2522funnel_name%2522%253A%2522growth.PASSWORDLESS_REGISTRATION.VERIFY_WEB_LINK%2522%257D%252C%2522accountCreation.config%2522%253A%257B%2522showAccountCreatedToast%2522%253Afalse%257D%257D%257D&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

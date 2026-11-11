@@ -1,0 +1,21 @@
+NETFLIX FREE :👇
+
+Name: DrD
+Email: cherypierrick000@gmail.com
+Country: FR
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (2): DrD, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1796914288	OptanonAlertBoxClosed	2025-12-10T14:51:28.042Z
+.netflix.com	TRUE	/	TRUE	1799938365	dsca	true
+.netflix.com	TRUE	/	FALSE	1809990894	nfvdid	BQFmAAEBEMINL3gSse3xSjvm9If6NO1gMLmDNWNa1ZjJ5rmwMrhgnSVtY9mG_ZQNtDl8JVA3I65o7vbnisk3h8ZtJ8hlq3N7QEdJrd_0ZipkebczE90R0v5QnRV0BS6FV_tOtcnx0IwLKVhyTYJV2JxJO1lu3WxL
+.netflix.com	TRUE	/	TRUE	1812575098	NetflixId	ct%3DBgjHlOvcAxKGBE7A3hNkl2QTLAnLSiVjRIisvKrt89_llWjqwVeoNTo2kR29X0OygYPsHK7nabghgZFhFs5sLXYu8ojPAEh5z7zuefUfuWiS9ZAiActEGfEw5cWva2m2iQ8Il6cCXQTkG_tMo-5wWcbqOzx5nKlR930-0aQi2kPTLHdB0uafuqNhC-qLVY7ojPY4YfADDSmcelJoeG5pod5rhQRCp1dQ5sFE0zpcWZ-OkkyghGJkvrWqefiEclu11erO_5d22jkfaTshtEZCGqIoAjZKQ7L7yZrgVWbFuYSAYDIbACUMtfiwDxbYde1UQs3mrn2ImgTJ6YIDsh8Z2B9vs5NYHPBhE5S2Lj2zY35yBRou7Y9Y7xQc3VygHc2NvMyU_C4UWh6xsqg6Cs1RerZVLsexXo_DjcglbbEFOKI-SC3d-RIBBc6nDcjiiMr68abWdSW3T1RhEncLQ4C-W-QH5DJmILafguxk8RtA24yQGM8e8bpmBbTfM-ZbMVpaNcAeU4QWphyIg5RJE-K_VGEVy8oqb00Ujpe4ORp4cscGf0v_lJd9zgFjcKlFEFz097_IE1QaTcMxhhmhxgG4EsHy7r-7bnF8NctIb2HDVYm8bFP0iYUdQw5-uMYGI7JR5o5yoOB-0znHWqnmqP5e0KGKtfqJSpY2gHpMue2wpv5f8apjaH26WbThblNkJgBTGAYiDgoMTy1WqMB8ZcbFsGKF%26ch%3DAQEAEAABABQ0Lbh2P86f3MxXXrsyJGndw8ddfpmU-iI.%26v%3D3%26pg%3DC5V3VWBA5RAOREIPN7U557URL4
+.netflix.com	TRUE	/	FALSE	1812575100	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+23%3A05%3A00+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7e73224-89b6-41cf-a043-c79bc6bbb6a1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BGES&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812575098	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUdvMP1YxzUzYuC6IrxCh7UNf3vDOHbfM.%26dt%3D1781039098971

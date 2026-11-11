@@ -1,0 +1,23 @@
+NETFLIX FREE :👇
+
+Name: 2Felipe
+Email: hikope30292@outlook.com
+Country: CO
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (5): 1Felipe, 2Felipe, 4Felipe, 3, 5Manuel
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1781550139	gsid	ee779702-acc1-4980-841e-e1b8abdf2ae3
+.netflix.com	TRUE	/	FALSE	1781474960	flwssn	bbed05ae-4dff-43cb-a43c-f4af28021a02
+.netflix.com	TRUE	/	FALSE	1797016216	nfvdid	BQFmAAEBEKvvoUNJV-X1c-HcDGrcDxVgycJlCymChOK3LdHH_OzZ-FG026uyA7NhQ2Njpa416yYvgta7eKFEwMYmHQ7NlLZb698vymhDsrsPLQ3zta63WCfmiJLcvtC37Ftx30NYykMa-Db7rxfmH0Xn36Sg1S7x
+.netflix.com	TRUE	/	TRUE	1797016221	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA7o24obIusOfpUrI4ziE9LjCK2LkCu0QHhdMp8lzU2VACBco_iGR2UFdy8C-ZApvafd2g_Ieh7fmCwsuEAG5KmIglM4VaYWAFyHh5jFpYrvEG9KS9hWc1pbbxbC8WtImQNd6sT0e74KcQgH3O1M21gfwFlzBvjrjjBbC2CwlfjGi6d9g1EFXY22LO5ZWZuY7um_rg8-nbbL76Cokq9ylEAfHInUb58EtWn20TkNmn9EMFgR1RBu4ynNl332xN0iHVUSux8WfP2otkLtk22Pkkrf-YsyNV9uDTnW9PKOiWwcuCNAGr-jZTwd94M6MA2oFu0NIag7jl7uBClwxWzQT_PXgkQe4OjUbmsVnoJJl8QoacVCyRPDRjRaM7IOiMH74bCNVU6eQxp-kPhBGYbHQV_CpV5H0eJIV09Rc67HFRyaSSmbPiWpVKVVkJbMbzSPymtJ-ncoDHkxhh3SnqMQWEuyoveryacx54oyJ1BXKSbmTfVt9vqkAj7AfXS7T21nyGGgmzxxibJQ-FT6KZdMHlMe7dYVI7ekYBiIOCgxPkpuxWpWNckCj41g.%26pg%3DVHUT7SHVH5HFRNWQPDBSECJ2YQ%26ch%3DAQEAEAABABQ5NzRCCItTxczstGCadRMYa0KYsfjDalg.
+.netflix.com	TRUE	/	TRUE	1797016221	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiCD_F95_t8bEnsHVcLjbpzvLnBMfi3XM.%26dt%3D1781464221611
+.netflix.com	TRUE	/	FALSE	1789241644	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789241644	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781467450	profilesNewSession	0

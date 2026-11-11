@@ -1,0 +1,19 @@
+NETFLIX FREE :👇
+
+Name: Trs
+Email: tyler2010spencer@gmail.com
+Country: AU
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (4): Trs, TSR, Jj, Dud
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1792464459	nfvdid	BQFmAAEBEA2jM3Dp5KtZ5UcS9ETGFapgwjA7GwXXgOMf69ns_yTT6JfTe0O7X26umhNzyAqRVH9DGEzUqbgZQOYvZ4ydbl08Ch6vmKhdmqDGBb_dzwLb61jlsaYuRkbJRgrli4gejkJKgxTiBlSFqQsWomifFekG
+.netflix.com	TRUE	/	TRUE	1796605860	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AlhltcWaKuR6LW-vABsPUSPCE4qffe8AnApR9SvTJ1LUyxvlzj6zbeBpvm2swOOz79mFXm4_O_KeVSw8PjqfqhUBp7fccBnlHZs8tn53SB9bkCBAYc6lFzu2_ngUVeSI2TmNAqD8lbDMu7KaStor-uETiPxI4HZdOcQvFIzHjgEvhA3QW0q_v3cMBpQS4WTz8CcXyySWodywuGGzzCUBjOxsqNJYqvtYPApEJi6oupH46FQ4Ixzms4ddWf5USGn2Ggv1YyAXnKYXBRQCJ7qrxhUY6mtgt0O4EQhfVpsNdf8q1p0PWaMQqTcQ2aWyy6qj3R_q8vG-El4sLa3iNWGUOiACCNHRihuo4k-3KOPIViHeALYxG8FBwDAcr1sUj4Zxi0MGPzkIswJBKEpbp5n44QA5FmCW3UCuVQCbgu9tW-f0VXBG8Ukmgi3gs0ZcHlixD1pnJfkG80MBRTjSPL1NZ9n8yYhEOEcjsxaV6C7mHUCgwIogQpZW4qUAIRgGIg4KDFUmporPCwbfIN-pOw..%26pg%3DCRKPMNZJ5VHFRBAFKXXQNO6KHI%26ch%3DAQEAEAABABRgEtfOc_FsDJCdsdY_Yw71BP5LY_3PKew.
+.netflix.com	TRUE	/	FALSE	1796605869	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+10%3A41%3A09+GMT%2B0930+(Australian+Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25c049fa-720e-421b-ba74-9de2f8cbd3ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796605860	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSv3U8TRGrX6O5yykbkER4isJOZT5jL9vg.%26dt%3D1765069860009

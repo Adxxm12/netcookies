@@ -1,0 +1,19 @@
+NETFLIX FREE :👇
+
+Name: fiazanalikhan786
+Email: fiazanalikhan786@gmail.com
+Country: IN
+Plan: Free
+Email Verified: Yes
+Profiles (1): fiazanalikhan786
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+www.netflix.com	FALSE	/	FALSE	1807599168	focusvision_3_shown	1
+.netflix.com	TRUE	/	FALSE	1804575313	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+06%3A55%3A13+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1af38771-2b35-4370-8d93-609c7303f57c&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2Ftitle%2F82156122&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773039313000
+.netflix.com	TRUE	/	TRUE	1804575287	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQf_7YY685vfzliNWujeo3RUjPOFAynid4.%26dt%3D1773066469009
+.netflix.com	TRUE	/	TRUE	1804575287	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA_bEAaZxTNbW82zoZ02c-NBnZKhGhBxLZRcM80detOsXQM2GabwzgjsPGyZs_PgD8r1DCfT8l7IOs60xjH-7u67o2MFD3lzSkR662lF33BJoU9Sc3UmWkfa5MM7gS_iwpfPpcQKugDnljlQGPc5xgeUsKxwP2plTe-nxKo5YiVg-_l9mW7SgvGbeXJvuPBVsevroG9bt3g5wnwpZX6XKX5pdhLYFQI1zMOYJtarsOS2gHLOlhaw_7K8myCPHwAMZTEsBnXAcQNFSgvGOUR4ew2-C9kFmduYaBdPSP3Utpl8R3ffFDHZaqVDk4WO5Tzu_48XEqY3BtUfnS2EuahU302BXl3d4fxauGPlv4e42tBZIT5Bu5yMY3koC7Z98GqPt3yP9rXD8QtSCOVGzUK3u219UZDqvJlFhD9tpjrtn5IQh0Nc9zgdT3kIc7T-MY6eO1LPTsUf-IlDgY345O2zfJHEYbEJNWYabiy3PfH6k7okkpvLongxPqbfYFX8E3EQu9N-hDJfRlxgGIg4KDFNOwwIJU8R-7dqL1A..%26pg%3DC7ITJRDWLJAMZHPASTWDZMAUR4%26ch%3DAQEAEAABABRQ2n_Q0lTVdEd4pkktnmLR2Lv6k5nHLZ0.
+.netflix.com	TRUE	/	FALSE	1804575287	nfvdid	BQFmAAEBEFA8_ZZVBtp2olqLaqFsRNhgg3Ep2OJisHw9Zp5ecqCU6-LHTyqzcaYlOXK5Bqcis6YMdJ-c5r7Hqr0AI6V1aIe3FwMDz1vUR_0KlZRb9hcm-VMZJs5eaGtohuXToeUjcpOKW0X9cCo1BgWw1etI3Hrc

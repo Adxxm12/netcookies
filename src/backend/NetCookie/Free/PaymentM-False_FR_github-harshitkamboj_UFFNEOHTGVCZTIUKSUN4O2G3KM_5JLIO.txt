@@ -1,0 +1,19 @@
+NETFLIX FREE :👇
+
+Name: lucashamada2016
+Email: lucashamada2016@hotmail.com
+Country: FR
+Plan: Free
+Email Verified: Yes
+Profiles (1): lucashamada2016
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1802604315	OptanonAlertBoxClosed	2026-02-14T11:25:15.796Z
+.netflix.com	TRUE	/	FALSE	1802673834	nfvdid	BQFmAAEBEOCxzzK_8HS0_d5xIqlrgVRg-WW9iGuLDgp5p7oYvdDCuEcFzJUfJnvBhxrFbFkI0dkYDE6ZsnLQV9RR8WPRSGtHs3G_X9Uc8sroJDUocLpfmA80PtA6hFmuBo9dQtnTeoB-lpYEUvBQ20LAc6VIeTwX
+.netflix.com	TRUE	/	TRUE	1803160537	NetflixId	ct%3DBgjHlOvcAxKYA6S4_LzsJWjpX_si5niebF8wVnZopGg-6hNvRUEtPmDsPH5LxRBz0jD_ngR-_vTF_321n5Qof5915GhvsulQWJi4eARzeWXYegrxo_rkvw3E_RKOeiupw023BIe1mIqSKU3CvBDdGaSQYcvQOFK41ZC6353fCZBPTSvj9WBs76IjNrpV99kXTTToILFgUkIMQUVNWJVqbq7-LP3Olg7eAzb16tCxEmcRSZRPQCSjatKmE53gIMvQ_kn2fxbEg6dxFPcreM5Vs7zaeO0bg0QqYikuL5Wde9UJzE7WK-1hNHE5QiU9ldrEc0gPf7KEF1ISmzGbqTYBkYOy6Zy1H6H-acplwzqeNPUyJzbjvRZCu0nc7m0mi9PE24sjmjdNWRI8AKv4S6b_XffZlW7iE3mYs7zeL5-oaEp457c_iYpzfOwYNLN7G4lIQSvsVlyXTcLDsvvoCEAUs12M8jC_MpQ8_vYZsvjzwx9YYKaR_s0jYzKGY_SIFSJPhA2HhBPLrYtnDJRTTxS2onz-1VbK2fX5VgCJ2mF2gvzuAxgGIg4KDDp3oNh5LsmMgywaMA..%26ch%3DAQEAEAABABSCvNc0ylgQGDivmVN1h10m9aQAboQGOd8.%26v%3D3%26pg%3DUFFNEOHTGVCZTIUKSUN4O2G3KM
+.netflix.com	TRUE	/	TRUE	1803160537	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRa8L9e6pckQjLNIgeHjzMi7I6bHy_NJ8.%26dt%3D1771624535784
+.netflix.com	TRUE	/	FALSE	1803160571	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+20+2026+22%3A56%3A11+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=84891500-819f-4b6a-973a-e729eec1141d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771068317141&geolocation=FR%3BOCC&AwaitingReconsent=false

@@ -1,0 +1,24 @@
+NETFLIX FREE :👇
+
+Name: Pisugazz
+Email: theocolacoda@gmail.com
+Country: FR
+Plan: Free
+Hold Status: No
+Email Verified: Yes
+Profiles (2): Pisugazz, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1799192884	OptanonAlertBoxClosed	2026-01-05T23:48:04.099Z
+.netflix.com	TRUE	/	TRUE	1802216888	dsca	true
+.netflix.com	TRUE	/	FALSE	1799193173	nfvdid	BQFmAAEBEMHW9uSiTl9x5e1Y1qsvT95guHKDg2ZdFTmO8Lz1rTV200cA-JnygTCmMsqG66eeg7INANvBNdHoT4zRUhSoHfkyOe2AcFucEZD1VFBXUU45BbpS3MxjKvpnLcRYm5UJdvVQp0I-pSKvug7-7nBPqDMc
+.netflix.com	TRUE	/	TRUE	1821296236	NetflixId	ct%3DBgjHlOvcAxKPBLnSYmTYVXzb-kgn8MKg3FSQ8asG7xZ0gmtJGJyrHLOlecjWSafaYoKd4qDJ4l3R6h6ddcHgM8RttafNCfd7njvAhuGVRw-5AahsQHykGqNOpdxqfGSAleU8BuGnF7-KFx3OlHnXJjaS2mw6s7-dG83PXEfK2sLwZx-dnc8dZzVYMFZWJAWUJvkUpNTNj4TGCgd1_dXLh2ZnrFXkY5q6NWjP24M_tI-d86JJvd_qqygJ_P-9Erlw2kGFGpqIYWPrSk-719IcGfDcPbWdZdxRCaZl3y4DLvFhMb1utffE_nmOahoqig0KzwJJ3EDVFesoZ6Pyi2N4FP2Cko1NB6IxhI28f0JCYObjoFxTOJwWrXgcq49r1v4cKkvYp6-xg5ckSrz7BlQ49Bjk67Ph0ZXhTaPkXIf-KfAiMp-b2AmCEGnH6exulGyhdqtbWpCdEZ94Krt_ArPEx4HYjDi99KhJF6kMnmVxUXscWYixgYA1nqwsdGWEeluhI_9IJrbiBU89XdJuN2e-oSnYsE_15bbDGDv2kcu7Lan4CVcfEPiFycQlLKCBAhbJr1qVBLXXQHknEpt-aqTKh685u3BCHmby67r-040pW3XE6td2Agt7na0Ixs6ZkeLqU3y9Ki1ip9aKA5rVWTnwSV-kGwB0L2lkn45DNl9pIlZx9o9w3NH_54CAaxDZu5z6PTt5QchLh2eDGAYiDgoMc8j0oEdLpzntFA_R%26ch%3DAQEAEAABABRgfSsiOMZkA6aPBLMIImZxEkj0E_yU_vs.%26v%3D3%26pg%3DPQBC7OYJ6FFCBF7BRGZIWC72GY
+.netflix.com	TRUE	/	FALSE	1821296238	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+18+2026+21%3A37%3A18+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=026be30f-23d0-4d53-a1f6-dfb1f8a97412&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BBRE&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1821296236	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyblALPEXTQN23VDIsEPbcETIpORO_mM8.%26dt%3D1789760237262
+www.netflix.com	FALSE	/	FALSE	1789846637	_OT_sm	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1789771036	flwssn	68056e8f-498c-4149-9d27-43dc4811890d
+.netflix.com	TRUE	/	TRUE	1789846635	gsid	f0d998a0-f538-4fb2-9f10-4d8720ee219d
