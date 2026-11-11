@@ -22,7 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env
-*.env
 src/backend/.env
 backend/.env
+.env
+.env.*
+*.env
+*.env.*
