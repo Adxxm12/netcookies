@@ -11,7 +11,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 COOKIE_FOLDER = os.path.join(SCRIPT_DIR, "NetCookie")
 
 # Endpoint Netflix
-API_URL_IOS = "https://ios.prod.ftl.netflix.com/iosui/user/15.48"
+API_URL_IOS = "https://www.netflix.com/api/shakti/v1/account/token"
 QUERY_PARAMS_IOS = {
     "appVersion": "15.48.1",
     "device_type": "NFAPPL-02-",
