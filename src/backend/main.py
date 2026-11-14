@@ -4,6 +4,7 @@ import sys
 import json
 import uuid
 import time
+import re
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from fastapi import FastAPI, HTTPException, Depends
@@ -20,7 +21,6 @@ load_dotenv()
 BACKEND_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BACKEND_DIR))
 
-# Import fungsi dari bot.py (versi dengan background checker)
 from bot import (
     try_get_login_url,
     get_cookie_files,
@@ -29,12 +29,11 @@ from bot import (
 
 # ==================== CONFIG ====================
 TIMEZONE = timezone(timedelta(hours=8))  # Malaysia
-DAILY_LIMIT = 1
+DAILY_LIMIT = 3  # <--- Dah tukar ke 3 free account sehari
 USD_TO_MYR = 4.70
 VERIFY_DELAY_SECONDS = 60
 ORDER_COOLDOWN_SECONDS = 300
 
-# Absolute path — elak data hilang bila Render redeploy
 DATA_FILE = os.path.join(os.path.dirname(__file__), "backend_data.json")
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
@@ -45,12 +44,12 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_KEY:
 
 app = FastAPI(title="NetCookies API")
 
-# CORS — domain kau + localhost dev
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://netcookies.store",
         "https://www.netcookies.store",
+        "https://netcookies-1.onrender.com",
         "http://localhost:5173",
         "http://localhost:3000",
     ],
@@ -110,30 +109,72 @@ class CheckoutItem(BaseModel):
 class CheckoutRequest(BaseModel):
     items: list[CheckoutItem]
 
+# ==================== HELPER: STOCK BY PLAN ====================
+def _classify_plan(fname, content):
+    lower_name = fname.lower()
+    if "premium" in lower_name: return "Premium"
+    if "standard" in lower_name: return "Standard"
+    if "basic" in lower_name or "free" in lower_name: return "Basic"
+    
+    lower_content = content.lower()
+    if "premium" in lower_content: return "Premium"
+    if "standard" in lower_content: return "Standard"
+    return "Basic"
+
+def _get_stock_by_plan():
+    raw = get_cookie_files()
+    valid = get_valid_files()
+    
+    stock = {"Premium": 0, "Standard": 0, "Basic": 0}
+    
+    # Kira raw folder
+    for fname in raw:
+        path = os.path.join(os.path.dirname(__file__), "NetCookie", fname)
+        try:
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                content = f.read()
+            plan = _classify_plan(fname, content)
+            stock[plan] += 1
+        except Exception: pass
+            
+    # Kira valid folder
+    for fname in valid:
+        path = os.path.join(os.path.dirname(__file__), "NetCookie", "valid", fname)
+        try:
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                content = f.read()
+            plan = _classify_plan(fname, content)
+            stock[plan] += 1
+        except Exception: pass
+            
+    return stock
+
 # ==================== BASIC ENDPOINTS ====================
 @app.get("/")
 def root():
     return {"status": "NetCookies API running", "time": datetime.now(TIMEZONE).isoformat()}
 
-@app.get("/api/rewards")
-def get_rewards():
-    return {
-        "products": [
-            {"id": 1, "name": "Netflix Premium", "country": "🇲🇾 Malaysia", "plan": "Premium", "quality": "4K UHD", "duration": "30 Days", "price": 0.50},
-            {"id": 2, "name": "Netflix Premium", "country": "🇻🇳 Vietnam", "plan": "Premium", "quality": "4K UHD", "duration": "30 Days", "price": 0.50},
-            {"id": 3, "name": "Netflix Standard", "country": "🇲🇾 Malaysia", "plan": "Standard", "quality": "1080p", "duration": "30 Days", "price": 0.25},
-            {"id": 4, "name": "Netflix Premium", "country": "🇮🇩 Indonesia", "plan": "Premium", "quality": "4K UHD", "duration": "30 Days", "price": 0.50},
-            {"id": 5, "name": "Netflix Premium", "country": "🇵🇭 Philippines", "plan": "Premium", "quality": "4K UHD", "duration": "30 Days", "price": 0.50},
-            {"id": 6, "name": "Netflix Basic", "country": "🇲🇾 Malaysia", "plan": "Basic", "quality": "720p", "duration": "30 Days", "price": 0.25},
-            {"id": 7, "name": "Netflix Basic", "country": "🇮🇩 Indonesia", "plan": "Basic", "quality": "720p", "duration": "30 Days", "price": 0.25},
-        ]
-    }
-
 @app.get("/api/stock")
 def get_stock():
-    raw = len(get_cookie_files())
-    valid = len(get_valid_files())
-    return {"stock": {"Valid": valid, "Raw": raw}, "total": raw + valid}
+    stock = _get_stock_by_plan()
+    return {
+        "stock": stock,
+        "total": sum(stock.values()),
+    }
+
+@app.get("/api/rewards")
+def get_rewards():
+    stock = _get_stock_by_plan()
+    return {
+        "products": [
+            {"id": 1, "name": "Netflix Premium", "country": "🇲🇾 Malaysia", "plan": "Premium", "currency": "MYR", "price": 0.50, "stock": stock["Premium"]},
+            {"id": 2, "name": "Netflix Premium", "country": "🇻🇳 Vietnam", "plan": "Premium", "currency": "VND", "price": 0.50, "stock": stock["Premium"]},
+            {"id": 3, "name": "Netflix Standard", "country": "🇲🇾 Malaysia", "plan": "Standard", "currency": "MYR", "price": 0.25, "stock": stock["Standard"]},
+            {"id": 4, "name": "Netflix Premium", "country": "🇮🇩 Indonesia", "plan": "Premium", "currency": "IDR", "price": 0.50, "stock": stock["Premium"]},
+            {"id": 5, "name": "Netflix Premium", "country": "🇵🇭 Philippines", "plan": "Premium", "currency": "PHP", "price": 0.50, "stock": stock["Premium"]},
+            {"id": 6, "name": "Netflix Basic", "country": "🇲🇾 Malaysia", "plan": "Basic", "currency": "MYR", "price": 0.00, "stock": stock["Basic"]},
+        ]
+    }
 
 # ==================== GIVEAWAY (FREE CLAIM) ====================
 @app.get("/api/giveaway/quota")
@@ -178,15 +219,21 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         )
 
     data["quota"][quota_key] = used + 1
-
     claim_id = str(uuid.uuid4())
-    plan = (info or {}).get("plan", "Unknown")
+    
+    plan = (info or {}).get("plan", "Basic")
+    country = (info or {}).get("country", "-")
+    email = (info or {}).get("email", "-")
+
     data["claims"].setdefault(user_id, []).append({
         "id": claim_id,
         "redemption_url": url,
         "claimed_at": datetime.now(TIMEZONE).isoformat(),
         "product_id": req.product_id,
         "plan": plan,
+        "country": country,
+        "email": email,
+        "expires": expires,
     })
     save_data(data)
 
@@ -195,6 +242,8 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         "claim_id": claim_id,
         "redemption_url": url,
         "plan": plan,
+        "country": country,
+        "email": email,
         "expires": expires,
         "remaining": max(0, DAILY_LIMIT - (used + 1)),
     }
