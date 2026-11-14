@@ -34,7 +34,9 @@ DAILY_LIMIT = 1
 USD_TO_MYR = 4.70
 VERIFY_DELAY_SECONDS = 60          # 1 minit auto-verify
 ORDER_COOLDOWN_SECONDS = 300       # 5 minit cooldown
-DATA_FILE = "backend_data.json"
+
+# FIX: absolute path — elak data hilang bila Render redeploy
+DATA_FILE = os.path.join(os.path.dirname(__file__), "backend_data.json")
 
 # Ambil dari .env (JANGAN HARDCODE!)
 SUPABASE_URL = os.getenv("SUPABASE_URL")
@@ -45,11 +47,18 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_KEY:
 
 app = FastAPI(title="NetCookies API")
 
+# FIX: CORS — domain kau sahaja, bukan *
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Nanti tukar ke domain sebenar untuk production
+    allow_origins=[
+        "https://netcookies.store",
+        "https://www.netcookies.store",
+        "http://localhost:5173",   # Vite dev
+        "http://localhost:3000",   # fallback dev
+    ],
     allow_methods=["*"],
     allow_headers=["*"],
+    allow_credentials=True,
 )
 
 security = HTTPBearer()
@@ -171,7 +180,7 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         "redemption_url": url,
         "claimed_at": datetime.now(TIMEZONE).isoformat(),
         "product_id": req.product_id,
-        "plan": info.get("plan", "Unknown"),
+        "plan": info.get("plan", "Unknown") if info else "Unknown",
     })
     save_data(data)
 
@@ -179,7 +188,7 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         "status": "success",
         "claim_id": claim_id,
         "redemption_url": url,
-        "plan": info.get("plan", "Unknown"),
+        "plan": info.get("plan", "Unknown") if info else "Unknown",
         "expires": expires,
         "remaining": max(0, DAILY_LIMIT - (used + 1)),
     }
@@ -269,7 +278,7 @@ async def order_status(order_id: str, user = Depends(get_current_user)):
                 order["status"] = "paid"
                 order["paid_at"] = datetime.now(TIMEZONE).isoformat()
                 order["redemption_url"] = url
-                order["plan_delivered"] = info.get("plan", "Unknown")
+                order["plan_delivered"] = info.get("plan", "Unknown") if info else "Unknown"
                 data["orders"][order_id] = order
                 save_data(data)
             else:

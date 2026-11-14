@@ -1,7 +1,7 @@
-fastapi
-uvicorn[standard]
-python-telegram-bot
-requests
-httpx
-python-dotenv
-pydantic
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+httpx==0.27.2
+python-dotenv==1.0.1
+requests==2.32.3
+python-telegram-bot==21.6
+beautifulsoup4==4.12.3
