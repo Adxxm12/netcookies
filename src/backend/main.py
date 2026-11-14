@@ -20,22 +20,23 @@ load_dotenv()
 BACKEND_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BACKEND_DIR))
 
+# Import fungsi dari bot.py (versi dengan background checker)
 from bot import (
     try_get_login_url,
-    get_stock_by_plan,
+    get_cookie_files,
+    get_valid_files,
 )
 
 # ==================== CONFIG ====================
 TIMEZONE = timezone(timedelta(hours=8))  # Malaysia
 DAILY_LIMIT = 1
 USD_TO_MYR = 4.70
-VERIFY_DELAY_SECONDS = 60          # 1 minit auto-verify
-ORDER_COOLDOWN_SECONDS = 300       # 5 minit cooldown
+VERIFY_DELAY_SECONDS = 60
+ORDER_COOLDOWN_SECONDS = 300
 
-# FIX: absolute path — elak data hilang bila Render redeploy
+# Absolute path — elak data hilang bila Render redeploy
 DATA_FILE = os.path.join(os.path.dirname(__file__), "backend_data.json")
 
-# Ambil dari .env (JANGAN HARDCODE!)
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_SERVICE_KEY = os.getenv("SUPABASE_SERVICE_KEY")
 
@@ -44,14 +45,14 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_KEY:
 
 app = FastAPI(title="NetCookies API")
 
-# FIX: CORS — domain kau sahaja, bukan *
+# CORS — domain kau + localhost dev
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://netcookies.store",
         "https://www.netcookies.store",
-        "http://localhost:5173",   # Vite dev
-        "http://localhost:3000",   # fallback dev
+        "http://localhost:5173",
+        "http://localhost:3000",
     ],
     allow_methods=["*"],
     allow_headers=["*"],
@@ -130,8 +131,9 @@ def get_rewards():
 
 @app.get("/api/stock")
 def get_stock():
-    stock = get_stock_by_plan()
-    return {"stock": stock, "total": sum(stock.values())}
+    raw = len(get_cookie_files())
+    valid = len(get_valid_files())
+    return {"stock": {"Valid": valid, "Raw": raw}, "total": raw + valid}
 
 # ==================== GIVEAWAY (FREE CLAIM) ====================
 @app.get("/api/giveaway/quota")
@@ -162,22 +164,29 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         )
 
     try:
-        success, url, expires, error, filename, info = try_get_login_url(max_attempts=20)
+        success, url, expires, error, filename, info = try_get_login_url(
+            max_attempts=15,
+            user_id=user_id,
+        )
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Bot error: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Server error: {str(e)}")
 
     if not success:
-        raise HTTPException(status_code=503, detail=f"Out of stock: {error}")
+        raise HTTPException(
+            status_code=503,
+            detail="Stok tak tersedia buat masa ini. Sila cuba lagi nanti.",
+        )
 
     data["quota"][quota_key] = used + 1
 
     claim_id = str(uuid.uuid4())
+    plan = (info or {}).get("plan", "Unknown")
     data["claims"].setdefault(user_id, []).append({
         "id": claim_id,
         "redemption_url": url,
         "claimed_at": datetime.now(TIMEZONE).isoformat(),
         "product_id": req.product_id,
-        "plan": info.get("plan", "Unknown") if info else "Unknown",
+        "plan": plan,
     })
     save_data(data)
 
@@ -185,7 +194,7 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         "status": "success",
         "claim_id": claim_id,
         "redemption_url": url,
-        "plan": info.get("plan", "Unknown") if info else "Unknown",
+        "plan": plan,
         "expires": expires,
         "remaining": max(0, DAILY_LIMIT - (used + 1)),
     }
@@ -206,7 +215,6 @@ async def checkout(req: CheckoutRequest, user = Depends(get_current_user)):
 
     now = time.time()
 
-    # Cooldown 5 minit
     for order in data["orders"].values():
         if order.get("user_id") == user_id:
             created = order.get("created_ts", 0)
@@ -217,7 +225,6 @@ async def checkout(req: CheckoutRequest, user = Depends(get_current_user)):
                     detail=f"Please wait {remaining}s before placing another order."
                 )
 
-    # Satu pending order sahaja
     for order in data["orders"].values():
         if order.get("user_id") == user_id and order.get("status") == "pending":
             raise HTTPException(
@@ -270,12 +277,21 @@ async def order_status(order_id: str, user = Depends(get_current_user)):
     if order["status"] == "pending":
         elapsed = time.time() - order.get("created_ts", 0)
         if elapsed >= VERIFY_DELAY_SECONDS:
-            success, url, expires, error, filename, info = try_get_login_url(max_attempts=20)
+            try:
+                success, url, expires, error, filename, info = try_get_login_url(
+                    max_attempts=15,
+                    user_id=user_id,
+                )
+            except Exception:
+                success = False
+                error = "server error"
+                info = None
+
             if success:
                 order["status"] = "paid"
                 order["paid_at"] = datetime.now(TIMEZONE).isoformat()
                 order["redemption_url"] = url
-                order["plan_delivered"] = info.get("plan", "Unknown") if info else "Unknown"
+                order["plan_delivered"] = (info or {}).get("plan", "Unknown")
                 data["orders"][order_id] = order
                 save_data(data)
             else:
