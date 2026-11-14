@@ -22,10 +22,7 @@ sys.path.insert(0, str(BACKEND_DIR))
 
 from bot import (
     try_get_login_url,
-    get_cookie_files,
     get_stock_by_plan,
-    is_premium,
-    is_owner,
 )
 
 # ==================== CONFIG ====================
@@ -165,7 +162,7 @@ async def claim(req: ClaimRequest, user = Depends(get_current_user)):
         )
 
     try:
-        success, url, expires, error, filename, info = try_get_login_url(max_attempts=15)
+        success, url, expires, error, filename, info = try_get_login_url(max_attempts=20)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Bot error: {str(e)}")
 
@@ -273,7 +270,7 @@ async def order_status(order_id: str, user = Depends(get_current_user)):
     if order["status"] == "pending":
         elapsed = time.time() - order.get("created_ts", 0)
         if elapsed >= VERIFY_DELAY_SECONDS:
-            success, url, expires, error, filename, info = try_get_login_url(max_attempts=15)
+            success, url, expires, error, filename, info = try_get_login_url(max_attempts=20)
             if success:
                 order["status"] = "paid"
                 order["paid_at"] = datetime.now(TIMEZONE).isoformat()
