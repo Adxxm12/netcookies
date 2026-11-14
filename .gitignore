@@ -1,4 +1,4 @@
-# Logs
+# ==================== LOGS ====================
 logs
 *.log
 npm-debug.log*
@@ -7,12 +7,13 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# ==================== NODE / REACT / VITE ====================
 node_modules
 dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# ==================== EDITOR / OS ====================
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,9 +23,48 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ==================== ENVIRONMENT ====================
 src/backend/.env
 backend/.env
 .env
 .env.*
 *.env
 *.env.*
+
+# ==================== PYTHON ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==================== PYTHON VIRTUAL ENV ====================
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# ==================== PYTEST / COVERAGE ====================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
