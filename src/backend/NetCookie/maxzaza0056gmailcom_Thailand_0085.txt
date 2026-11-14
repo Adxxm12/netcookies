@@ -1,0 +1,18 @@
+# Email:       maxzaza0056@gmail.com
+# Country:     🇹🇭 Thailand
+# Plan:        Basic
+# Profiles:    Bboythelord, English (Thailand), United States, Basic
+# Generated:   2026-11-04 06:04 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKSBJZM27kR0AYvVs5lfKv6W7kHN96LOFIHztmuKUTFkDDEfTVYBW7d1V8zAk72Dp_s4ZJBJ1T825OoRCP6KBa-H5OKvbY0xk7yVZF5DM40zLjt9KCWs31gY06ZNZkkal7NxgobDwj1xIBzf8H3Qh-kdHb26g5UYCDi38feEJj1IUEfr_DOd6yuf3o3np-oOhviVuNaYkgyMKKhMXiiXQ2J3zvIog8iXJ6Gasc6DDUpjT8tOp7m_ClKSu-_sdjmamaKkTKuQQVWcoix1UBL5yokMnT6fMJ-sSdBr1FtyWkxvJWXw9xUy5P1HCYZQA2SKnGwNlLFjI0NJzHeYDXp14cxQiz4nWxGx4GEGwzQpcjTGPU8ZZ064QFrQXRaYkpY_yhHfvRjBMSPxQasOrDA11lve2LcJI10RGL0N3O8kBbOjuHDftgVa8Qe7GaOmrmuu7yLzcN8L2lAZHZE9nOoBOFUJg9ChIMpA0ZqiEUcRnbPuKsZU2WKxADUlaMIPq3d_iCKELfzbEDfVCEbuNG2EyPEp1DZNseH--_FqTBxgF6JraPZ4EKSt49n5xdRoXGxVTW7k7zDB_QvSnC0gR-N0oQ2sztVYKMb5MYcvg0RzBAtSW-CDQPloDX4rhnUV1EF82mDWesS82_ySqaEbBLqz8J33dcqzhCPK-881qIpewKk7p_WxFbebikok7YmsskJWUvW_mzlGAYiDgoMRKTt3o0nZGoFqfVr%26ch%3DAQEAEAABABRC3X7pZByKPKepqdRNgiX2bls-ylKWxio.%26v%3D3%26pg%3DBUFMA3WKUZBZNOD4YCIP3DXXIA
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEJCnixBVFj2Ix-04nZ23b4FgzJdTP_MJqGsEH-8pS5ia--O6lWQWb8AEW6CZIajGTO8AUrmXmL0BGgoA2kuv_0cAGoxp6A_vIYYCnjMx_-ydLA8YDcV_uq_PM-UjUHcNNYTGOooAnxbPBU9K70PbPBCR
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+10+2026+21%3A47%3A09+GMT%2B0700+(Indochina+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a7809f06-b316-4d81-893e-a71815851ea5&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	0	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRa1aJviliW84w-q9uQ_0hfNhIaV3r_YNc.%26dt%3D1791971232685
+

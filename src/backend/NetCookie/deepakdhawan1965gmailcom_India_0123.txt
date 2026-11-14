@@ -1,0 +1,18 @@
+# Email:       deepakdhawan1965@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Basic
+# Profiles:    deepakdhawan1965, English, United States, Kids, Basic
+# Generated:   2026-11-04 06:05 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBELFmxZRPBuks3U7i547mHuJga2gy6kb41BDLlWAIMQ6cD618VjyA2V_KQk5xn7H_eY9_7HFdI4wod8BZoGfh4vTJXyZq--XNitDlCMGR51FC1vytMeRvCn-DTEaEonYllmp2chksX1Qc4HwnWEWtw4pb
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKBBBcO9cmfOPcAJHIQzBp870n9V2fKqUUCfeV92XIQDucO2NhNNpOOvk9hPEH5Yew70OzZ_ZrsOvrt0Xy9zXy32gNk9u75ExDwsXkimqRjJbXBhnYeV-6cUpNCi0G92zazmb_EaiF51ig4CqbVEHsphYb4_iYqBM2Zii5bWQ8m5VLIkw_ApEVkxjmuzbcFylaQTNdKRvkWr3NZaM3aVEm5POIRsMYciR9pFWNNZbUxHTV3eaVAcDJJFAqmHIjVKy94qZc4qTWc-dhORB633jl3Dc9fhuKwzrN6SPmgbcMIP_Ew1zwNus0QVdgTG8dcAmfh5htQypYzL1GL2gKn7QhXDYL1jKydKjR6vJ83o2xs5ofOhwy_laJfBD6i1fAerjYuRGwbiyjQtBbmCWWzifhHUfwRIdI_Lx094vgYnBvcW8hwuDNl3c1oC1Ck7ScAS1VvdQygKT4UhCknxt-M9kaFoIbtfJnUpFN7Ewk2Ke6-ExvSuRQiOra7UK8v9WNFflywYpWJuK9pjeyUsDU_hYBBXATJ7u7dLjizfemnCZ-HSOkzHpZFAuVvaB0IAl7m9XyVas6oLva5OZOy10iBzG1xMqWrw5_UymzpY80xFRGW4UzmvwDZIv27N3EelFZaFW73HtW5iRjGSR2c5NurJwzbcUMlBak1BDgHe6rGtaWEtyWZvRgGIg4KDOcil9JFxRe2_6ttCA..%26ch%3DAQEAEAABABSrpf0Oe_FtmDT3me1aq3YPdAT1xyVkXqQ.%26v%3D3%26pg%3D5D6QSUWXQNEDTI5SZLYXA7INQA
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+23+2026+17%3A28%3A39+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd7e052d-75d8-4b7b-acb9-d108e39084a8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZLbahUOw-QXai7cJvoYGOCrDw0chms0w.%26dt%3D1792756715372
+.netflix.com	TRUE	/	TRUE	0	gsid	19a5053e-4e56-4502-95c2-523ef1982370
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+

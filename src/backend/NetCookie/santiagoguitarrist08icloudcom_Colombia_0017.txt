@@ -1,0 +1,14 @@
+# Email:       santiagoguitarrist08@icloud.com
+# Country:     🇨🇴 Colombia
+# Plan:        Premium
+# Profiles:    santydrumer2009, Português (Brasil), United States, NANI, El Ñato
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEBAm0ymt_D32OUPtoC_kcitgwKE70jLeVnpanrRoNbCYIPs7j__EU-i8vFuE8B1FYh7mK779-hnsN_34XB3DfR6Fv73kni68ZAhuboSuaZbg0XZJJ9yM4mqPFEoZQ4bfxLyrxGgknBDiRiWP-JdmMHyd
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxLuA2oHbNvdegR-YISF-c0oGnR0GOVEdxZBxrZrqMzKojiUzvuj_U5i_dW8uCwtj1MJ61l5nHGcmIJVisOdAzKOtfL1klomZ5kxvFPAxfGtHAONG-gcsKIHkGj0GBXSGbQ9CqNkj9xkzSYNXyZ6WzjOunRPfj-dSED2N8Wx_dYkAYjQNLDpoARqAvVFLO2iIEWOjlIBZU9eLiED_g2A9Oj9UuS5WW2lF7ZZWsZCEsXUpsC6iV9ib9J7n6orISeUM_VxpvyO2c6QMycJjq_VAUviSEYNBULKSCryfXQd3ViEHVH9ucW9rGKlKvGAZmGZpGbsNrLDQGestcyYiCQj9LemnuaigpQFrAAupje6XMveb0fdUG1kz4H2ZOKoVvO6k-Y9E-rcer1k-KL-19XPJUEpwYEbcgVAk99F_uWt6OfvD8uF6YkfX1qSIrtyDDJBOdfcTMJMd7ztvdIwk-t1XiFY3ywcTWJETN9s9Mvj1dXQ2yuLIEPhIOk0sTArRnFgAdmQ2zZjWJELyHc5VG8AgYJYdXVSiqK33iz4V02V6rBAhJnd6-DmF7xc_dRgM01dEBeBlTiMOoqj4zgPSFydn_7xbxC6WAJrj_-3KQKJOdjbQcWQgGH3BbkVDlHQ6H2xauWoIQRueeLkflhZq5FbwaYSGAYiDgoMqWh_R9Q5lkOU-LQF&ch=AQEAEAABABTuKK9CISijEK-vv2R6LE3Z-Rm0NPtncbE.&v=3&pg=LVRDSPBVEFC7JIK463LNJWWJYU
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+17:01:00+GMT-0500+(hora+estándar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c85f834c-e5e0-4cd8-8593-94982aa1eba4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQQylAW2UZlevWncr_etjlMldL0U-9x2vw.&dt=1776031256094
+

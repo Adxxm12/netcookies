@@ -1,0 +1,13 @@
+# Email:       rp.prabowo17@gmail.com
+# Country:     🇮🇩 Indonesia
+# Plan:        Premium
+# Profiles:    riqaaa, Indonesia (Indonesia), United States, yang ini su, Punya mou anj! jan ganggu!
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxK1A2Lejh2yY0sLOy9k0YaJbUEMA3n6BCE3KJPRP9IHPFV24fzP4gZvz-kcpmQw0hDmTmaR0dAFI9wt7ooOFI8qDq7XY9MNKI450pefzWRWH_JAfVyksBtUgS05B5rWhn7ujD4vxmbbkQmDjRkq6ULkNtVtxlsxGtCHKA0t9txtKVWt9ImKAY71S1s3I_kwcRaq_wbnIadlPG1NVYBp-Ry8KtUaKL9Vi9KjHvYHX_Q8HpS4A7eNLVmCfExL43V6EK_e3bn31arOBbcSukwkSy3pUVi1Opg90ikDmbMqXOcY6JNHhIWjealpQ-I-Ov42mGD6--B0hQbzeRTYKR8rpv8i_3OJMM4IJamoGjsaXSXxT4P-eFLsMZNXHKhQ9syxQG34QYMjvqLlOnUNqIFUL9ojpx7Bq8_GCM0_wF2u_8ApJF_rCx_TC6oEbKHYn6SHqtKZQL23tuO465LAYaword45UTtszaL2RF8ibIKr-EXBim6ZCd-Vhm4SmgdAY9hO2mSEY3ydSic9WLoDSTa_HhJPiVcM243cvFmMpF3yYswDxo62Em_G5IYOPOj17y0bnpB_WssoaS1ZGAYiDgoMT9ndtD8U5T9n5nA5&ch=AQEAEAABABRoQxugeie1lCSnmyfDSHGWdutgdk2MVko.&v=3&pg=LBNHNTTC4JGSFHRH72POKTSQSE
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+14+2026+12:15:09+GMT+0700+(Western+Indonesia+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=40d63049-3fde-4ef5-b8d0-93e2819278ab&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSzd12P-0XsqyV1XES2YcG9Gy5bAIu68d8.&dt=1789362892438
+

@@ -1,0 +1,19 @@
+# Email:       ayahtakigawa74@gmail.com
+# Country:     🇯🇵 日本
+# Plan:        Premium
+# Profiles:    English (Malaysia), United States, Samsung Galaxy Tab S10 Lite, Premium
+# Generated:   2026-11-04 06:01 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEOwa6XY1F8LUNkajVsQ--TNgOmGlVt-sXlzIDvUlmPeOIDDbTT0CRjIO_QXmgqSZbyaVeESugdkmJGcIbTTMaPqEEsIAG3cqqNHEwftDYdnzF5wY9KXYIhWKcv-_cxObqKs8JRkF9hpLD6bnsP1VwMpk
+.netflix.com	TRUE	/	TRUE	0	flwssn	c9c9299c-0d64-4f8b-a98e-f8e23cf80976
+.netflix.com	TRUE	/	TRUE	0	gsid	4898cad7-cef8-4c3b-aeb5-5c2472286945
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuDE_iYqhdqB36pv76wMq07e9QabSchv8.%26dt%3D1789185418127
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA4ABTrmmKHCr3BZEftV3z93xgvcRiamsotObfxy_Lfe_maKI50KL4X_kQSwDuQKOB2nAGvDIGQHbBu9KWTS28DJOTFcgqO_E1VzeT9M00zsVLoIaKAPnzdF9Lw8fgPquaOIS3EVjMJjltf13-wW3hX_HJT9wBNXmPL-RDGR2HmgpNWTqE56xG9nxCnPMjqNSIhC9BbvWWj2hwRTQKpoqmKhtKp04zwRjIOGXPnVVNDqwqBS9cZXM2DNmGFGi9W4zjUiV59mot7boIOwq8dRPfB8js6_hVMqAr3HZPWAb8yxnKOcxgOUyoVau9gXkPFIN0YdRoalBHwqwo86MZ03Cx9QeSNZ9Kx79EgjnHudomDxGWa5Upfgmu5YzMh_lsZS2yM5GUR-1ucWzT5n3qbSoLgJU8W21sV62T7IcqUIlVH659E8wbgNgEEsyMbQYC8adw0j8Z9DJhpolteFBvrpPRUkSSpMvGk2b8R-0oB2bjHIa8zTL8284_oxIppjihgVEkklHFuFSmklbhTvbEjViRGSeoZgBgNP2iQQ8sVPzGAYiDgoMbTHoXeQXBsE-yDta%26pg%3DIVGA324NANHNLDHSS3IP2YL5TI%26ch%3DAQEAEAABABSP4RggOayDs6tKLZLLChHPnAay7xqAe38.
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+12+2026+17%3A36%3A40+GMT%2B0800+(Central+Indonesia+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b4e0b271-4efa-44f2-9726-105233a7fcf0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	profilesNewSession	0
+

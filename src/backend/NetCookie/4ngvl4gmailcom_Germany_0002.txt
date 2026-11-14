@@ -1,0 +1,14 @@
+# Email:       4ngvl4@gmail.com
+# Country:     🇩🇪 Germany
+# Plan:        Premium
+# Profiles:    English (Germany), United States, kiwi, angela, didi
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEJN3tJi0QbYuj5FnibBNNX9gPpl4EATu4y9Pb-mwbvz4P82550XeID6Or-FhzjLqFfq_ez7wEJ1QpqBk-qYVG58zlx71lomss9ULHn9aZ0AvozaQ2o9vPR4fPjzmBOzeigDwmF0VPNPGoKIMTMlY7_DA
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKFBLYd3yODO0xF9DCC6_zjKCO6WqJoONmrdAeTQmEDQQFLbvlIghxZhZZVjpn3R5hXwZBP3GY2oPk0G12mSGQLtRNw4OQzKoHBb1uA9-oV2wWY_wje8cecUnuIU83e80qpizZR4nrCdj2pDc4gLdZRo03_Ap5rSmri_CZ5hHnx2I1U-cOBqJ08ZPke6WzcJgE0O66dx_6PSN7ln5QTPTe-AycYGUDEVfQYhAxPz75jfq_l61ghmdM0uevkBPRTY4EZGzUyz6HPZxUjyWmQq4AMMejWZ6AmApQEmf3DlyjqxJIkGZei-rIPJYbod6BY-OxwZ6CWVImA8Z4DACuhLZU47p17-uHquP3DUhu6VLxRvf-iOgAoQDYtP3TjQclGMAx67zp05N65On2jISfYoFXr0BplOYEteIifgXUVLHoeHRlaEZ33Wyf_ny2aWO5FbiL3He_K_75OpiU9BF0qHP5vyi4HhZSaIh5-2AoVejF8-pPSfq6i-sbKY3aUMkLVRzyTTh8xVIcDMopayUXnGVwZj0Mo3qUTofJmB8qPfYBmGmn_1m_luYBf6NdypNlLh49sJTaKebduQGS-BUYOco6W4RcLGwnzPk8cx3FnNdoAGP9V3F5NlNaKSCSxdSMDc83grdSNsEzC5ApWRMNOtYLfi7m144U5FMOEIJ9h11Xv028xrdbVIx0YBiIOCgyJGZqLC5fsmIHAn4g.&ch=AQEAEAABABSkLV6SaS5Fjte7YOBd1vVr2Oj-tYPy0tg.&v=3&pg=KGMEJAD5MRDBREEO6XSWKMG6XA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSuW0523_0XdgRDaFDvRyi_OF1GD9OX-J8.&dt=1792665627585
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+22+2026+17:47:27+GMT+0200+(Mitteleuropäische+Sommerzeit)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e89a7033-80eb-4cea-836d-0067e9b788a0&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&fclco=&intType=3&crTime=1783800573720&geolocation=DE;BW
+

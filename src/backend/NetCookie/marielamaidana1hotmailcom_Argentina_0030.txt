@@ -1,0 +1,13 @@
+# Email:       marielamaidana1@hotmail.com
+# Country:     🇦🇷 Argentina
+# Plan:        Premium
+# Profiles:    Randi khana, English (Argentina), United States, Google Pixel 6, Samsung Galaxy M35 5G
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEFjXc8PTVSTgwX0TC9igBu9gQNBWaP_8i4rPt3r2j2IxsHH6gmq_PABll8ZeI7lzCm90Cghhf3ptqmCqmS6l0p1lGpejWW5Oe6v7cgR_Pp_9oJ28HLoL0dlnE8Wa-BhOXCd6unHDgQEgrehey5hHyMJP
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxL6AlGpqwPq_tva9GOJ2x2wk8_4t0mwxF1Uo0I9zyPk7guq9JNz_Y02cVVT6hAr75KoBZJX4Fws77FzAhZTn8dxtbZ1vXIr_oQKvZizdniwwXj0n2kHVgcm3UsC7ia0WeaWxxrAzHGPZlUplQVV2BcrIJo2ROEFBL5nM0kQFETgal0QNj1wR3hwEvEr-7xIaTk-60xNvmH69BfluFUYXyQh0T5RCJStN1aGIgUsjGzYNXzvEIapSAiQMMDWMJF_TNAv0OjNifHC52yZn6_KsjMlkP5TGpzykelNKdKaIigIe7zj1Z_0kRmAT07PSwlVNXa_-20-y_cKfooAVpGxf72fOqF7Zbv91fzfTh327fYm79TPFnW2jMDgDQVJhlT3xOa6xPhX3iAXTIQ9Sa0Klsnk9xdT2zmC5k3m7vPjfsw0ZWQNJx2zVhY-D0qjehCGQxL-BwAtd58XkOw-pTacIJ7XKqFvCVlfxuWjwo9v7QP0TXF9YkkV6YXV4dswrRgGIg4KDM4RnGV_kXnwaS4gcg..&pg=4ISADY4KQVDM3P3ET6ZRRPOOH4&ch=AQEAEAABABRVbM8F4fMU4_8dXhN8TiD0VeZDVRiavt8.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABRjTh-o2-qyRFDbAxFHldDzWaOBw83f2FE.&dt=1774833167242
+

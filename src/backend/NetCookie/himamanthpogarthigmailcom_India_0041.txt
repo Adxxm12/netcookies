@@ -1,0 +1,14 @@
+# Email:       himamanthpogarthi@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Premium
+# Profiles:    Admin, Português (Brasil), United States, Samsung Galaxy Tab A (2016), Hl
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQ_XUgsQb9bxRInNOJdl2J7wuiH9ij2Yes.&dt=1793911276643
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKUA-FD4PlrWfySOuIAUt3Lv7iIWZ3ZY8Ru4mnJgDVydFsn8z1tMbTxI5GsojJSFueIZL0WIlAVAlc7MdQZUkQmdJDprQIXi69gTCiUfTXBaLloesOmZgWbOlnlFe-MchE2AXyNBqt4qBbx7it-EoATapA5HtkeYB99doB9U9DQ1sD3nMqT3HTl2-yKGqAWIigTQ7g4gharzm02ar2uNfzV2YAfkSTtYqy-6vFODfXugPtl0dVfiJaEpGu5WedUieEvLG4dG_2TVM2A557kqvPvQMESoXMOnO6-QO0lF2WS0auYuaf0jPWszB-gzmUnesocsyDdqjGkKFHd2WI_CepfG0jJhpWOVuofnOPeuMArIpfc6yF3SfYxvYY5s4dCNIYV3-ZAklejC7gFti2JrOuXg4egc0uq7UrnGaD5gWG7YoocwdmRlqGb6aZsKamTb_E6vWKPEk5jLwFq_H48_lBbnUNPm7cpmOnCZXv_iQ1rlBEf4matChT3-8v6z93Xqauig-zxxcshWQszCiGXgL13h22KOgYZGAYiDgoMlMRCQ0EMcnUUs9Ol&pg=Q55OPNLMYJHKHOGEPSFZLTS2PM&ch=AQEAEAABABSSGjjSRYWRfK_UJ668dyHcLp6iGW3yYic.
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+05+2026+21:40:56+GMT+0100+(Central+European+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=52b8c358-8b15-4a71-a9c3-93cd0410a600&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEA_M4QfVgWC1tcp1FG7N0HxgeGlq0CCbeL10wIv3ceFTmxXiplBKMsON2yOnCrkfNb4s63pJJhWprhIO408-G6T4od6wtps54GVORPBsU-dWvc39DiHQlRADtpnY6SBR_3C2byasKZTCOOG1YtZCR4iv
+

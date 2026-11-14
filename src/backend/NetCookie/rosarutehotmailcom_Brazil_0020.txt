@@ -1,0 +1,14 @@
+# Email:       rosa.rute@hotmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    TIPO E TIPO E NADA VER, Português (Brasil), United States, Co, Premium
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEMYJui3ricyuA5_1O9ARl9Fg3gyCiExdpFeh1S5Mp2e5UVPgvp1BRQ9rEtG5xZyNZYRrahZZ0ndXs4ckl2GkTGdTanmYyCY0eaAFr_ijPMpYdG1eiUcjhvN-oioQvV2xAY8VcKKAM0wz1lD-KNNBn0MU
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKSA34TuHpT81N_2EbnzubikDqqYhcFknhYy0BMNpthFfwuqs958x826kqj7ejZvUDa6UCUpTjp6gbvbiqW47ly9_RYkB-2Snkc0gS52GaH_9YmWED0ofuUN7lWRpscVid9rbIBY2JiMMctJGRemdq-JUbawik1U3rVgjQ_2mvfJNEZJDZu-skCBtpj3s6390r8pZJFp0oKASeaG2X2EkXw1XJonYRmU1IGUTpOcJfTcJG6KdBeCkXWso3qqjBRJ-PlV0Z0ya0KeaY2C5sYBYMaZgdhZUEzfbzo2oFT1g-uaXKWz1FiswHtLTx3f5ptqeNnJtfFxWkVo30S2Q0196w7c27gckmz593sj4WfFaSOCbCk1MrXjISkq7W17gdydTqu0RivHni0Du1ZFg__Z2GOJkie2RpovcIvodaR1rK3YRzuuwd8j5qzbueAEfuwV6qhZzkSzPnp-uhea_wMvgCPM4Xsr38yT9PiPz2lBAp_4NL6_jqdTDoHnAdI9xtRF01g0ljuERzJ7Lxr_DwoF3cJh_1kKBgGIg4KDEYZtmROguZug2BSKQ..&pg=Y5RVWY7KOJAFLKSQYHTDYISMOE&ch=AQEAEAABABTc1IyzhmWxC56eSt3P1oU7MAtfgwoSCKk.
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+21:38:35+GMT-0300+(Horário+Padrão+de+Brasília)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8ac7a8be-7c1e-4dd8-8d12-519f5cb13a2b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=3&crTime=1776731702214&geolocation=BR;SP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSPZs2ILi3JYRcc-fteOh-qwlYzN19qD6c.&dt=1776731918727
+

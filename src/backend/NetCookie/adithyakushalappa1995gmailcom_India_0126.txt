@@ -1,0 +1,16 @@
+# Email:       adithyakushalappa1995@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Basic
+# Profiles:    Adithya DK, English, United States, Adi, abc
+# Generated:   2026-11-04 06:05 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEOxgK6xvaPNQ6JrJM81gaXVgjBmVS5FihqRJqRfsnzcO1Qy1pt330FSm4WlPTeNrhyGJPxUj66ygYkbJU6XUoWlO52SS7vt7e5PzRDd4diyKFI0uadbChMSAXWJKR9hEiYukt0IG3WqJx-KayDW5E7x3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJJsrBuRJkxgGe_z_tJO187vCVrNWTkTk.%26dt%3D1793205061632
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxLXA_yQReUiIp_TYxHbaxPzOldwt2dw-Cjx1aUKNwA5ivZ4SDM4IuXS2Dg3d1_Fu0_xlST7VItbawKujUvGEnoW7p7HRMKkX3RWmXw269w83OsCP5AwOOBRQ5uUo64pbCLd07Uaqcofr4BJRV7V989twp2c7IAfcXptVE_Rs8y-kL1Lr96J1HR86HGAJoWiO_giTjnm4vp13IncJ3xeXTJyDMkHNKtVPOPeMRODmVK_FSP3lvEl2lL4v_foTAZydlcKMdCjgmsyLubbLPR7LkFkXBCNJztdXbzwG2CFTAJgQPVsRTHJ7-hvoowPY8JmlznzQN4w1PylYO6c621OF44p85yZSDO6x_Jz-2ZWiK55_ta867Vovjg8s0QUTVpS1zX0CRO2UKsznitwWEuORGh_wubn-rEsi8-x1DfpOLtJYi2nYPQsm0z82axceviCSHOqfGta8LifCqGi_2WC5tt2tv0JVeoR1NE5sZy8O3xxTcRDM4n17K7OWdL_Wq_cayPNkF5zuYBFrw7RpGYn65xRkdfWViiB291WBQUS1iZsG6ilT9zBIP2t89Q9GtNQXe6Ab93ajBh0X-72LDMHmZjmeCK83thKvA0HubUC6Gvg6Et095T9FuVAdRgGIg4KDBObMWh-jVvmSmsFkQ..%26ch%3DAQEAEAABABSBqDIj_JuYWiytA3CImGwUtaZY4V0iLpk.%26v%3D3%26pg%3DYALLPAVTPFDYXM5MPO4FGCTWD4
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+28+2026+22%3A00%3A47+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3c3efedd-5a7e-4997-8f4d-8f4349fd4a30&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+

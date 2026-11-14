@@ -1,0 +1,14 @@
+# Email:       mariavitoriagl644@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    Luis, English (Brazil), United States, Vinicius, Abraão
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEMi8sX8AqmvTrmdb09Xkoh1gOHqh7zyRIHAS3FpI4Xwz1EarHb6dHeIKJ2vUVx1p_I8LfH7OtV5G622Hd6lIpL88JNz-Keop4ZEywwH0XVfr_MNWVbCDIwThd9mpUKkbTWC-hwX9Wq1IFpglAixBiqfQ
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+12+2026+14:31:43+GMT-0300+(Horário+Padrão+de+Brasília)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8e98074-4328-4f47-9be3-ebc053344d5a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&intType=3&geolocation=BR;RO&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSFAd_nTo12IhVi5S_TgKQpA2dKcDXTY6k.&dt=1791826297524
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKEBGJwETJI7XxHGPJXEh5xqbOtVztu_62t-cHu5Sus58qIkZqOfzves99dUrDiHLyMSvUka3Gf1Fee46ELIQdsYmOmh9XV68pb873QINNaa6U6E9laCQ8cn3WGtx1krLvjqMVPdShDVsvA6uyCVVqq7qHp-pvI-aMdX69FzWCkrVK6siRTB3js04EQOE8W5ZZSYyTeDkZtWNHz4sdi_85xry8K_3FIdxviY_rAi_9LC7aCEhGGI455eAypnwj9QFn1G3VKbFKFv-PaQcwvPpb1zFZzwuJWppnFlad83JJhR8-DCeNVwFLNiQPABIRA1P9CIZatT6_E3kVrTRWCR34hEEDomle1V2MuyYtg8kwlTi_4_Dtzf_fF_jXxUnk9PwIwWFySbuy1vIIyCjIZwV6lBSlVjfWwWxhMPD66OxJ1xQJokr-s8IKEsJgcetT8wkQ824iNsZ0evlgQEOWc9rJ3ZlY4lUHZRFckSYAOnDfebK7L0Exu0oQkB8_NePAqaLsoz0Qs4lHTZ5aJo2eGdaPWeWaevam7wM2aO6EWg6Cf6FhYus3knCoEXl6CZw-IntYwFQxN2-ZMHm1ghKxbOEzFRx62TQMG-l8KHS79Yvxhz03vNertkFv51Tb359u-486_PZdlmy_nGCdTI_0_2w0nUGLt8DVE10yUw-EWF_ke7uZ4Nd-UbBgGIg4KDPGQ-XyFf7c4PO7eGw..&ch=AQEAEAABABQUIYh7G18QG5qH8GYWza34B1Ic4aognFw.&v=3&pg=ANJRRE242RHMHCOOV6IRNJMZUA
+

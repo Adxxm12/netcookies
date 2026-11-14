@@ -1,0 +1,14 @@
+# Email:       vasco.draimar@gmail.com
+# Country:     🇦🇴 AO
+# Plan:        Premium
+# Profiles:    Indonesia (Angola), United States, Abdo, Ica, Premium
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKvA1InTcltFJ8Nmg7nDNb_OOG1uxe8GDIcXpCA3GjkZg72l0oxu5UN_wtDfpUA5iXmk1dJ0NzKsB1aNXxGZFFgnAREaNcDzEbT0IJxLYuCUqBIEa0USXMBLmmyWzrnMKPRJKoOV8VRsAIRrPsF5vgB2Uee76Mu6c38tx_AbT2qz851WNJFDn6Y0djBUKcBdCDPnFsmGgWrzUkgwOEdiPg2ZclcJNmq6xkGf_8a3_X6mt-a30CcwuRCPqXw0kCKoMhO6EDF7HwXC2iI6Q-zskZkpuHFzZJH2prtvjKMnz2M6FY42sNLt7VdonG0fjqhktLBD2O5vMiO1cbrXsleDV67pvvVxQpqszgCbQ5oqui85OFNN_ZnVqEc8fKDcQSiMPkpxVOzttGENRvrSOsFjB3ksgKXcJwbrUy-CONwJucfhRdW7xoor9BjKMtQwkQiqDvtsx41O1opXNDhFvR1H0wvh9H3Z5-7PmcAw405OiwELJlDXdOtMil4VVxocvioAk9xJV7zNikMkgcZZg375eIXee0jsiY-LJKPMje4wvRFQieodXd7w76SmLk7Lwsc7Nq_GAYiDgoMpQiazdNC8vM4jW-m&ch=AQEAEAABABSMX4RtQ6ewKI1vkD6uzyaCDGHJ8YwJem8.&v=3&pg=6YZQOGGTTZBH7IA3CBJ7PMCEKA
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBECSmvp2ImA-knAkYLr9e5z1ghEFTGl_CA_8Igro0kYO4iWZEgP57mq6Ysp9JPqq4xCa9hJgaF2D0kX5pAiiHNLst1JNqvFf3tDGCBuR-2XqugZHpsOBspyQ3Jpd3ZpL7NMQXVsV33qcJQsDSjki55aIB
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+07+2026+21:44:14+GMT+0100+(Hora+da+África+Ocidental)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=159afcca-827b-4975-890b-46059bd2df24&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSAePMdxJlxmblum5CxB-zY6q-iRw1yosQ.&dt=1788813850843
+

@@ -1,0 +1,12 @@
+# Email:       lukasz020@poczta.onet.pl
+# Country:     🇵🇱 Poland
+# Plan:        Premium
+# Profiles:    Indonesia (Polandia), United States, Samsung Galaxy Tab A9+, Samsung Galaxy A14, P2
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxLzAwweEGZkWcbOKNlSpaciVjRgCgmkfXSedv1qGN8pgNKwkZ3LIy5CeiRKVuvo5Hw4oqMe80qVMJTTHPf1m8ZQG0wM8R0l0-9yW4hbFHUjVECWUaOQonvbC_dHOmwjQ44QT6U7mvZ7scn8zbscYy5OXPVkju5f69kMVzHIc14ryQbmeGNWd2L0GVnepOZNHVCXQ6jg2Hh5uXYCUVdwZcq6Y1B2cz4epFodAXNOT1xsoZzCoCrJI8Py2440X8UhaZM8A_5LNCM13Ov6gaMGu0SLvB4T65zasxRadGxYurLIQMcA5hlj-MG0HEt4WVqeK3MgNYvhFIYbNoWkYJVMg_WGR2qoFVYuTf5hnZGEvpGOrRJ5jPucsKtLwNnreYJWgOmZ-U3nfwSz2Y9KQO-8K6W1RyPdDXM0TjqFGB9Bx69tk9bp1N7DMuyJEVt9xVcEYO1-RWLnuzwKmiq9lss9oG2ABm3PLUQUdW9f3-aYv7HRtV3Od14VLlMGLJwGQkfmigDnIOb_hKa_7eOnxdWhDfDdy0w2nIoAWBMoQyZb5h02OhFJszGBM92fozw0pumix3v-Sf0SymphwGiBKA9_1AGuJp-TrqsrS7oz8qC1vJaLLbh_qGgKth8U885oYBESMmB9bIpgSJfTeJctLwxaPqqeix3VObYYBiIOCgwMfxdXlN8n-jBJ08M.&ch=AQEAEAABABTbjqfzU432esUXuaGn5PE1_dj8cqClKT0.&v=3&pg=LMEADVF32VDOZI7KLPRTIOACH4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQByOh5lppjQlG8zJJmdQN3othEq0iDu98.&dt=1764065135685
+

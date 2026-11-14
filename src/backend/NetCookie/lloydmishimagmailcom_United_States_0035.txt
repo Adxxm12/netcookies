@@ -1,0 +1,14 @@
+# Email:       lloydmishima@gmail.com
+# Country:     🇺🇸 United States
+# Plan:        Premium
+# Profiles:    Silvia fernandez, American English, United States, Kwon, Guest
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBECsu1gQps-Q8PKOQoDYlI0Fgq-nRw8c378B5Z9NpZ41RZWffnAy0pQ-jtTlXQxKd5E16ZVP01zEc62SbQJVmffwnjMqa8GWDPPBoraNzpTmhvuvq962s083ie-OwCPTsjG9SBvxo1k3ohqtLufxhxPh1
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKTA2Q2lv-6zI_dId5e7tSW6nJnS1l4WNzJMaHcGG0882i1z89Tx6jQkFnwQevNReev7TJ5aziGW_rcFyEbKH5GZLZdKTm9Qgd8fhUFnnhy5EJ-zoq-3WW0jHy64KixVUXz8OdUgaM4VpuU8GgueHZ54EafoJpcwTs1e-DuNrky8NWOA-dA-2nRcZ2fztg44y-bU27D0jASZxLYaPrfeBS30DzumgXf7F8nj8gKzhUCQp-v-SnaRiT9NweBfGjZxz0fe8AFoJzS5smZIXjJ5As9GzNIiOqOJYdt0jNHw5UQKmKGKg-AzHcv_o22V-zn54ga8GLfw47jLK_pMGDB_xUiTaSx5wTmSGhem5qlOc5V9-50uFUUeDE1wCy15Hj_ecX7Dt0L3co6fdE5XyZk8oRP2KhfYcVsjBCoKJnA-RsmvlSboM6HYgAI-z-M51--Wv-2Gk1vfR5KZjUyUh5Mc5w0mHTYwkGO8ZLuLW7SJn8K3XX5TrqiQerQ7eBKU7U42qBpy7VOPkJ82_UAk1279loJsLDHDxoYBiIOCgxHpA3_X8TWvsLFvfE.&pg=MM4GUKM5VJEFVBBO2OQ7FITIMM&ch=AQEAEAABABS5sc65QelrsGKvf7FLSdR8I8AHNg1TBzg.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABShNrC9UiOLDgCdIwfnKLI7_If54jTJ3wE.&dt=1785083812146
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+26+2026+11:47:15+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=90f984b4-0947-43df-b107-17c554df6894&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1781113391933&AwaitingReconsent=false
+

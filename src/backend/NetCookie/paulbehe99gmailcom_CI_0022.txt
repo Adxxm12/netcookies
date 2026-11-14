@@ -1,0 +1,14 @@
+# Email:       paulbehe99@gmail.com
+# Country:     🇨🇮 CI
+# Plan:        Premium
+# Profiles:    Français (Côte d’Ivoire), United States, Premium
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEEZf6BRmAV6fu84NuFVyGhpgF7tzRd21zaYCcneAjQF-4kbY47UG54QmCyjUO_vQCIrCViW_3Ik4Tekt6ClI6-Dis4nGaNoYxcM7EvOt8EEK2cElN2ka7JMPxVa5dSfz0vys8WDJXevzlwhn2kraHCC-
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKBBKTIo2oalSIho1BqniK5qXfAbw4if2EeOzyBObMy9zBtsY3gj3JpBMCC1n9PePhx878IaFbEX8suEEUbE5kRY_OfkRtGLtinEI-z8dGL9bdMvKpYz8E8cIrPfuiB5UcJyrPW21IWJrlXvKz3y4eRTyUjPJQu77EHgKjAtVx1kkd8RB4-exQyWlHis3aOrvv_wPsClhbAK2L-Q8L161YEGD3ELW2DZYRF8B5PUbWYHZFYBPCoRSGtiUHPmWY81rNKb2dsXpnZFFFg42WwCvKmUfq6rPZWASXUYXZkoGd8sY-QebZLG72i2_uUknjCZNQS4PHL-h07z4u5q4LlUbs5KqPwlMViwBFow44mds8K8BlGzi_JxcJGMLo4kRiv4eNyOPh8w4SZt_9a6yQC3KZupPKVY-bpcRYPNZ1qdIbBuOhPBVtc99tLDPoXUjMvpRK77adEO0twupHdoma7te5kHIQwpRyIb8shRD-9uLPQoRxbIN0_F0Ds_Dd2-l-c73oYnVnHeaVSK_k_AeHR60JPMKuogGl31C98b_ioMIRgIZZZuM87tnceB3spqyhLqm_MORIL9QpeDFEJQ0ZEFXa7eI1uyFbBcoJhaB0wY4aWQPgCGCtwfMFa2B7jj4QicLT3oTsXgzfOCaZTEsldEwSoQuMrKjkg3urOGMOxDxmYJE2G6BgGIg4KDLybQqLLoD3ZOTxTDg..&ch=AQEAEAABABSPyoS3Ta8tfS2802nwC590hEheIVdDlsY.&v=3&pg=IDRCI7JY7JCCXC2DJOZGLX56KI
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+29+2026+12:16:30+GMT+0000+(temps+universel+coordonné)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5ba48bdc-03d1-4bf6-8ec3-666d1726b0be&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1783852945956&AwaitingReconsent=false&geolocation=CI;AB
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABTLwx6xwZx_grxHtXEUmOLhhFPJ5yYq5-Y.&dt=1785327384543
+

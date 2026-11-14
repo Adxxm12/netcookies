@@ -1,0 +1,14 @@
+# Email:       tanianewmanlerner@gmail.com
+# Country:     🇨🇴 Colombia
+# Plan:        Premium
+# Profiles:    DAD & MOM, English (Colombia), United States, Chuck And Jackle676767, Bro Ary Pingui
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEAhklFcEf1aPWtGi9IQLpopg8LIEIPmtNRvUg3gmPprfsYpuzy50PnpBpYMq4d5oSCFBpJkBFYEg_vYDUU9W9EqSomuT0yXwNicYxrrOR-qUWYxPB-7OjWm_siFipvfP8dyrZ-VfnkO66Li8sZr-d6bG
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKJA-TwYCNGqnwiRGPqsqd0MEXwpfcfwMiATQ8yAbVUmayhbyojEcNXbvhGS4IIJ1b9Rjqouy7j6g4_ajm4CJDcP0308Ut8rpGUWgdbpFI-5jVxtKCo5OfW7uVPMyg22LvaWDy6yPACUzCqk8UvBc9lzOwOEstP5HoxHhsxEZbUXAzXraDB7PfBJJdt3bmrTc_q3KcNJkIPySQx7nnYaZ5Cx-FLHgxJZjjHSd7p5yEZB3jvlB0PlTHK33lVOuqQCP58zFGl7eulmrmbofKtWNZxH345oF6kgfgQ89t49PhKBFhg4tjI0U6rhL5zYO7l_cd1gcNQsUsiZu0H0hbS3VD8L30aedKn_KWAaZXFI6vQz2tMOAfgsLi3NJavvfbpsW2_4rjEXpTTOYh70tTIBbW-4aUK2vd2w01ZVdRMEhXNT5_WBuNTUJ7GBNN8zs1VzN_BS09ENp_5jD7pi5JmEFT0C8y4j0Hc7LVaisZlnz8pRn7_KpCa5UU3lixcjLTv8C_n64MTAXGgMqyVRxgGIg4KDAD4LxJcp1h-nvMSxA..&pg=VAEWKFJPU5EFJDZPHSNJZQBKVY&ch=AQEAEAABABRDwrYyRIOmd66uRwtKr8f3kfjP2lRiIMM.
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+21:16:16+GMT+0200+(Israel+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=03c30b60-daac-40ca-a851-4cbad623072c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQ-z35TNifO5iren06LAbL-f-8lzi1JCGA.&dt=1769282177359
+

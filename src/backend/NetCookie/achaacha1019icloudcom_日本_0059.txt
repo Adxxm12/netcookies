@@ -1,0 +1,11 @@
+# Email:       acha.acha1019@icloud.com
+# Country:     🇯🇵 日本
+# Plan:        Premium
+# Profiles:    Sisi, English (Japan), United States, Gab, Sinsay
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxLyAuSlm27AKG5NTMs0A9ehzrr8hXl5-cUWc3aL9oNIb53SaaKkLNB7CtB8ODdLEwBVq1Ql5iA-5dS0mS7liBDnNijQcNUbbA9WjfgFx0SkpqAtOTbfDvJRzJx-0H1c1Il1hVI1XDWoI-dbuh_VqYN4Sok5cGP63xsINP0_4oZmgcAko58f-I_k_dIllX__avFjRl8plnAxOXTWknmypKqyC4r0pWulukFJThbD3qojrfKaSxCXYNrKmbiHP5jGp2jLCDx37AEIZut7KwzVyTnnkp3cvyyF2sBLK3uzWfz3Rj35oTShnvSG1rJh_Mkh1SYHkp8rheebN0MGk4DHuUtFXg2lXIYkHMnIQbYgrYJ6V4UE_da8lrPxgV9zUGWabxbOvfS9dX94YdV8-GyPI_shrUq7qfaM_1gEH5fPjs3OKMLHnWQRkNBpjG1sqyzjdpXS7RcblaR-jCcTIWBB7qF-MoBl7-NMQ4ECw1sEQyuTCcloIgsYBiIOCgziwsbPIvVQ3VfScMc.&pg=6SCNXA3BOVFRVMZZREZUWAWMBM&ch=AQEAEAABABQq9fVTBcL3OZCs3im1bt49oX-_J1Hh3OA.
+

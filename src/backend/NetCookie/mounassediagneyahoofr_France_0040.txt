@@ -1,0 +1,19 @@
+# Email:       mounassediagne@yahoo.fr
+# Country:     🇫🇷 France
+# Plan:        Premium
+# Profiles:    maimouna, Français (France), United States, Falou, Lucas et Maxime
+# Generated:   2026-11-04 06:02 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	OptanonAlertBoxClosed	2025-10-05T21:08:25.139Z
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEBtr11OvSIjBiEBS6ch1AQlgvMK73J4K_QccjRO0Edcl1YyhvpRJGCrgCCyociqStCzgHk1GjnwS1MfZ9SPp8O1aXeS2Ne2wuSsRwnjjJfLGkSMwRSf_fwIyaNjN52ksbi13qLmBkXJH2zTBR0SkPdeG
+.netflix.com	TRUE	/	TRUE	0	dsca	customer
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+01%3A49%3A38+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ffd6372a-4f3d-4a3f-85e0-07475b1fe15b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BPDL
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKDBCJY7Ko0Nk6QaFdqipk6pAc7uCgWG8ciwIT4oq9cIAbiXLXmEkFQbnR-IiunbC27cJ3YCFjvCsZ6S4dI5r1yhgiN-ToDI8m7D0S0L-kvu4oK_4iGwzS8cT8pXB4P5WaCLXAPlCHoK73ooSVMLgFXQzK2nxSIkVDFR2K3SW-iYSX5zC9cZ2c3WbEWFdB7OLrUg-mr156lH2X0otTwwoR2yFXMeqqYlz5jnsG2d8SXlq-IR-9uZ-NQBQ4FpC9rbhv33r49WxOHsCeJGRWFz0b3asqlxtheNqbLXhchJ6nkVTez6c5gg4zS7OXTo1AFdr5pS8WHhatAQhF_w_lW6akZ7bpcz0GphZSL0_TlSl-pDsHkgD6UnM4YtXMFrpMfufoatwYZu_eCxl8-4_VVln0fZThZ5wnZRX3xC78vyPKjodXItwQycmsvIQ-Ho6R58AVG-VVUU2A1gIgLEjCK6Qp5BELZMYJTdcjYO-9IYl-x5cwz0-LKS4SYDq5HwDjv0rZ3SzwiG8EIylWFRkZmcxv-fB3Zly4kTKMFq0Pm9q4vIKp2iuUfUme3s2ctco-JYXa5f3KAQmffkCxg76hz7TzFF9h8SB7wCfyvRlJk_BhOQWLW7qQ9FaQ0WYIKexu47EqKlsGxMkLrsAcCdAasI0susuBZJtoWy-QoafMOVMUY_IAw5nZHGAYiDgoMMhrQ5aadvpjzWYY3%26ch%3DAQEAEAABABSaaAnidGabVxUtvD7vH9aj-wPEzDMRNqQ.%26v%3D3%26pg%3DELTWSSFMMFGKTG7XZKBPR7DDFQ
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPwY4hS6MucoTXC-XUV9R4UZ54BrT5FYU.%26dt%3D1776687437886
+.netflix.com	TRUE	/	TRUE	0	gsid	39174319-3015-4d95-8009-a45ef8d4bdf7
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+

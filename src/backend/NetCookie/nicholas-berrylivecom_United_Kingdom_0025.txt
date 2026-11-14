@@ -1,0 +1,14 @@
+# Email:       nicholas-berry@live.com
+# Country:     🇬🇧 United Kingdom
+# Plan:        Premium
+# Profiles:    Pearline, Indonesia (Indonesia), United States, Sosa, Premium
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEEhRGp_IQlKTFx57MkKdtkFg9BBq1wMn7YzTjXTnx2trvzRssVPojqyuC1TliMAnt7iHdqRRPsyYScDay1wIroUrOzorRAEeXpP91Tw9a8rs1kjcnE97lYKB0yBJxdWmOunryaFP8ESHQ5LvJDuO8Sal
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSx4D0oa9WgtCMpT6ymtSgFNTwbv4-mqRQ.&dt=1792869829232
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxL5A-AhTTLaeQWWOtR9vUPrzyVjFNPtiLbT0z11e5_pW_iHSxQvqylD9RSRUdYwbgRoT-L2BfFg1VrRzPmf-BeCO8UHZV4ZI1wEFLd6FbbHeReq0ZHEyEnP5vVBCHnaylF19NkvHNAqZyCQyn3RZ2SH3V7FF7yBWdtMCI8xOcNCjBhSbWFWRY640O4_VBose-J_KHWcVGtghAc-ONWx78AFAUmiw4NfmIfAufh-187EflzgVKJEfflxS1--KfZ3tGnAukzI0wOSuJIxpCngSNcKncU6oeQXSfLGnyLQyA9x1BGISMwO6yuE3cF2ememiGTTGrQOtlPewYeQPUfrCXBzcV5_g6rowXx4kXb7U6UuuyB2YJwl5MzBTJgWJ6FF4UA3JG76k8KtCnPgYNizbOirw1VESW4WsDmna3wLtIMw4JnShjbSW3rJNXCqiQt6v3oMb7l9i71Vzukt3P-qNhDTXBezhK-2pxhuUy6iXkabl3pg-2YOm9ibf72bZzE6khL9wkwLCyrP4Lx9H--6mE7gs9iSywzInVWbya-mIFXhD6n3TBVpzuD-KCNd_UCICYZHvHdYU94HCSElAXg6JmdYXDVyVfVTykSkgXrJju-WH9h9jQV2B0DpQvGO1nVdlnBWKcZKKyGGprE6lr8zc4fFTNY-NolAr8lIxGoYBiIOCgxBny8hCskxClkzP9M.&ch=AQEAEAABABRet2Pu7s2W7gDD9JKl3m0EbY8CDH08Usw.&v=3&pg=MRSWZIBJMRHY5G7VXYLPEIEBGU
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+24+2026+20:24:05+GMT+0100+(British+Summer+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd93a97e-e157-4f40-ad36-a910b82babc0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&intType=1&geolocation=GB;ENG&prevHadToken=0&isDntEnabled=0
+

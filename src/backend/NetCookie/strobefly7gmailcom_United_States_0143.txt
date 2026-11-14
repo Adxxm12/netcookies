@@ -1,0 +1,18 @@
+# Email:       strobefly7@gmail.com
+# Country:     🇺🇸 United States
+# Plan:        Premium
+# Profiles:    King, American English, United States, Meh, Google Pixel Tablet
+# Generated:   2026-11-06 02:55 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5eeOhbXTNuQWmn2au-rwOK6micR61Fw8.%26dt%3D1789245282391
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNA4Ir-eqnzDIqBmjXSB9tsUu2SLMn8MQx-7xxbLBlRPXZiComHrEeYh9UgbKaA_cKl0D9dt1omVGdX5WiNl6p4nMTs4IZraHEEwgbPHrqPUCCaklnq0p4YIexgSdsPVLBmekUQ0lTLRkuAzu2nqyTMIYsrRf8c2M3_6Qzv-iNyZ3vu8qeZmjoAlceUiCp2h9QO6YqLQZ27HFJ47obzcALo9QZ1hrCwbUIRnVIr5B20EdQkpPm1oldlatvJT0PkEC2dRRv9tA_gOB2sVwOtbzwewqvwYwhE4VwwtNN1yQFrJtTJazpe_94HfNCbQxDNdH8YZ2suVJRDSOFlZMBTHb60sZ5qiC62JY5mXS2EWYdkcJxxmQC5M6gA7Wz9hXBR6qVC6yEQ0-xnu0hUS2uMLgsQPMzTFuOxzKYFBOvihURR9dSevug3qDGQxkjDc92HIco0tGpzsF_MVNvVoPJ0ijhQV3ZVKEumrstzUWOwV6aGm7g4HV64yr1dD4LJvy9dWzcHwSSUuL-Yg4OEL-83q4YBiIOCgxND5iuxUwk5EoHEJ8.%26pg%3DFK5AMT3E3FFA3EIEMZAQO4ZFOM%26ch%3DAQEAEAABABQ8CeRfkNcGatYjq06iGvv9YbK-paJRMZs.
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+12+2026+23%3A34%3A44+GMT%2B0300+(Eastern+European+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb7bfdb6-0c62-4e27-b81e-c4ee487b42a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEHpqpaT2Do2FVRk7QIXfSjdgsZjfXzU1hkbdE8GiVCWisa3zApAjLsiyWpCqribEvoC1A-w9EmeLlpRT1pCtD6-A8kbXi7lteNNhGpLYV9z2zQIpCpUNy5JwufIBmMc9JSBxlNXqEcOWdVPgXJTOoIp0
+.netflix.com	TRUE	/	TRUE	0	gsid	52ec8955-ee06-4a8a-aebc-b656a5b47b98
+.netflix.com	TRUE	/	TRUE	0	profilesNewSession	0
+

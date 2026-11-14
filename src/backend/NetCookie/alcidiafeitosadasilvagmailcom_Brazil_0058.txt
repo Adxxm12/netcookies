@@ -1,0 +1,14 @@
+# Email:       alcidiafeitosadasilva@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    Familiaa, Português (Brasil), United States, Zmp, CBF33
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQeiFPcj3jOU8flNW1vLcLuh0t__SzGXY8.&dt=1793897368123
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKxAxs8Hqofk2o3J4W3sCHxAMelESrStwiYnK1VIFFrzRALI9GVsah2UqvLXeZ7Oo8A-0VzsYQFwdPKYMHjoPyb8Gdi2N2_QvpFP_LrZUDVtZaeEEa4pidOEwvzt56KeElyHF7U9N6hA1mDP76_fHBZyyic_AnIgA55tjUm-MIkpvbQTHU7XSBgNhXJvL2jQTa95MW6B_4eMtao2M_-WcgF0Kk65qF7qy86A7JATem9mJZYN7rDNmiQPTTFl5Zt8fi9bR40WFy8g_NopZU9ROm8R1Zm9DtIHy0_3J6GmFN3dtkp5qoWmAq9mqR7JxLpY-_mvaAC72tQxC8HHfuDW-bcGZ0jOL_Of9PwaZtjSs2qtGz4OmBXVU9Kc9OQxP8YWprLIh9WRB40wAi5eKvbeqcT5ZUxpUwgBPSbUNuenuuUg-5V3vtBJd-jaf-j4rVXgVW68xGNyqdkuleKdrMAfWmMs9SCQl7boosUfJmG7ySnMrTq1R76ecl-6ypS4pyfg6w7-PQ3-UBqRTY1GdajU25leZcbej0FNKba84AlYz3v4bBqdG6aq3UpfLoUWRrbLA55rVcYBiIOCgy6tMimTyieBNOmaJg.&ch=AQEAEAABABQtqDMUXADPdoJ1TGPi-pC2XGoH0T7QBkM.&v=3&pg=YEQ5QZORGFAG5M5F3Z3C5C3UKA
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+05+2026+17:48:45+GMT+0100+(Central+European+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ea3e9f92-4af3-4958-8d81-f8ce66558d1b&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEGdrKhY6OoVKUZtPBgJvqjVgr8PBQt6c-_TQMLB_m7YAzq0JIAdY6y_k8V-WSigEkqT3OMRzIdZjKbTek13AnmpsIANzL6SyEeE8yRRARq6RhkOAS8W83RIRoQOrdPYt7O3NPXVbki0bzL0fDXWBjc7T
+

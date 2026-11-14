@@ -1,0 +1,14 @@
+# Email:       nawkon1234@icloud.com
+# Country:     🇸🇪 Sweden
+# Plan:        Premium
+# Profiles:    Paco, English (Sweden), United States, Alas Roban, Gewoniii
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEHD6S059al7kfO1K6tyfeL9gzN_pOjpnx20z8MH9N4AVngt2sNw0yHOx0C3mv9hBZmhr_ZXWbGN4SY4TVpTrnLNNFXKceJ-aeoCQXT3LtQdjOBmE28iBKGSedfvqUlGiAvSrh8PIQ3iuDhJ7WtqGOgnn
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKxAx0p44s3PdUavvNO5LKBr64hT4DtmNjzRm8gJu9-qYk4sIKtR7HVMSfEq-U-ABIwZ70guDjE8ttFlhjIa_ug9X9j-KqzwoJ59rDA60e_uxeT42pJXbMc6DUCN2knwMEJ1lDfl9fYfrI0pX860NlRZX2whWqHSi2wi3qc-qF02MHX7vHi-pF7OksfXS-iiSfpXBuJMgtcTvUTCqYsgu_zpSvHaNBIqQbfD1vsqbYR2SimIBlc1Q1ipdbV7eGVwGDKFhYScILy4F7j8KatEhHR3UmJtBsNyyAF_5DVASb_3U1h4551IVFm1SRhMUCznu9gspQbj26ATNWdHle1P3fFZR2Y_0tB-aRo4w3z5z2G1__d4Zj9gmiU72qEWIos30Y5SNwx3d4-N7SEwaKpMvCDgs3yAaUQB2n4-q505KbahCfTejsW5uvhVr9jC6shSBZ9mcVvkBD8FB50_JJFEr_W7CcY7gfTp_U4xa5_CgjVKoKfJfMSEL1aAr8FMSwcO3PGbML3iJWWMT2-OzvE3EiBxTqktNpEMkDIqFl5Br7pujphCqFslVFfzi1rP2cRNPk1_fcYBiIOCgxWWshqPAUquvUiRG8.&ch=AQEAEAABABQdtm7SMBa7mvZMaD1-oyq-PqarD_z4maY.&v=3&pg=4N6D6T6EKVEBTGAP2F5AA5BZSE
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+17+2026+08:36:27+GMT+0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9d412358-1ac1-4a23-9799-f240d51bde88&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:0,C0004:0&fclco=&intType=3&crTime=1786573068398&geolocation=SE;W&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSrg4prHG03tY-nqRYq78qZkGbQnBIeRQo.&dt=1786930588382
+

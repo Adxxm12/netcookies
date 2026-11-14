@@ -1,0 +1,14 @@
+# Email:       andersanmillan@gmail.com
+# Country:     🇪🇸 Spain
+# Plan:        Premium
+# Profiles:    AXEL, Français (Espagne), United States, Faro, Criss
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxL9A6Eu5j9JH_oxmnJehagxyzineJByzNk1kNZ79Ff9Qb68ijgWWnYlGsfg4861JiMWPCZcomnYwTEr9pTTyVEoqV9htjdwFyD_XxQXnRZPd9lKsHCxs_kvlqlOBryBEGuyHMh4cqmGBX5Vqlfkjk39u4Mrza1g74joKwkAnXiaawxTPVueZ0kUEJd57hyXjaquaLPhkjz30PpTicvom5IpMEW9QLQBYpgKO5knVgxVRyRzC-sg2ydQt8h7JHBsBMUBnUU4fBEg-2wBspQthnwKKrmQbl05lP3mj_EwWCwA47jck8SaIy2ifE0U5gvX1UCCuR9cegYXSuN_V4WTn0Zj4KwbR5eM-88oJy8hrTsIyexWUrTcQV72bqrdeNSYkKNa_a5ikoNndoI3DhnM2vlEN5HGEeh1AtfTtf9ndZoVPV-gPBuB2LMedF-AT2dILB2Zb6hWAPJYf-pz8GMpkoH0ci-kdK_UGC_7vLVBwT8C-B9B-ropEpv_LFgwwm2_eNn7-Te5ph5r9GFZP-FJAoQtsNdtCeyC5S6JIvBtjet_Dgka1vNggAXeTj36mXXNBxr-83Yy9WzszitgnmZdIW1Uvjmpfw6zHbDDMOwA801T5HGxKVFjj3JGa_3Hi9-jbYDmGIzz3j096-wuWyXt7U7CSce6e3tbi7nfFbw9xRtFGAYiDgoMM-ECqIZcmkw9qdTU&ch=AQEAEAABABSY9OLDr7Il2q-UKkINo8-8M8soovmiT-E.&v=3&pg=DB52T4ZRTBBZFBVZOJUZOHMLC4
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEDRfsQO4BeY4FewfDw85uIlgxUdhT7oA-7Y_2UFR55B86QqSEvdCKh-rsNgWgxTMWoo4-SiX2rS3x6Ns4OFREC80mLvyAn_2Uw2L1bxUcyIaVtBZDqzB_esgHwgyCWLkPs3AMB3szZK9qfo-2AcsVo_o
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+26+2026+23:47:33+GMT+0200+(Central+European+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14334e97-e0ff-4f11-a9e1-f6f560f2a02a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=1&geolocation=ES;NC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABTs6e9_7VDztI8Q8qxyl2UCjgf41xSvr14.&dt=1790459263469
+

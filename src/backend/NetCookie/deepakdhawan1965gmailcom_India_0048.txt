@@ -1,0 +1,14 @@
+# Email:       deepakdhawan1965@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Premium
+# Profiles:    deepakdhawan1965, Español (India), United States, hendrmdn, Utkarsh
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBELFmxZRPBuks3U7i547mHuJga2gy6kb41BDLlWAIMQ6cD618VjyA2V_KQk5xn7H_eY9_7HFdI4wod8BZoGfh4vTJXyZq--XNitDlCMGR51FC1vytMeRvCn-DTEaEonYllmp2chksX1Qc4HwnWEWtw4pb
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKBBBcO9cmfOPcAJHIQzBp870n9V2fKqUUCfeV92XIQDucO2NhNNpOOvk9hPEH5Yew70OzZ_ZrsOvrt0Xy9zXy32gNk9u75ExDwsXkimqRjJbXBhnYeV-6cUpNCi0G92zazmb_EaiF51ig4CqbVEHsphYb4_iYqBM2Zii5bWQ8m5VLIkw_ApEVkxjmuzbcFylaQTNdKRvkWr3NZaM3aVEm5POIRsMYciR9pFWNNZbUxHTV3eaVAcDJJFAqmHIjVKy94qZc4qTWc-dhORB633jl3Dc9fhuKwzrN6SPmgbcMIP_Ew1zwNus0QVdgTG8dcAmfh5htQypYzL1GL2gKn7QhXDYL1jKydKjR6vJ83o2xs5ofOhwy_laJfBD6i1fAerjYuRGwbiyjQtBbmCWWzifhHUfwRIdI_Lx094vgYnBvcW8hwuDNl3c1oC1Ck7ScAS1VvdQygKT4UhCknxt-M9kaFoIbtfJnUpFN7Ewk2Ke6-ExvSuRQiOra7UK8v9WNFflywYpWJuK9pjeyUsDU_hYBBXATJ7u7dLjizfemnCZ-HSOkzHpZFAuVvaB0IAl7m9XyVas6oLva5OZOy10iBzG1xMqWrw5_UymzpY80xFRGW4UzmvwDZIv27N3EelFZaFW73HtW5iRjGSR2c5NurJwzbcUMlBak1BDgHe6rGtaWEtyWZvRgGIg4KDOcil9JFxRe2_6ttCA..&ch=AQEAEAABABSrpf0Oe_FtmDT3me1aq3YPdAT1xyVkXqQ.&v=3&pg=5D6QSUWXQNEDTI5SZLYXA7INQA
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+23+2026+17:28:39+GMT+0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd7e052d-75d8-4b7b-acb9-d108e39084a8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSZLbahUOw-QXai7cJvoYGOCrDw0chms0w.&dt=1792756715372
+

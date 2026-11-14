@@ -1,0 +1,14 @@
+# Email:       allykiritto@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Premium
+# Profiles:    allykiritto, Español (India), United States, Jose, Morrito
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEIhPd6-MMcHuIdTJILn4HSNgfcSpFtH8keKgqUcGr8ZZSzsAJcwqIXCIhpLCUfRfkcmKDgNkpDRAW1a6_iautgWmh40qqW7qqWL1OBQPKAb1wbcoRC2ZUjxpQiIB6Nu4KhPFXnIn8ien3uOvh2A5DIqH
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSiGnBx7jnxsvB-Z-4vybTCOGqw9YlI9W4.&dt=1791356123347
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+07+2026+09:55:25+GMT+0300+(East+Africa+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e004388c-51e3-482b-9317-00c4c3fca03c&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxK4A9Nb2vjDcSFtJ1AjESR9iI3S-J84S2XBtk-WX9CQh3Lmoz4SAm6Lfoa0Vg7ujoupPk3v8nKTLDz-n4vIKrCtBMluMyoqb5WSqysGLlM8jYJyY__I2xyFxTwIf_KcwhNN28xmJ5dwhbC-EUnpRTSlk5G7hl-_fR49Rpbh2BbmcYdqiPAt7lRnMhJ73599YDxpsfLJi9KZZgdrJaBzXR7OpewYugEvIYMomDUG57TKfupw_I4OVyGI98Z5duV2uSfzMgB_A1RF9O_lzbToOivcx9YbTBbC2EAUzQH5edZUMyyqnpmRCb_ELsDUrGEO6z4EWKxRgi9QzH6tTpTfIn6gngYt45088Jcq74XUroKxQxJbIpc6SXmn_D0EvsDtU8Of_Ol8A9EXSJTB3W6-wKw-3cv8eCW1-OM7CcinmaWKW1Ds0bM2pylzqoi7nG-aD46IzOYqculmNdYZd-IMR9WLlIvDZep-sot97lbXP8rF51F2XQdZEgWhd0fqhOXGbWqneAqly97TlFOzBQwvGlUN1CzzN1vK6YhXB8yOrdPhVx9Btp7uVEC5SvtSGyPW8Rtk2qijc-RHvM1xGAYiDgoMyd2zi1_Wotw-sQL5&ch=AQEAEAABABT96CbR-OMsHk_a_lfEH29AbCccT5-rtQY.&v=3&pg=PATRVK6OIJBNTK5XNZQVKTSV5A
+

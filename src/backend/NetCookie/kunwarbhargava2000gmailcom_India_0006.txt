@@ -1,0 +1,18 @@
+# Email:       kunwarbhargava2000@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Standard
+# Profiles:    Ashwin, English, United States, Riya (Do Not Use), Mumma
+# Generated:   2026-11-04 06:01 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEDYVI_TPe4gIj3307x5zrzRgJJeJYq31W1iZ0KZ1AY8SzcHWapxtuQgGwSw9j7qP-CiASQKRAz_p3CpkIb2K_e4L51KqrwkY1f9_B_qOYbeygeCXB1at3EQ-qUAG4hQ333czO9GV9uS34eklVc64rEja
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxLRA0l1cqQ8VueFgaloSCLf4yHhiaA_LKDSMVs1PgFBcEvPncqFeHi1VpnvVM9LDwGLovCu4T2nzFbXr9gqlBteJTQGkA3q_okFINrULxOKClpwCJwOIYozCcy23OLiQruLiFkObswRbgnWlt20KXLP8qQLXR1d6_dQHl6kapoA59ZVac0swyXEyyXFfmhgTFAyd9cMSduSst5oLvGI1Gscpj_VuKtEkVRm3mm4RS-5NPVGyTmPVS9biNdLApofwvtYWEKHbLHMQdCUF31_9ykGtDEixVwQrD12HYqzSI9kEYanpsaU6dVj0PirIsbN3SC6e03Gvps9YN_dXU-vstgn3ogqnaUiMFyL0bGCilNsekJ5Nhg00XIRUXYTl-Ok-vhtHMxc2xEdcPCiaalCPkirM7fcnGVND7VRR8pbEO9x1hPqdXPmHnRcgP2gAq0Imyey8-4YJXHO3F_tV_YHgv6k14FUKssxdIsH2GD3k3iwtG_Dz53N57Tyd6jCIy4JEQsc59Bn42agGQZ4NNvyiuidDMG4JAYjrME7F2DZ1KXurdBkmzEg74qoMICxuIHMyd2_fYs5C_zAszSjma360RawgRN84by05HuHsFGIb1NwhIrofxgGIg4KDNdVUNd9CudoI9KSSg..%26ch%3DAQEAEAABABRM9cMHqUu8fhac08thdmSkaTeGKXfpDWk.%26v%3D3%26pg%3DGKADGH5KNNFDBATDSY3QXNRLFU
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+22%3A46%3A42+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f60eabf3-6da9-4b56-8722-8fc39e460528&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJUBzcqofRCYHjWSMCKUTs3Uk1kbs1IHY.%26dt%3D1782062197891
+.netflix.com	TRUE	/	TRUE	0	gsid	a5bb268f-8ab4-4d34-a0d1-f46062ac3635
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+

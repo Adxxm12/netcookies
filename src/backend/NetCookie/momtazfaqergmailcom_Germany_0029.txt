@@ -1,0 +1,14 @@
+# Email:       momtazfaqer@gmail.com
+# Country:     🇩🇪 Germany
+# Plan:        Premium
+# Profiles:    grief, English (Germany), United States, XX, Samsung Galaxy S24 Ultra
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEP9AsLWkscg4hXz6kdNu-ORgaB54XSmurlC2hYefie7a8Gc9I3wwJQQ1-F7SEjc7r5_vaWKPZjAGff5ldcYlhvpNPiLP00kWK3IWChsJYy5HGNVJS2FyxEmABJhaxiqbIQ9NTsZqf6bfDfAfoXT8stfV
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+13+2026+21:23:00+GMT+0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3bd935b4-b495-4444-9673-3cb6522335cb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&fclco=&intType=1&crTime=1786013761912&geolocation=DE;BY
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKCBFct_jB5gkDWKPwAnFBRTAVEGDllmK1n2huo57OB9iVX_2LEI5zinSWeBRevTLF43Gwn6Syc_dKyYUzN3hESwLgUpTZJ7-Qshb-nMV4k6ZSw8NnSr-UwGgB7iHg1WpY8OH7YQBAcrVs47WiiCa31FXwtkxKhGKwrfhI8jQsNpGsaLJKP-uf4pkRbXNgtCkeZuvxwTM9bsnqtFPMjSAVoVoXPOu3e0DXozJymNFdcuuruaSI1xdgBz3vL065ufz4j_fgZMFpGcOFJwtEkcGEnw_kmO0qhoxTQ845HVdJQgQWaSk3XSXsbGybk8TsFB1P0kgTjQ0FcQ0AAYKJvAG430QG3X4r2QYswJV0DlZ4saiC107cDK5N9rQkErJ-XwP9xYUP2g32IhhzaVJBzAzSKhbjxD92eLvYvbvN0X6MWJTbDuXL66dPDoBWC3hqwMx-NHaFipdW8LvgCvIq4zNZ1CSc4wY_ZB6C9rJwCnLW13g4-5dajYT3E3Z3OgtzkZRfmSU9_Fmwj7PifJYHvTwvMa6SXVH5MdnMVny7j4vDdFV6W0dhAuk3WCHnudywxnMGB59eSIMQg3OkQ0B4BKAm2xteE9uIlUwMEm0rTDIS1LS3GsM8vbZEvTwPcspTkicv__D0AUcANawPd-w56GmyN0Tk1gYUlMKRjdsrbzO4MXThPUMkYBiIOCgzQuUbLG_KY151TNew.&ch=AQEAEAABABQAbrXlthUXfnFSjoCBc-Or89cPDrmrKZc.&v=3&pg=6NUPCHWHCJDALI4VEFP5OH6WJU
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQlO0cPew1rUy_Y-MiUN3SUbC5DRa-gOUk.&dt=1792325373704
+

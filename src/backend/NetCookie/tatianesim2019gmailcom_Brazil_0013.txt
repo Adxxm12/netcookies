@@ -1,0 +1,14 @@
+# Email:       tatianesim2019@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    Tatiane Simoes, Português (Brasil), United States, Matheus, Gabriel
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEIIdOvoVqXl7j2kOLFdIT6ZgPczS0qDJ4H4BjmHBtnlUSZgyBastwrv92FPNMtbCMVN3DrvOZQWNyAuvf_u0YCUSVSxT8L4r01wEfLq8mf772gKrRqrTCrKz1pMHJFAuKCGjdKWNVsUFh8ILDM5Lnobc
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+10:54:28+GMT-0300+(Horário+Padrão+de+Brasília)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78df7a60-595e-4e35-95fe-5fa0efdbb7ee&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=3&crTime=1773418006034&geolocation=BR;PR&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxLPA9-1vHbZPaIrCDgVp-u1wxxyMKGHglsMub5du6d-Pn-zs8hJU3oHehfIxp1Jm3HT9x3enlK8pdlGv9FwAdniI-CK9SbRL9JOaLeZ16xHJK4ED2zR0B3UfWxZERmghucQvtg8lu1zxb2cu-bCcAe7v0hegDuuSRLgXNcVMpTsz7dtQCHJY2q_j3QldEZIL9qRoFYXfcjTAFEV_VcKCKXWEbgbUIGw5IaqjQSNkcFNyQY27_ZabiL-yNXCScEAhpPuXE_rbU5jwRnXL5c9a6LimjptybjAc8GHXAxBv3DNCWRvc1IMkynMOTCxeaLrdZfbwljfOHRxEm4sv4_NWXmqayCvZ0qPIa-Tkzk81dp1HFBaAkiNpqja0s_nPgFoclCzsmbNHEDxNQW3xyVMquKpePJdWrYg4BYoWmfWzQp4jxar0I-RVqxHN7enp62jdf4RreaCSIu1Nd1CEqNokhk5ZtEpGvVn7_CVeHuIWnN9v2jMC74oTeqFba3lp8Oj2Hn1yM0J07Ss_7FRNk_Ke28JCH9g6x22a8MnK4sRvokfB7qXVzJ-baWKK5gc2TB52_eblghRfFonz3aJZNJC8ozNVI3vn9b96oaxOznHbRZWLzcYBiIOCgwRUb7UQS29le0ZL5k.&ch=AQEAEAABABT08o9KLj-dQi6r3fSt-2guNsr2K2PtNFA.&v=3&pg=KNR6UNFY2REHPBJDUBLXY3XGRE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABRkgJTCScy38mvisGpFnUo2Bzt-lvQEfJw.&dt=1775742867714
+

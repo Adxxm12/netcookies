@@ -1,0 +1,14 @@
+# Email:       uriberebeca0@gmail.com
+# Country:     🇩🇴 DO
+# Plan:        Premium
+# Profiles:    Nicole, Español (Estados Unidos), United States, Elizabeth, Rebeca
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEJfK9izNQSlEI6E3HmxLysVg8HftvtIT1-Gf7zhcwBun5lmtF94A2s2OaDEZpxu9bCGZnZF7rG2nu56Ck_nOLokZet6bge0ItYNijISexWZvGeL-PhQWqE7Hn7HWGShbcZYsuiXJjWJob4t6en5r8Cub
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQ8uPGSBao3lvMq1OFd-36Xmm7BaKklVGw.&dt=1793143318889
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKHBH2UsxaMcYzMMdUJCp7R-nJbQAbub3xFTSxfFPBrdbNvz3WW4rUScWAhNdykwp7h6fl_Z815-fngtXrKSyF5H_U-QYH5VvL2jaGrwQxjz7zUelQZ4GcENRBMixlStBKfHUI_oGWscLVY635wJ0G6Q8cOaDULLiQveNtI3p9DZWWg59VbpxUX8c2KWwjuNsqC0NkK2ECYrjbE5jPvVH7o3RGlw4JK5IQ5mv6qz16PC5afaq4MjJh6MdJYTxekwKeW4qpKVzSJ3X3HQPjiPfucDPlY2x-xQ2r-Ot9P7P2RcjjO9_sy6YtLN5DSAq_bPR6AzirUDSMOg3yig9g-EYkLDcJ2Fwd4V_fHzLwPVO0IXAWl8Q76x24n9SBwBVJcRNwpzM2vEGs2s5sYSbWiZbNGk6pPHiDqTXvKt7a_NIuJ5IMYuLi2YcAiUCujkGv_w1VUN4rqTztg0pOXElalld8LXWFp3V8962XiarmX43vUD1rctVUCbkj_NPS9zHmiqT1TmLTesz9W_F32ME3u-yF_k63-6MLVfiyhSPjJchfQUQwQRJXSUPes2U7OB4N-crzpEOPULdJbIq5i5oh1An98U9iBYOTlG2oD6LFMTJgjLZNegDbFy-HVP9_E5TRI5ypcAaLomkD1RaP2Wdln7KBBS2OKMmcLbATk2dFKX1KUi9_WAx0wdvxwyhgGIg4KDLe8QGBs3E9cI1ppBw..&ch=AQEAEAABABSfG_QL_ts7Q5_UTWLzVzU1aIJFiflhR1Y.&v=3&pg=LYDSKIQURFEMTNX5YYWICDFMZE
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+27+2026+22:16:10+GMT-0400+(hora+de+verano+oriental)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=971e0db3-d4bd-48a1-ae17-bf2c44cd493c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1768443929300&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+

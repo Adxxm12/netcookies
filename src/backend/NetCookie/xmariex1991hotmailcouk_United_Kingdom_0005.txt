@@ -1,0 +1,14 @@
+# Email:       xmariex1991@hotmail.co.uk
+# Country:     🇬🇧 United Kingdom
+# Plan:        Premium
+# Profiles:    mum and dad, English, United States, GRANNY, kamryn
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEMG2PNQHo2TBOtPFTFNgylJgR3zDfVw9QTumrqoQexMtKUFVAjX4Aq5Yh1Hd-fWT9kE30F2p42QrU0u2bUZjXD2GACTBlXkyJviCL8-gtgpH5kptxO14nQrJYc3wKK91AriXSUOrujicQ0u61sxYBn_K
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKCBOJJEUGnZxdeJBuyiefWHspyORO5tZCF_F4-2whYa3cDE10PCtaaUG46jzeTMfYTYLOD6t6Mqbxcb8ABefJ5aImJJXrbMxNAtQgTtDMOYe9Ge3fKQhLyobFs3be7tVEBl_IJb5lwi-SBjplgMpJS7wGrgfTbUm0P7osEadZIHWHeigF-ucjP2qGea0hMBOgM2o4wk8zNVQ61FJ7hyldZotoUjNUkvQO8tvpJLGvPw79fFnH_G1fyWI8BAyExoU70LUrljrh6ScVIgq1MGf610aUIZEf0p_7N6YP44pd5fd-GBV2doWiVbLDWDkFQZafwIDZkel6LyO0CRHBUo4mkFnkfKOh_JF5gm1HX93M7W90GbElDyDwwJitYPdwq4ZIdjbfRZ5RYSsjP6r9QnO4zoJ_mAcw2GuV831_BtnUz8z0T1FWQwz2CTgtGOSo3ZVExZfM7yVk0Se_UFm78j7GsFXujaI4EXU8JSiwlATha6nJ_EGEz2i6zSa7EJaqmNGdeBv7Bg_QPMOU8tKJcBFRyTGd98Dz9zF-4D4D3XjPae5hFEKcCDbp8djcJetbexdtQTe2LbRDN47ATL2ewReMU-rMLXbI05S4CHBcrdDMHvKbsmAxH8HlHIupgA8E-5MsGIyTQzhp6NDkeWa6LWtY-fEXz0ARq-ulipopwHYy1vRu3Fn8YBiIOCgxVLaenmNH992ux81E.&ch=AQEAEAABABRMBpQX05MTTr0HxrW4spHWZackMiPhm5c.&v=3&pg=T5PXWAKDHFC2VCHP7CFYUWNLGU
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+28+2026+00:06:58+GMT+0000+(Greenwich+Mean+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc216453-684b-412e-bdf6-7fd01bc1aecd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=1&crTime=1772421830967&geolocation=GB;SCT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQMVfpRY_6nwa84diO8i2EcIWyLKPVN2CQ.&dt=1793146017323
+

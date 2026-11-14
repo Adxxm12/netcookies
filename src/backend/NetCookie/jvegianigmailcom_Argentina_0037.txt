@@ -1,0 +1,13 @@
+# Email:       jvegiani@gmail.com
+# Country:     🇦🇷 Argentina
+# Plan:        Premium
+# Profiles:    Jose panchito, English (Argentina), United States, Premium
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15:38:18+GMT-0300+(hora+estándar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ea745ba-e266-458a-b00a-ceb597065f2a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKJBI4mp8a3_o8U5CGyvR1V_Wc9p-69f9gfsHmieBSDmP_Q8w--R2Z6R88naF4F9HjuJJhZU5_23c5_5dKgx03BDwNnZ3O9BGB8gpFblBl5xZh5EJUgrhC43lhhgGPRaBOdmMO1x3kNxt7CLQl_k3hbHtC6Egn1nQw86p7_sFyOSlpYu_Ff-HTriuA3QcA4PFZv_ldgiIpRFvu3urFEd5r8qxiZgsJFrEgo7SYk1K8NJ_eRmTVh6TRSP0J_Hw60T0j_XmZHgOXJcrLdlOM_gie-b8rL_WHmRMwwRO1jdPo_6mcjTSDIjbFBzj19-QPyUR2wAOvXYLiXr6p141T3iGOb8V2nze7FG58-9qO17GXN9g0w5rL2UQF2riGHjZx0qrXPUereKsvQjndgjdRZ8kCG3xBIPvDZuJOS5njqTS58Ug8yoCmq59y646iqEcljIrej_AhhVtcpyovErSh89uZRcsTcw6u3RwX7izgK5_YWSA9m0h4DW6SwqRuqpynrx0Dk19-U66it9CWZXO-cKXzmtTqMKShl8k0liv9qtR_WXzzxN3_8-smeCE9HlHYlZq_yGrMBGutIyg-gO83jiEFyBA8Kwfk4YejW2u1Hvol48NlX6Ko3aupJo0lplWMaol3fSq4BX3p_9dnotG-xbv0dJFYiCwEvL3aW4KphRwpcLWm86qrr8BQerVKUGAYiDgoMzD05eCISUpbyVAoi&ch=AQEAEAABABQBDX74M7nCjWRJHn67Oi9J8EQE2iKt42Q.&v=3&pg=5Y5GBBPJEJEGFDPIJU5Q5GN7Y4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABTV9juSpdqIi-CHWOCU6-UZ7EPubykqr0s.&dt=1778693164638
+

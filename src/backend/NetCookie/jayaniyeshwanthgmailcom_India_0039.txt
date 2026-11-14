@@ -1,0 +1,14 @@
+# Email:       jayaniyeshwanth@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Basic
+# Profiles:    jae, English, United States, Samsung Galaxy A26 5G, bubu!! 🦕
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEKLhfQ4VYdAh-puqj7Z8f5RgJkztjiRq3pPpPS_EasQQofFKJ7drvRwt611N1kCER9eHFkV7f_ZhIDAxvD8QY7BnP6UM5Mr4zIQvZsnvE3r70Inj-4OgBdLvvfCwpLAyTMp-bfxcw3cl_e5VkO5c9kTX
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+30+2026+18:22:08+GMT+0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=392b442d-197b-4355-afc3-bdd7cd10bc94&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1780725427292&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKLBI7A4S0oow4cERwgRYlaROOOFNgZM_K0ofg8On1mmC54SUTA2IqgwTuuAb8k73y0k53sczQfe_ja2mfxP5D2jAAIPn_e8gGrUfXIrq_FiY95-ZgFp0d89fohXj-99WJE_175C51-n_UsRDmop0F7ToEuG1gr_b2RsF1hRdPTMrQhbPwXvjbXCUhwSSDDLKPIKnTuhtNOOETxEcXvpSVoclBs-2eptXKVMcMZIHg1aqNSCa6jmhupQPSIxW8IrpkGj9CXfWanAaWXrKu_56z_-kIZjgtFV4iXljEGivHFNK5MivJ5fbo7WedSD_kxhfWXCkySs1BqfjDUvZhfw4AP1LFI71-GlxjzyTdHCy5LLr1QHHmS1l4wIKYpVFu2HsjvMP39uLNU3OB2SdoZXfb39EV5lK6LPeyPzq7QkTLyPS8LuNFLxaM2Pzsx3G2AgmS2EG2prZiCU22XgHDUS89TLn5lS8lR7JJsocbo4Rdh2JlV2AeJyFgnm9NnEfksV6oSCBVG3cK54N26AxXugGHHkJP7tm404EBEQgKyuoCVhwg2p-7EZhuJ9guDksQ_joWcPd482p5J3d-zJn9m7mbbdNb7aB3dmVq8CUBamZ9BPiPSzBSQMCTCYxhlnuOwbZmDEpR6rNTaKiZV3djNEoWuzcNDuypwM91RyKCLPL9te6kw5VUyeGA3bDxkrNYYBiIOCgyGGHOgw0yNNLWIQrU.&ch=AQEAEAABABTCxoHQmp8muOnYUcO1wSpkn2vZz-TlDYk.&v=3&pg=MMY3A2H6MBHY7NDIMFE567KJSI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQZsfDr44QUNF6YkP-r8buRhqgFn3_IH7U.&dt=1788094329631
+

@@ -1,0 +1,14 @@
+# Email:       barbosaeliclecia193@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    Geh, Indonesia (Brasil), United States, LPC, Zgg
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEFs48MXqF4vsBrrEQekpUghgUHdQiE8Fv_Fi267tM1WGSpZYE8upqBK6TyJ_dNr37Ip6g8T_PdCsKkGpcCWK5Rvix40L9FuWepk-L-9LHYL3lkYQRq4TyT_qdhZXrPflIq0s9PfUpkuJjfVLxlXKKTEx
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKQBLWUBZHf76e7gmQNJneKcGI-ZfkBMRir5lZ-ZYUhoHHPQpJq5X1P3avxQNQjDKTxXNVggScWvVquvKUdXHqHovxW_Xk5PsXtwzCyQToIRV133HeOuOtdLlam_xFWKEy5iB1nN61iwBtVRWBt2eCNUPEta0Y6c8VHUajngQAmADUJm2Ta91rxZaliY9I78QOMXiF3gEwx0hZsrEeZUzPdKDcG2gA6oreef8Vf4CPPaAMXOVIwUPasDWHi0QCpRSoIF71Rl_82gvlJntDO9DIcvqhGVSk173aiWjPypl5C-ZLdOrieP27skRckz7mSRuo27alU_H0XM4_qJHHamo4318sInolq_y87Yg6WXsiR3sXw1avgiuL2t74cdlQn9p-3YogwFzqUX72fPuoPRf6JaOyls-gWOgBDTqp2DFAiRWQamrYK6TLIFW2-9YU20WAAn-yNWXERiSDb89U7NRpsEcKSGkNeoMiu9ob2Bq11gdP04MW5sqlSkECVa_nvZmw-8fU6Y06iGUu7PPT79Sm5v3DPhiPwRVpDiJvbcKQD2mAYX-JXQopb5W9UEj0Zn_qBFMs2tfWSj-Qw8iME66QPeUC84UcNQpPQOsejKSOd6gT3PnkIEVW7VNyJEx9yaRb1c0M29xBzkvDKvEAo8z0RgTJ351ao9nVLBgchjuHMTRpZPhpJvdpLiNPLKbxjxse1AhgGIg4KDPIQyBF2dWEghgROZw..&ch=AQEAEAABABS3dFkfBhyOPbbglGp_6fPAY6SW28OWUFM.&v=3&pg=HVN623XYE5BDLL5PXI6DN5PHEI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABRY3qmydYDxU3IfAI-iKb9WzRXvuoBaaUg.&dt=1791482854383
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+08+2026+15:42:07+GMT-0300+(Horário+Padrão+de+Brasília)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=18487fe3-7438-4fbf-a1bc-4bc2aa6d8d84&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1783642509294&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR;PE
+

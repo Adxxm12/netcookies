@@ -1,0 +1,11 @@
+# Email:       zrlinjunaid@gmail.com
+# Country:     🇵🇰 Pakistan
+# Plan:        Premium
+# Profiles:    Minster, English (Pakistan), United States, Zee, Noah
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKFA4mwC01RSwA7W2hYjS7pTSkU5HeVpBIxiYatSalyczl3TfFsrB6rEu3bpcpuBp3fitsEBIW2OR_RP1jN75c7VbQBLOToXjfDoxB2bQATinpo-umM9LORodzBmMcWedFB9AN9_sVqWyvu4yEDPhM2g-dh_hAY09Prt_wjXkLWPsOfLK2iTpGWXuqKb1JYjzd6nWuDTnuexao2britlbUxM8WH_2GFtGaWAhrqTiFgavsa2Ho8XsS4jnzGW8CSiRdDE_hozUmRDqjFx69jWRPbjYUfqWGKOnsfeXklZE0xKru_XNVOFklZcZzfN15DQLt0wwVdBHOcMwAS-jH7BuU7_iRLKN16EonhoJs3Dh_FXNShLFKtair2bbvC5R3dsqEEzTJbG1uNrxaPLthlBbypZTTBaa11HF2adn7Rtjz9LU-FwsigT_FJml-NcKI8ltJ80F6dYC9k4tOpx7K5clAwFBWx6a3wyNVdomEb0pXN_xwn9fvXFMNvv79_0BlGloWbPLHXtUREGAYiDgoMhUIPMwJjAROXSAZZ&pg=TCPNKKUX3FGG7JTOKAY3V35ZHE&ch=AQEAEAABABTgjhHFpMN5YO2GykifWVdhiOHQny9OuYM.
+

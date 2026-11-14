@@ -1,0 +1,13 @@
+# Email:       georgecook12@hotmail.co.uk
+# Country:     🇬🇧 United Kingdom
+# Plan:        Premium
+# Profiles:    G M, Indonesia (Inggris Raya), United States, Samsung Galaxy A13 4G, Samsung Galaxy A55 5G
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKTA9xWJ1_wwz1AqJDmf7H8iAZvgjP3n6OzdCj2u-j60UayVisZxWaPjktgwFVpghJdSBOgtZd2SvRKrk8_RCNcFXdho3PtRl00toC3bz-hoDcNp5TV4Pl1Plp7Hn-Qq1twSsylt57PPFmsUeqw7bZwUYoqGWCFW5e8gnqvXaRnAdvH0Ob3d3WhPaNLBI4YhKxF9h8hueaM-OxmAxzGkAQfctInuVneN_s6UhhJnbnjkOuYCN2t_RjNWhh0Y6DVINaNYWvhgCzauTBvuqnrm53Cm_uxAIQcuZJ4qZajX8Lqid9y9pQsCDbIpp4A4u31Rzd-MGntB-batLV61YQ9w4uEShmFi-pbqOGSIsSUi9XIoyM3_cCOKyLiFUAXbSphEllFM9TP7ybBgTr0ZX4pDe7gil6wt-YcdYYDC45FDrrrrOAnRKA0fARbJU9W-01LJPctk_rDwjoF8Pir8pBiCybDqWy-g-Qp6u3_GMjXCNvfPkpqb4tB_w8aQQYlO_MW2XXBonrFr7YKTWV1kvgAPP0XS1xeoTYYBiIOCgzOrwBaRZR-hWWgcag.&pg=YMPXO3MRQ5EO5HN5ITDFDQK2TY&ch=AQEAEAABABQrPv-ug7XN1HH0tfx5vUr4TcAf6vqNzko.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABQ1_HJCHe9nDkVwWtWdTqGtslf4h75ueHI.&dt=1789698797622
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEBhWGpB3lCkIz8Ds8zgkvt1gCzCUWS9aHUCSKDonD-dO1kwrh2aVbHn-_mG91k9SiY53IXQ4bmUgupbvQR-wbCgns85SURLM7igbAPyzKe-ivw0hJwtQIMI0O7T_ktT2OOpbZh3rnAk1aAVsg_N2y7Ew
+

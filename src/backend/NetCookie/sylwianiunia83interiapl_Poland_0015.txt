@@ -1,0 +1,11 @@
+# Email:       sylwianiunia83@interia.pl
+# Country:     🇵🇱 Poland
+# Plan:        Premium
+# Profiles:    Xo, English (Poland), United States, Samsung Galaxy A56 5G, Jiw
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxK0AxZKSOsllxhMLZEMBK4vB10gF_DqFu8zkb7cEw2eSpq-3xc9PmGua_GYmDUGNXWsfL9kXwfwWUHPcG4qBOItDgsAjHeM-vJJCPV6Q4_Aoe9MQd-77EEyjNFZxoHrwZ4-qqxKCObWtmtOloExGCIX-YW2BAb5A_-k9fcTuWLJzVs_aHGL4Qtr-L3rY0irp4nKDov3EcPklcC0UWDB_vMayC0VozDy7jy9oWxWNtlOO1i589nSHDq7XwYi1IzWMI-SnoId7zyMtyDPBxGt6iHTnMgY6LYLVGx7emaCtaJWheZTwnrqw8cDHyiywaqvAVmNWRR88ztyBx0el3FssFRvd308qwYxIfn-RhqpcNuw6hh2xt4a0HQWfcUJA2atVt4J5TrLRyZM8V_SlgN04TOo6r3d8ssWXlvGxwUZsRYNHnhC2lrBXRlDDXsKy3TSr1dwXbae4bca19Workr-TiurCk1UkD2dZ62nsIUr_KDPfQqsqoFca2aqgPdnnOxl4Qm9FFtouYxDVDcJx-lnWZW4uciJHmY-JxgEJH_9OxDQ8gKpEDT2RFOcK7s0I03XjStYwP2IJn4YBiIOCgyciQmLkpivKPDcjl8.&ch=AQEAEAABABQYAlTceHFpGSrXLZ4ijPMCOFmWoulRBQc.&v=3&pg=2TTFAGRPM5GVBG445OHPVCP2HU
+

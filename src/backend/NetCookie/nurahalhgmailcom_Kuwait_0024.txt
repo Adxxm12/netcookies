@@ -1,0 +1,11 @@
+# Email:       nurah.alh@gmail.com
+# Country:     🇰🇼 Kuwait
+# Plan:        Premium
+# Profiles:    English (Kuwait), United States, Steev, Mohandas, Premium
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKWA1ATWavhoTWoZ3_sSpC3v_f_PBThcpzzB1cqU26oSHIPBkoi5oSdQxCGDwdIsoVkapOF9VPxYR8QQTqfza6UYEaw8TQa4xYqJl79o2BJ8i4iTJjIseGyMHggdE09dWSFWVPzjvEpoWMUenL5oWhHAsY7_njXyw8pbIb84ZkWkunT-y-gFo6YtLAavdu3p8QXHQsmEpotdCjcYVliZWfDbjKA0EEWNVzeAZ760i1Zb3YpRtaGFnabvfgVKvEDj-keRPKUiuYSmAjwfrJOja2sLzIXDZ-JrJJXQ8glNFMMrhhsKDHsbGGuiDR44jFR7WAq8u-qm9k05k1sePyjD6TDuHxz0OMuy8uAZ99WFCKahj84SKO7KP7gCkmXpXtopfz7tKREU8qPPCtPx870fhLB9_cqbs9oE3y5M5QhCNxNvTz1JCCzgNqzUqsImfjGDwxLK4jGvq1bQonU_DawW8iphPDY1eF3QJFWslJkEVzh3kN-sQzSkR1Rp5Wyv1AdCk-y5L6x-P0oHDYYKltdJtGPfX6Q0RK2U2UYBiIOCgxN0OqbP51UonIMcmM.&pg=UF5H3GLDXJH7VCCNLAYOQZKEQM&ch=AQEAEAABABSQh9Y3IQAMkzAY8Bx4z1htyW1HE4IBnYw.
+

@@ -1,0 +1,14 @@
+# Email:       rosineidealvesvier@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    fx, Indonesia (Brasil), United States, Samsung Galaxy A05, Saffyra
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKJA6QiDWlwyeHHT5BGhfoCjvUjGoqvw7k2v8j0EK-jqvjHnZ5pr40XYhTpug-lbvCIPpkLzdf8zztdoouBPs8Yjp4DMgs4Ey7rJIDKOT_L-XQ-Gs7ERt4gCPPkVJ7dWUvZ-9GMuhqS6fQeQjvL5lrXehbVDAue5NqKDzBteJdvEd2HEJcdHJYywajFkYFOiaSooci1dxpSuRO3YGNEN70ASKVnCoiio0gywJ-w5AAoOumJmOJZRREyelGQPMpyLEb1XWy2_o3pyuPaNsNq6tNjJa9fwHSukr27Bx1Aie5xjLCG42oji4RiUfITezmxBJVBN6KsnlRAH8Q_T7Y-QDYS8c6TPVmPT_NpC28YnW3Zu3IfmmaMy6nlekZDW2f5PytYvfeUSUXpdF0AyU-vUobA8S7kbKjhLb6AEJbftDZS2SZ1h42y7xABVVCtFSelyGQPfpmUcjWSFQSqlskAz_UwBMesKTAD2_PthFgeOiAFuulzPqUjvpun7MkZCV0BL4DVKZKjSHW_bzdVKBgGIg4KDCsTjFo-MuERrXFVLQ..&pg=UYZVXUP6FBBJPBJZUGCXT326KY&ch=AQEAEAABABT4IHm_tvKCTQrhBvbkx7Xf13nYmt-4vik.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABRtzb2RNKZ8WrbRcYcwZ5IWRO0Xb7ndyHU.&dt=1764603682842
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEEaULNIXxJ-AqzIfDbm9vkRgFHj1CPzxnXx65Ne2pADbl_JW5LSl9FaSjePV1_26hlRqhmPcpYGirj2Itfhf-BltpvcmLz7L9OUb1T4uGbnmVCcxksLFk1eo6wwloYh_H6--M9n6QcilNma2ljQVtDLW
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+13:35:47+GMT-0300+(Horário+Padrão+de+Brasília)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ca89355-aff0-4d6e-bef5-171fe89b9908&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=3&geolocation=BR;MA&AwaitingReconsent=false
+

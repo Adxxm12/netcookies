@@ -1,0 +1,14 @@
+# Email:       opusbaron98@gmail.com
+# Country:     🇫🇷 France
+# Plan:        Premium
+# Profiles:    BaronHorn, English (France), United States, Charles III, Elver Galarga
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKLA1SqippjJb-Ucpb3QIvkmSFZz4QR8vYM3LuiV9jspWtoC-KjhRzfwO8Pj3Ovi9HKQSrDMsylufQlaVUYrKsz3GqqsYSMMRk1-9M8QlYo1wJ6XnLexEpLg4XsJ6XpO_VX7daPJswAJqgWohcgDi54Geps55fY0-GFv7gTVYDL8H3o2WFHHwgP5yLKocecItJ8fNaF_3t7ZTlhiJydqDhRn07K1yEkCxi1yUtGqS76C9gapF4AVVRsmKt7RdzMwuxZtMvu76oZdbU98qbOdrCLJv-YiQea43pQ6JyRP1KzeUdVEGRnx22xZT22BVjOvvVEb4TuCWTUVLqEUrry-Y3KI15L08H7GyaLG2-AipanRL0W8RuFDW5srSGl39WsSTG2-VuBiYOaU5QhOLdvy9xowktBDkUoS34IBpcsXjD4US1OiKWTrGJ2xbiWsv5kMB7PgtpIT8TUeHY6mgRml02FUDvLy-hcD7V81M18CFgDHZFokrED6Bfqth6HlSYdWdekGcn2UWZSBV-SCd8zGAYiDgoMygi6Sqq_1F1DAgat&pg=N2KRX6QGEVFL3LYWNUQVL2UTDQ&ch=AQEAEAABABTTrJ1C3j-g60PzHgAHcw8OQ1bKtFfOquU.
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEN3JeIfBXGjpM6AWzSNkNuVgge_hskCco6NhaNeSlUlrl8FCgr0oLhCXaj6qUEfQWMnlxkI06NavtB8JoVwBzg446MIpNUTnNAnekLyRaM3LPemqaiISRj4pRUNUaSm9e-G42Q3ekIQsyCs9qJPZ3GM2
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+19:28:02+GMT+0100+(hora+estándar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b63811a9-bc16-4c0f-a8a0-0888a5362d41&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=1&geolocation=FR;GES&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSsHpaSXspYy7ou6N07C8jru8x98v6nCYc.&dt=1771871281043
+

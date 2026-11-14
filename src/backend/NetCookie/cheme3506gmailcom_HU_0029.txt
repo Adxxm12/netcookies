@@ -1,0 +1,19 @@
+# Email:       cheme3506@gmail.com
+# Country:     🇭🇺 HU
+# Plan:        Premium
+# Profiles:    MUAMAL, English (Hungary), United States, xd, Tfearce
+# Generated:   2026-11-04 06:02 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	OptanonAlertBoxClosed	2026-09-30T08:26:59.803Z
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEPL4COBzIq0B7yhLHQmFdmNgoW6b30EUNNjeNWGFSaIfce1CYdu7rOHz_vJYTh2WLj-Ha-OsqR-gTX2WlueCkBJOTuWKqFP6bGh9XOB5i3Y-c66rAvbRuv5mW15b-DRa1TVT4dDAyMMtD5u-R61YzjPF
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKDBCdN37WjGV4TKNmwjPSGM8wqIpmJIfQK42Ypfh6a85WZ45KUHKO3XYk9Y7KPJFS9M3UN-EJwNnByNJex7T3HBxu1D49BYwK06NThXrHsnBK4ip1jImnKWDdg9MmjdjfqALfUG2EQv7hPS6BXf6aS6kgDrVkkxld_axZYurGkoDmwO9GjgWI4l99QAEXN1fSXEwJoc-GnxIvTweXfZGYsEItwVUG7gDZNZd7iglt_Q0_ynjFw-DAZje_HaWQyZcF2NyKCjFy8in8xDGFjjQGOLS8t1hSV41WSFPptwmZxJCAdg4Solrx6TzlDVvNFQwLM5fDG8GK-Bsr9ZjUqSr7Zg6Ej62IugbNWCee4QVLg3Ui9s4LFJHDsdlVuV_53CprqGaB0sIg-Pud23Y2TPEnQSpvFxis5mMSrph5ZpSae19EYInpAymd1m7EyZAnT9RV80MEux5zZwoQvomI2JCkrNLBzXjCECl2LNDhKbUItyydANc40uDUFw-XcQTaefGBthLrlfPMc7Wbb6ZGS7cXRyZAZ40W6Mh2wEdEHGfHnc1bKgBsOVwrK9hRHC9aFlCw_F6q7wPBz5P8kfw-LI03w6dLyOS0gb5mVOqMYJkndGsSl0kUhPFoIq8eeZkWT24BGGSJyrVbCoYkIP3Xo-mh1bahLoUM4Cb4byt9O2cts1COfXnW-GAYiDgoMhCfDxKGruXyfMYl_%26ch%3DAQEAEAABABTfPYtNaEAkmlkx4XssnzXUHm8ic2aQ9ok.%26v%3D3%26pg%3DGH74BKYHIJHYTI4BFKPN6IWVKM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnfqX_B_ikqDhiUUrEt0RvfarifF0kQl8.%26dt%3D1791470347799
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+08+2026+18%3A19%3A43+GMT%2B0200+(%EC%A4%91%EB%B6%80%EC%9C%A0%EB%9F%BD+%ED%95%98%EA%B3%84+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c7fb69fe-dfa5-4aef-8ff3-278f1246ff78&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1790756819&intType=1&crTime=1790756820239&geolocation=HU%3BBU&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	0	profilesNewSession	0
+

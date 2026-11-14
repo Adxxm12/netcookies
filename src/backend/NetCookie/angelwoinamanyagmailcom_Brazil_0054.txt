@@ -1,0 +1,11 @@
+# Email:       angelwoinamanya@gmail.com
+# Country:     🇧🇷 Brazil
+# Plan:        Premium
+# Profiles:    Español de México, United States, Google Pixel 6 Pro, out my account, holf
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKdA-n77dAVBfhX_4zGk8KIrEFKE3A10rV80AEXB9iUmCP_osFKnhNzWP18lO3_bf0X1LJtg2nzMZOab1eRgbk-dMsSi_98yj8V3-UFUy-aewjZ-0RNAQKmuP9G5i7SUhdjjrMcQBm9Ru3Zx4fWSy3Z-hyAk2vUtovMwgnaShBZlgpLiv_HXSM3lm-t-Gia5zRNS-YMFfTtamGfJV6PuOzkLKm_ERxWzeuv7zVgZbYk-pWjFCLA-hNiBc2I_esycPjiEU8i1if87NiuIo6OTWFoC9NFI5qSEgPCUVfH9FMxLqXwK4qg8mR4mRztCF5u7_L9JvbvaUOVSiCTk3xjNX6-NqZTCCCE7t1RwpSVICViCi3Z_bL2VM_8Z2IblJGVJZUvwicTf9RNISgZtfRKk8XQrSEVxYpatsYiBZoJJacCZUcfp2OjSM-b99JY7RpDfHT2cS2B3tCDeYIDRTAJ_nodeWGJHOdIYNhSZx-sD2dqwrLA4Z0FgUAhMG30pEZLnnqP66_E6dnN8YuJokC0POAIDEJ4tO6X2kUgDCHstQSIGAYiDgoMw6hnTU6_oPwxs3IU&pg=YMLT4ZH3IFHADAX7QEEGVNPVLY&ch=AQEAEAABABT7_lpykwjHM7ajnMjhdvgrTEa8x_suzw8.
+

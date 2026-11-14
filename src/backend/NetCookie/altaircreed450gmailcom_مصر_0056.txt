@@ -1,0 +1,14 @@
+# Email:       altaircreed450@gmail.com
+# Country:     🇪🇬 مصر
+# Plan:        Premium
+# Profiles:    English (Egypt), United States, Premium
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEDccz22EJjFrGQyhONmGwWpgeq6l4-wXlh7c-XXwTQRM4PTv1PiA8MN_OFpF8m1el8ZcDuiuDH6X1ZYdgy5P8XAPGdWAr4GSo0b4vBR9_c9RT8gdgWmZXGOZwJeTuj1lf-xbEF_1AVbPGjYvr3ygHs85
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+13:43:22+GMT+0400+(Gulf+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2b035e5-96d5-419e-b3f7-173ca0b2fb8a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001:1,C0002:1,C0003:1,C0004:1&intType=1&geolocation=NL;NH&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxKJBHacWb5Bq3QNqi4fe4OBFKn1ocYXJSIVHImF4n_aA2shLrBBnJZrEaP8ipZhqqu801u1i_FAIPtdWRJVuHIBhb3fCKz_60gMa-UIMzd3dlr-43MV-Sq2btYI15DJpk0YWlevc2MBnpPgTcLgizSKrROb_Z7Pkd8wo0IYVFX02CN02Q90nq-KTKGJ52GLE2OnlmNYi-plPatyqRMHGyoJsRXpDs1wBRLRXCgSCy7Ea5M6LPCAMNIFozi8zNCyk8oZMnNCrOL0HmiP6Pe0Ezy6R6boGRaqwetRoUdZqvqtJ6q9kFc_2e8nCEtOP0J4U4KivT-7ewYFQD-4swZDg338wfksIQ-sYdKW79X6ZMorq1YTyPhnzjfd9OkEY3nA2tPfIAzcFgEpH-g33J5KkvP9AOz5IplyD0d7aQk2uD1ChZWbe7Wdby3FHrGZb7fiWEvYdRAZsWSTexLfwCbpBUzXB8heQqqFt6nV5rdwjgtrSEh2zeU1EcSdBgW6daCh4PRECgRaRudGD5j3vQ3HA4cFBnaqpADMi17ueRZzdv9bEhkIziwL6mxA0KeivOrjvH1tIv9jTKrnp4bSohC9NQiWOS2AYs5awZ6F6zmm018fduYol2idWBCQpzk5pNBfQsCDD2RJTTYKgDXpc-JMQA4OZPwUMRBJskcDcCNslmlmPP2daBG4SGAmH0SaGAYiDgoMbPi6ElN2RLHZVfz8&ch=AQEAEAABABQ_lPREgpMewq9A826UPsO9LfBkp6VsI1A.&v=3&pg=JUG2373EHNEBXGFGKFUKTPQK6E
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSNWRP-FayT4XMoga7IBBPwYQAkSxtN9VA.&dt=1781028095343
+

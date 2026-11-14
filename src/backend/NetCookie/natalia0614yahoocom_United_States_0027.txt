@@ -1,0 +1,14 @@
+# Email:       natalia0614@yahoo.com
+# Country:     🇺🇸 United States
+# Plan:        Premium
+# Profiles:    Mom, American English, United States, Michael, Lily
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEKI6X5t61sWPO_dd5VaY17tgnWkw0thoDBNz1c3saJuxvc4Z3yTbZt_lbUQusSmpzDT0ueNE4oQ6XNvXIHmf8cdNldjwDEh-VpkpNQtdOgQmTHvADbInu0JkDm4KqM2ug3ZNr9Utxdlxlu2CoOKbiEmM
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+10+2026+16:44:39+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bf55c9ed-10f0-4348-9669-229bfb97d7ab&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&crTime=1783157469030&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxL9A_eLkfTHtYRp41bSt6pl5vz3YcjXuejSInR6-cbsbSfweAWA805LTW2wX3gluvQaXcjFtXuThaXAuvFFcn4Qef1bw5FRikDACeWHAJZZL3pR9RXW45IMzAOCz9Z_5_2j8x8QX-NIOmHK3KIVRSbUmUe8QtvH5sJJUcMv4jl4nCPN7BNDDrncGung0ETEYvAvDUrfqBt3sWOfA-DgvSqfEEGd2iWroV7ok4z29deB1_R8pQPw3c1kKVycNWRMSHZbqpdAvNbnAKRm_UBmdzYg0p2TpNmJfVdqZ8xtaYMwJHuo-nUrIqFEAa1ZKhyavsapeNf6NP41ZLem1baybykXPz9iOqBJ3-couihXtnyMKLjE1_mz75ZGudJzuIUNtkaboU3ZYiBumwKqoo80CKpE1DiK4-2MVnaHMODLh0SHIQ9l-LPBLK7tdCZtZEWO98AUXM7ifqx9PtDDzx6IkaDfj9H61b5x7u0y6kueSAmLeNhoVZEHZQmVlFFJjHbGgvM6zy5fmvMRL_FP7ITqqKxsbDqLU3ZvewBNShm9CRnyosQRq8qmjZPiFhZRCJQQbcncGK9oILk2_j0pphIGsnmrHnxODx435zxW_1rd4NHbxP1bmN0FsIe9-6FDdapm0JSqFTENuV46q0h5R5AAlIguJOAWGn8vkNeE4SXpAmlGGAYiDgoMIzCVSv8MEZnI21gy&ch=AQEAEAABABSBBj1e1F76nIUoMkOacd4gnRUmmvpN7mM.&v=3&pg=C4YON3TLLZCSZGRTH4GLDLXUNE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABRO9cmtNDW6t9DammmBmtPlHx4Tqr_R5o4.&dt=1788012162648
+

@@ -1,0 +1,12 @@
+# Email:       tsv.pavlov@abv.bg
+# Country:     🇧🇬 BG
+# Plan:        Premium
+# Profiles:    Rowen, English (Bulgaria), United States, Od, Frenxch78
+# Generated:   2026-11-06 02:50 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxLPA1dRSB38jcvWzs-cvCiuUFqnPNuwR5oYlJjGnElVd1B_k3e5lzkz8AcGZLLR_zqAKO6UzsoNCcUHXtx_3ReLeMvGfoZhK3y1tL6ai4EJFOS5LhUqMoCjNi_bd7LFjUQH30tzyGyZmBzxfX-KKnSMIvTPTy7HPRCbZjWsIY9mEMiATdEm_g8b6eWJW6WOD6hnkbVSo0SFoS6b-UAGQ3obnIbvvEWrXV6xBEwqnT6EJe6JvpPiKZC7t_-mhwIdjv1Fds7R_BIXOYt9hBIQ8Zkr7p8y2eH-pYpuYao_7JgeR8CZYUwxsyQ_sgptQVJQzZICCF6lI6f0rAzHSk9-g4C5doIE82u49j03Q0Op3eYYwYDenGMHF8w8Z5kapRvvRH6ys09755IZMQK34ZWx62FmjvA6CsXFVMBtUTYCDwTSDdl29v01jtLH8t_4zxOc4xKTvSXsxGGJOZ3cR3EpCkExF58s2hwyUpaCBmrjWWgGnfg-Tkckc3RDFBz59jWYHTqIEaO6dOjs0wBMpO1RNxaXAe55xR8TVDNGjDhbjhGrzrt4AgSNkZd1A9CSUGTibQyMq5FT-zfxOeulaW7EX_q2UViHFEvF5D5CZiT3gYC23LUYBiIOCgxUFLBJVPAs-FjAoIQ.&ch=AQEAEAABABQEzB2Mwyb-FHOBHD0q-qqCC11fOhha668.&v=3&pg=XXRKTIB4SFEVXMW26R5335X3T4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSkzChQGcGoQGQSB8UkYpk7q_Dt7qy8DBc.&dt=1773335923841
+

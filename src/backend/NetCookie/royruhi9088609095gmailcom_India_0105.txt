@@ -1,0 +1,18 @@
+# Email:       royruhi9088609095@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Basic
+# Profiles:    royruhi9088609095, English, United States, Children, Basic
+# Generated:   2026-11-04 06:04 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEB0O_18lKV-1w4kxMdHRJCZglGBByX8OHcmrWejb7HvimwKHHYJ8q5eoMqPfsEKNvtCLqx6HDFb3PHE0ISVVlOz9s56ZFhD5vRsPubpXIu6xlAy-axxPjdtCcXHa49V0Btw0wBqbGMtAn00TkpXs62Wl
+.netflix.com	TRUE	/	TRUE	0	gsid	44af23fc-f6bf-4d6c-bd9c-6819f54ae196
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+31+2026+17%3A38%3A15+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d6f4194-c286-4874-be71-6a1fafd361b8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775748068922&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKPBMHBQ6GIgkm_PaXZVWs43v-awHJsipv1OaG-4JVAZu59HbT6aNOQRdkwHoHQrMoJRJA_S-CJFGBw4qAzMNwgrv1VY7zUj0zzcYSMzbXeeP5WRrC25aC1biftxa5LIMzCsm8-qhOwnXvo1Lvp61Zn0vdHWlOVk1iISLfXajQYh94Q6noC_Le0b0UPqnBVW9nJD0nA6EkzZYo01qZmILc7a5312p24BgjbMNJc9cQWFXAAwzroOqjntFXC7LVc_0oVak6Yh8qWWMw-A1ghxHB0G-nvaHKuYHoN2_qIMpE3WLR688aTh_AdinsMi4nx6tGeQGnpjHbzu_gpmdXaUbQ2fKg5PIb2ute8q0kmXYKZLwZcbxLBcQbAqoJmRDyCqawn0n_D6fxVnz4MjOL-nhXZf9wfY-5t0Z6Cs44Sf8JYaINgKzHciPd_LEjB8rBq0HqyW2o7Pn98jwZ-iMlOeFmwUe7MvpnXyUFii_-tM-PntTMMKYR6YEbFm_kQ4esLGl4JmD24rUFB9mK4HNct7FTaQmfoDshFSPUOYvjddgwMwo7IsgzdcQeJ6BJGBYLhkb9bWeAzKuf-9KeqWv1RcROpRyBW6sod3Zc6GL9Z5zY-msJSmKiUpxYZKmcr5p0vhUVSRTRtDV8KAMGbIoz6XHcv0SP-WU1QC131BY628Pdp9kHnAzGzcZ_FB-Y4hJC3BbdVGAYiDgoMc_slYNd-oaknXXka%26ch%3DAQEAEAABABTpj0x4afdM1v3tCTRBFkFRNfFnz_-dSfk.%26v%3D3%26pg%3DDZCRX4USWZHTXLV4B4BYVTCJ3Q
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFVJ2n0bZlPe0m3cywWlULpzD8KAyJOHA.%26dt%3D1793450359920
+

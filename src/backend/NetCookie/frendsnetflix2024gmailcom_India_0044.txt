@@ -1,0 +1,14 @@
+# Email:       frendsnetflix2024@gmail.com
+# Country:     🇮🇳 India
+# Plan:        Premium
+# Profiles:    Sg-Dm, English, United States, Samsung Galaxy A03s, Samsung Galaxy A06
+# Generated:   2026-11-06 02:52 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v=3&ct=BgjHlOvcAxKiA1wLbTTIMMamyD5Frj4IjbX4lN6bVW2UW5wtpIcuAvVRfDukLo9axHFtORvOVxQDiAOKds-bBRH9uqY89T1zJmbDfMuKTqZyU_LOX08gdlmXmS86X4iCBhv-8jFfI4VO0ONaHKXlGfIdXKtZQZt0AT9oYDLDSFlKqrgsxHnfHbSf9ZI29k334n5VWo6mm618BqbCiwtkWI0aluBlc6INuaLiE28KN15a1ta-82TlhqrOxaXRBFa6Y0mUFw6ZmM26p_9xqYgWSBm8ShJ5GPta1KhmkOBkDjFbqi5A-qRTzGRYBFREV_vSTLRi4GvRRf3JaiUaDGQ6laWJEwn9Q287T1HA4a_FLK4I98ZMMpCq6fuzps12Ce9XHhNp09_ooIqEOPEHh6z2UQ3jPOaXRKrDBEiufIgHPrVORksmxQs_QfMmkaOoQQ-p4NHyQ6VqvckVYa-mkoo-2mny2HBOVmxYaf78kANwHLsy_Por6jDOSBgIE2KrfTxag4GAIH14V82jEn16Cm3KwXqotn9qg0Kv5Xne0puNCiYtdmkMgGVRpgHM9PYYBiIOCgyma7dssf1Mnlntf1w.&pg=5562LGPNDNBWLIQ6FVJWZBRMRY&ch=AQEAEAABABQvk0DFZp-mePzMWkzvqq7VZB7Z-q9ABI4.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABS0JiiiMU764obVJ_YA-9yenoKrXIbXaUw.&dt=1793104306131
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEFJ3xPjUEL7cmAavhsXDBPZgrPVoMy_-JVszeu3Nf0GgpREPiAoz7cTsa5j4pPzZ-geR-vP6fOfXH55E2qihzq_-rS1kBYWiW5HTnKfsRiX7WlPyhuzBDjgsM9QWkdmNfW6ZbU867Pv3omuitv0feqBK
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+27+2026+18:02:26+GMT+0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=87d60972-a81b-4ad2-a55b-c69b0bb54dd7&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false
+

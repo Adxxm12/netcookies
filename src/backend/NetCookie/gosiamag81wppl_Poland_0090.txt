@@ -1,0 +1,14 @@
+# Email:       gosiamag81@wp.pl
+# Country:     🇵🇱 Poland
+# Plan:        Basic
+# Profiles:    gosiamag81, English (Poland), United States, Miłosz, Gosia
+# Generated:   2026-11-04 06:04 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBgjHlOvcAxKBBHfrNm67yapURw7o9HUo9133BYdkKl_R-Zwj7ESCRsVGwFCZUzfsUAsqhR25-N75FJAWCZGdc__CK7dFWSvrJIwbNjZj2O8YbcgbBO__txVGEKO1G-MEfsu7HpOexc8nlGAgGsgE9rLwGlI0-pKiTjfQSEVpMMzO6H8WHjIBuDHVCP2Tn57VtDu5w6tAydxOP6G3ACA641a4KB6axdpIQdFTaUoyjKI69sDXE9NBNBwXeAjS0KmIP85hxWwJg_H6Jbwt0jwSkwd_GQWclRhApysCZXvUDCns3kGkc2N7rpSpPvIhsldVF1d0jy-cAkio--VcnHzutLkFnfcEdTMpXhwZPLeI1qRNLhl-h3auLcnoEe14j7Y00IrecW6hAi4hd76e1sxdASputrbr3ERKUoFfjzG8IgUEO2z7rLTa3mI4UcOmJWKR794nvelLldk5r0jNSm1M4C0qnqeiVHu5J19VZlbKTgXPxTfJEu02KhVAN5_o3r9H6x08JTHWeEIr41_2o05aP3KABuWsn6a4hUYK4ysmcqBxzxABoB5Txb0heL91PrqRpkuYJvv0JTcQsMIsxx95CeI8cevg9HixloNM3C1lHUCBW04QAPhEvdB43XHvxPhuHcoOSF7XobSbWQGIzG1KK4uZBmeWX5tW98NRHbjL2GCIpKLOJb3Z9QGWqRgGIg4KDKqz1Uz4sk2jjV5l1Q..%26ch%3DAQEAEAABABSqeOF-2izYa9pZi_lkOBORf54Z9YJc_hQ.%26v%3D3%26pg%3DL7PYDFGPEZCJDBCT4DYF7P6ODA
+.netflix.com	TRUE	/	TRUE	0	nfvdid	BQFmAAEBEL9Na8sESnte3E-40KYwk8tgaJwT9qfgw9DpV-kWn589aJByEA-ZQZxFjsN148qyszd7JOU-FgWhMLwm5tNUy2Hz85TvDBqLzAqQUw12RolaF6WuxGNEMNeTdpcAMHLwq-Dq2sHf2sRuoHwvggXHOHkL
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+03%3A04%3A38+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61654349-fc2a-45f1-a3b0-554435dba408&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B20&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnBtZnOA0hL8WGbeOeb1mmhtP71KPEru4.%26dt%3D1788453350076
+

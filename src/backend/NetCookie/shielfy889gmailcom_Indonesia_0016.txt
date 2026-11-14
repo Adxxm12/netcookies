@@ -1,0 +1,13 @@
+# Email:       shielfy889@gmail.com
+# Country:     🇮🇩 Indonesia
+# Plan:        Premium
+# Profiles:    LS, Indonesia (Indonesia), United States, Family, Me
+# Generated:   2026-11-06 02:51 UTC
+
+# Netscape HTTP Cookie File
+# Domain: .netflix.com
+
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct=BgjHlOvcAxLoA_LW-EYl-jwtZgSHJzWYoKSIYEQKAKINezn2pcVyeFX5-1XcQxDRg7XPE6b64UDfhuKrN-KBOWAW3BRUWLC3BBuXrIeT9Cp6fLTIeMe7zWMcMnYwX4jEe8MqOaHNUV3HUUH1gvXp2a48mtUk1E34P6LXzuesUqdXP53CFV5iXltHWwvqhUOV_bVHU5ZScofzq2Zcsoq0Je6ESo7EdIMqApGycyvXudYjeI-G-_o4K5J1sHcKLpPONkEVsibJJHz8Mbdt8ibgW1efUUdRvBER1YNvEGxUPerQ_nQuhssFk_pfkZMkwUZnksXazItgWB-A_oEuyqJ2XcIDBoIhlC_gMvPpSqhoGQJoMHSaGeiELeZAdTw9FZHZjinkHAsTEWcSDhe2JR2bHworjAqAI4GA1KA96xY7XHGkqC7ArmzQ7aSPIdZtx7C6lcCIXDF-w2aN4WETibTuCDKqiR20lydUM7-800qxWSoPiWL9cYXdGSlsofklSVdhBrbaWZl3BfyzmJP1PAsvL0j4xnM_kk7_pEsgoEN_HBN5qKxXIwTaR-7VHVZeh8xdmxjiOdcLMmzUYX8dvSKtGPOY0o2c2S2jK72Xz1dFc24OtCB7FRYy4UlLWAxDwKky6IrKtsD_I78tSslAmRWEXhf2GAYiDgoMaWrRKkW-fdPXTZoK&ch=AQEAEAABABRvBHrvMheFUu16yRwUFM4zFmZsXyDE8uw.&v=3&pg=OLBNN4FUZJBXRPQ6Z6USDE2EOQ
+.netflix.com	TRUE	/	TRUE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+07+2025+18:14:45+GMT+0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fde0523b-bb32-4de8-b06a-05f5deb132cf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1,C0002:1,C0003:1,C0004:1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSt-D9SN6ihkE1YQJ0vDQdAjw517jOj6ns.&dt=1762514078125
+
